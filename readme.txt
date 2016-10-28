@@ -9,7 +9,7 @@ A case study on the GitHub scientific Python ecosystem", including:
 * Survey Analysis: the detailed description of the online survey and a summary of the survey responses
 * cross-project bugs: the 271 pairs of investigated cross-project correlated bugs
 * Statistical Comparision: the results of statistical tests for comparing the difficulty of fixing cross-project bugs and other bugs in terms of fixing time, number of participants, and number of comments.
-* numpy, scipy, astropy, ipython, scikit-learn, matplotlib, pandas£ºthe bug data of numpy, scipy, astropy, ipython, scikit-learn, matplotlib, pandas collected by the script "getBugs.py"
+* numpy, scipy, astropy, ipython, scikit-learn, matplotlib, pandas: the bug data of numpy, scipy, astropy, ipython, scikit-learn, matplotlib, pandas collected by the script "getBugs.py"
 
 3. figures
 * Dependency graph (Figure 3): Figure 3 in the paper which shows part of the inter-dependencies among projects in the scientific Python ecosystem
