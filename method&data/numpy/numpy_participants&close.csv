@@ -1,0 +1,1794 @@
+number,itype,close_author,close_time,close,close_type,related_pr,#comment,#participants,part_names
+7853,pr,,,,,['#7844'],13,3,"['charris', 'njsmith', 'cgohlke']"
+7844,issue,charris,2016-07-25T20:07:29Z,b9b42ee,close,['#7853'],14,4,"['cgohlke', 'pv', 'charris', 'njsmith']"
+7839,pr,,,,,[],4,3,"['mattip', 'charris', 'njsmith']"
+7822,issue,samuelstjean,2016-07-18T11:17:11Z,,close,[],3,3,"['samuelstjean', 'simongibbons', 'charris']"
+7821,pr,,,,,[],1,1,['charris']
+7819,issue,cgohlke,2016-07-12T21:52:40Z,,close,[],12,4,"['cgohlke', 'seberg', 'charris', 'juliantaylor']"
+7818,pr,,,,,[],3,3,"['emmenlau', 'rgommers', 'charris']"
+7817,pr,,,,,['#7819'],3,2,"['charris', 'juliantaylor']"
+7816,pr,,,,,['#7813'],1,2,"['charris', 'seberg']"
+7814,pr,,,,,[],1,1,['charris']
+7813,issue,charris,2016-07-10T18:03:33Z,,close,"['#7816', '#7820', '#7824']",34,5,"['cgohlke', 'charris', 'juliantaylor', 'pv', 'seberg']"
+7809,issue,emmenlau,2016-07-11T06:06:05Z,,close,[],10,2,"['emmenlau', 'rgommers']"
+7793,pr,,,,,[],1,2,"['charris', 'ahaldane']"
+7788,pr,,,,,[],6,3,"['jzwinck', 'ahaldane', 'charris']"
+7760,pr,,,,,[],8,2,"['charris', 'mhvk']"
+7759,pr,,,,,[],4,2,"['jjdmol', 'charris']"
+7757,pr,,,,,[],2,2,"['charris', 'rainwoodman']"
+7756,issue,charris,2016-06-18T13:21:55Z,#7757,close,"['#7757', '#7175']",1,1,['charris']
+7747,pr,,,,,[],1,2,"['charris', 'daschaich']"
+7737,pr,,,,,[],1,2,"['charris', 'rgommers']"
+7736,pr,,,,,"['#7720', '#7738', '#7844']",3,3,"['charris', 'seberg', 'tacaswell']"
+7735,pr,,,,,['#7707'],3,3,"['rgommers', 'matthew-brett', 'charris']"
+7724,pr,,,,,[],3,4,"['charris', 'asanakoy', 'seberg', 'simongibbons']"
+7719,pr,,,,,[],10,6,"['simongibbons', 'rkern', 'seberg', 'mhvk', 'jaimefrio', 'charris']"
+7714,issue,charris,2016-06-08T00:13:54Z,#7715,close,['#7715'],21,3,"['aboettcher', 'charris', 'gfyoung']"
+7712,pr,,,,,[],12,3,"['krischer', 'charris', 'njsmith']"
+7710,issue,charris,2016-06-10T14:07:10Z,#7719,close,"['#7719', '#7724']",11,4,"['asanakoy', 'charris', 'njsmith', 'simongibbons']"
+7688,pr,charris,2016-06-03T17:07:56Z,c125956,merge,[],3,2,"['rgommers', 'charris']"
+7680,pr,,,,,[],1,2,"['charris', 'lesteve']"
+7678,pr,,,,,[],12,3,"['lesteve', 'juliantaylor', 'charris']"
+7676,pr,,,,,[],1,2,"['charris', 'rkern']"
+7675,pr,,,,,[],2,2,"['rkern', 'charris']"
+7672,pr,,,,,[],5,2,"['daschaich', 'charris']"
+7671,pr,,,,,[],1,2,"['charris', 'seberg']"
+7670,pr,,,,,[],1,2,"['charris', 'rkern']"
+7669,pr,,,,,[],2,2,"['seberg', 'charris']"
+7667,pr,,,,,"['#7670', '#7674']",2,2,"['rkern', 'charris']"
+7665,pr,,,,,[],1,2,"['charris', 'saimn']"
+7664,pr,,,,,"['#3939', '#7806']",9,3,"['seberg', 'ahaldane', 'charris']"
+7662,issue,charris,2016-06-03T17:08:11Z,e928bd9,close,[],5,2,"['victoriastuart', 'rgommers']"
+7660,pr,,,,,[],2,2,"['ahaldane', 'charris']"
+7659,pr,,,,,[],2,2,"['ahaldane', 'charris']"
+7658,pr,,,,,['#7621'],1,2,"['saimn', 'charris']"
+7648,issue,charris,2016-05-19T20:24:57Z,#7651,close,"['#7649', '#7651']",6,5,"['jakevdp', 'navneethc', 'ewmoore', 'mhvk', 'charris']"
+7638,pr,,,,,[],1,2,"['charris', 'rgommers']"
+7629,issue,charris,2016-05-14T16:51:28Z,,close,['#6595'],8,5,"['tadeu', 'jaimefrio', 'njsmith', 'rkern', 'charris']"
+7628,issue,charris,2016-05-24T16:29:19Z,#7667,close,"['#7667', '#7670']",15,3,"['rkern', 'charris', 'astrofrog']"
+7618,pr,,,,,[],2,2,"['ahaldane', 'charris']"
+7609,pr,,,,,[],3,2,"['eric-wieser', 'charris']"
+7606,issue,charris,2016-05-14T23:44:58Z,1e2bc0e,close,[],2,2,"['lovebug356', 'rgommers']"
+7598,pr,,,,,[],10,3,"['drasmuss', 'njsmith', 'charris']"
+7597,pr,,,,,[],1,2,"['charris', 'eric-wieser']"
+7590,pr,,,,,['#7707'],1,2,"['charris', 'ssbarnea']"
+7586,pr,,,,,['#7585'],9,3,"['eric-wieser', 'ahaldane', 'charris']"
+7585,issue,charris,2016-05-02T15:37:31Z,,close,['#7586'],6,2,"['eric-wieser', 'charris']"
+7584,pr,,,,,['#7707'],16,5,"['ssbarnea', 'pv', 'charris', 'dejlek', 'steveholden']"
+7583,pr,,,,,[],7,2,"['eric-wieser', 'charris']"
+7578,pr,,,,,[],1,2,"['charris', 'mlamarre']"
+7576,pr,,,,,[],14,4,"['ssbarnea', 'charris', 'pv', 'njsmith']"
+7568,pr,,,,,[],4,2,"['mlamarre', 'charris']"
+7565,pr,,,,,[],3,2,"['tadeu', 'charris']"
+7563,pr,,,,,['#7561'],9,4,"['tadeu', 'pv', 'charris', 'njsmith']"
+7562,pr,,,,,['#7561'],17,2,"['tadeu', 'charris']"
+7558,pr,,,,,[],1,2,"['charris', 'chiffa']"
+7551,pr,,,,,[],1,2,"['charris', 'matthew-brett']"
+7549,pr,,,,,[],8,4,"['matthew-brett', 'njsmith', 'zerothi', 'charris']"
+7535,pr,,,,,[],1,2,"['charris', 'nforro']"
+7530,pr,,,,,[],1,2,"['charris', 'simongibbons']"
+7528,issue,charris,2016-04-08T16:08:00Z,#7529,close,"['#7529', '#7530']",4,2,"['simongibbons', 'charris']"
+7522,pr,,,,,[],4,2,"['splendido', 'charris']"
+7515,pr,,,,,['#7819'],5,3,"['ahaldane', 'charris', 'cgohlke']"
+7506,pr,,,,,['#7498'],2,3,"['charris', 'njsmith', 'ev-br']"
+7496,pr,,,,,[],5,4,"['ewmoore', 'matthew-brett', 'jaimefrio', 'charris']"
+7493,issue,charris,2016-05-23T17:12:34Z,#7659,close,"['#6053', '#7659', '#7660']",9,3,"['kawing-chiu', 'ahaldane', 'charris']"
+7482,pr,,,,,[],9,4,"['simongibbons', 'jaimefrio', 'seberg', 'charris']"
+7475,issue,jaimefrio,2016-03-29T13:20:09Z,#7481,close,['#7481'],1,1,['jaimefrio']
+7468,pr,,,,,[],8,3,"['jaimefrio', 'seberg', 'charris']"
+7466,pr,,,,,[],2,3,"['jaimefrio', 'seberg', 'charris']"
+7463,pr,,,,,"['#7546', '#7813', '#7816']",3,3,"['seberg', 'jaimefrio', 'charris']"
+7462,issue,charris,2016-03-26T00:28:45Z,,close,[],5,3,"['denfromufa', 'charris', 'shoyer']"
+7456,pr,,,,,[],4,3,"['jaimefrio', 'seberg', 'charris']"
+7451,issue,jaimefrio,2016-03-26T20:19:48Z,#7463,close,['#7463'],8,3,"['jaimefrio', 'mhvk', 'seberg']"
+7447,pr,,,,,['#7449'],5,2,"['ewmoore', 'charris']"
+7445,pr,,,,,[],2,3,"['jaimefrio', 'seberg', 'charris']"
+7439,pr,,,,,[],8,4,"['seberg', 'charris', 'njsmith', 'arokem']"
+7429,issue,omtcyfz,2016-05-23T10:48:23Z,,close,[],6,3,"['omtcyfz', 'charris', 'pv']"
+7425,pr,,,,,[],1,2,"['madphysicist', 'charris']"
+7423,pr,,,,,"['#7416', '#7411']",16,3,"['madphysicist', 'charris', 'njsmith']"
+7416,pr,,,,,['#7411'],8,4,"['madphysicist', 'njsmith', 'charris', 'nayyarv']"
+7412,pr,,,,,[],1,2,"['charris', 'seberg']"
+7407,pr,,,,,"['#7402', '#7465']",9,3,"['seberg', 'charris', 'njsmith']"
+7404,pr,,,,,[],32,7,"['haypo', 'pv', 'seberg', 'charris', 'juliantaylor', 'njsmith', 'arigo']"
+7373,pr,,,,,"['#7229', '#7322', '#7381', '#4696', '#5250']",16,6,"['charris', 'jaimefrio', 'seberg', 'madphysicist', 'njsmith', 'xflr6']"
+7362,pr,,,,,[],7,3,"['janfb', 'seberg', 'charris']"
+7361,pr,,,,,[],2,3,"['golnazir', 'seberg', 'charris']"
+7358,pr,,,,,[],27,4,"['chiffa', 'charris', 'njsmith', 'WeatherGod']"
+7351,pr,,,,,[],3,3,"['ahaldane', 'mhvk', 'charris']"
+7350,pr,,,,,['#5769'],17,5,"['ahaldane', 'charris', 'mhvk', 'seberg', 'njsmith']"
+7349,pr,,,,,[],6,3,"['ahaldane', 'charris', 'mhvk']"
+7337,pr,,,,,"['#7336', '#7316']",10,3,"['jakirkham', 'njsmith', 'charris']"
+7336,issue,charris,2016-02-25T18:40:10Z,,close,"['#7324', '#7337', '#7338', '#7343']",9,4,"['njsmith', 'jakirkham', 'shoyer', 'charris']"
+7334,pr,,,,,[],1,2,"['charris', 'cgohlke']"
+7332,pr,,,,,[],4,2,"['simongibbons', 'charris']"
+7325,pr,,,,,"['#7406', '#7460']",30,6,"['gfyoung', 'seberg', 'shoyer', 'njsmith', 'jreback', 'charris']"
+7323,pr,,,,,[],4,3,"['cgohlke', 'njsmith', 'charris']"
+7316,issue,charris,2016-02-27T17:32:23Z,,close,['#7323'],3,1,['charris']
+7312,pr,,,,,[],17,6,"['astrofrog', 'ahaldane', 'njsmith', 'seberg', 'charris', 'homu']"
+7308,pr,,,,,[],18,4,"['madphysicist', 'seberg', 'njsmith', 'charris']"
+7305,pr,,,,,[],3,3,"['ssbr', 'charris', 'juliantaylor']"
+7297,pr,,,,,[],1,1,['charris']
+7290,pr,,,,,[],1,1,['charris']
+7288,pr,,,,,[],1,2,"['charris', 'gfyoung']"
+7287,issue,rgommers,2016-05-22T17:22:16Z,#7655,close,"['#7655', '#7656']",23,8,"['hajgato', 'jakirkham', 'juliantaylor', 'njsmith', 'dzagorny', 'charris', 'boegel', 'rgommers']"
+7285,pr,,,,,[],10,4,"['gfyoung', 'njsmith', 'jreback', 'charris']"
+7278,pr,,,,,[],2,3,"['gfyoung', 'seberg', 'charris']"
+7274,pr,,,,,[],4,3,"['gfyoung', 'njsmith', 'charris']"
+7271,pr,,,,,[],4,3,"['ahaldane', 'gfyoung', 'charris']"
+7266,pr,,,,,"['#7291', '#7393', '#7397']",8,3,"['ahaldane', 'charris', 'anntzer']"
+7264,issue,charris,2016-02-19T15:01:20Z,#7266,close,['#7266'],27,5,"['anntzer', 'charris', 'pv', 'ahaldane', 'gfyoung']"
+7260,pr,,,,,['#7267'],7,3,"['gerritholl', 'ahaldane', 'charris']"
+7258,pr,,,,,"['#7284', '#7709']",5,2,"['charris', 'pv']"
+7254,pr,,,,,"['#7271', '#7284']",9,3,"['gfyoung', 'ahaldane', 'charris']"
+7252,pr,,,,,[],1,1,['charris']
+7237,pr,,,,,[],18,3,"['charris', 'njsmith', 'mhvk']"
+7224,issue,charris,2016-02-21T03:36:10Z,735174b,close,"['#7237', '#7258', '#7297']",19,5,"['pitrou', 'charris', 'argriffing', 'mhvk', 'njsmith']"
+7205,pr,,,,,[],1,2,"['charris', 'madphysicist']"
+7204,pr,,,,,[],1,2,"['charris', 'juliantaylor']"
+7194,pr,,,,,['#7164'],59,5,"['jakirkham', 'seberg', 'charris', 'njsmith', 'ahaldane']"
+7187,pr,,,,,['#7164'],15,4,"['seberg', 'njsmith', 'charris', 'homu']"
+7180,pr,,,,,[],15,4,"['madphysicist', 'charris', 'njsmith', 'jakirkham']"
+7178,pr,,,,,[],31,5,"['gfyoung', 'ahaldane', 'seberg', 'njsmith', 'charris']"
+7175,pr,,,,,[],10,4,"['rainwoodman', 'charris', 'juliantaylor', 'njsmith']"
+7166,pr,,,,,[],1,2,"['charris', 'madphysicist']"
+7157,pr,,,,,[],2,2,"['gfyoung', 'charris']"
+7155,pr,,,,,[],2,2,"['charris', 'njsmith']"
+7154,pr,,,,,[],1,2,"['charris', 'seberg']"
+7153,pr,,,,,[],1,2,"['charris', 'bertrand-l']"
+7152,pr,,,,,[],4,3,"['bertrand-l', 'njsmith', 'charris']"
+7149,pr,,,,,[],10,4,"['seberg', 'juliantaylor', 'rgommers', 'charris']"
+7129,pr,,,,,['#7163'],11,5,"['madphysicist', 'charris', 'seberg', 'njsmith', 'juliantaylor']"
+7127,issue,charris,2016-01-27T22:35:39Z,6770f98,close,['#7131'],12,4,"['charris', 'rgommers', 'Ivoz', 'jaraco']"
+7119,pr,,,,,[],5,3,"['gfyoung', 'rgommers', 'charris']"
+7116,pr,,,,,[],4,2,"['gfyoung', 'charris']"
+7108,issue,charris,2016-01-24T19:07:58Z,#7109,close,['#7109'],2,2,"['argriffing', 'charris']"
+7095,pr,,,,,[],1,2,"['charris', 'xdmiodz']"
+7092,pr,,,,,[],5,2,"['xdmiodz', 'charris']"
+7091,pr,,,,,[],4,1,['charris']
+7089,pr,,,,,[],2,2,"['charris', 'xdmiodz']"
+7088,pr,,,,,"['#5626', '#7575']",25,3,"['jakirkham', 'charris', 'mgeier']"
+7078,issue,charris,2016-01-21T17:19:33Z,,close,[],9,2,"['bstdenis', 'charris']"
+7061,pr,,,,,['#7060'],13,3,"['madphysicist', 'charris', 'seberg']"
+7060,issue,seberg,2016-03-05T13:14:35Z,25dd5e5,close,['#7061'],14,3,"['madphysicist', 'seberg', 'njsmith']"
+7055,pr,,,,,[],15,4,"['gfyoung', 'jaimefrio', 'homu', 'charris']"
+7053,pr,,,,,[],2,2,"['tushar-rishav', 'charris']"
+7031,pr,,,,,[],1,1,['charris']
+7028,pr,,,,,['#7021'],3,2,"['sam09', 'charris']"
+7022,pr,,,,,[],1,1,['charris']
+7021,issue,charris,2016-01-16T16:49:35Z,,close,[],6,4,"['will133', 'charris', 'mwiebe', 'sam09']"
+7019,issue,charris,2016-01-21T16:42:18Z,,close,"['#7042', '#7057']",21,4,"['shoyer', 'charris', 'jreback', 'njsmith']"
+7016,pr,,,,,[],2,2,"['andyfaff', 'charris']"
+7003,pr,,,,,[],19,4,"['gfyoung', 'jaimefrio', 'alimuldal', 'charris']"
+7000,pr,,,,,[],19,4,"['gfyoung', 'mhvk', 'shoyer', 'charris']"
+6976,pr,,,,,['#7173'],8,3,"['ewmoore', 'charris', 'njsmith']"
+6975,pr,,,,,['#6063'],3,2,"['charris', 'jakirkham']"
+6945,pr,,,,,[],1,2,"['charris', 'mwiebe']"
+6944,pr,charris,2016-01-05T23:25:51Z,347fc8e,merge,[],1,1,['charris']
+6943,pr,charris,2016-01-05T23:19:15Z,10361d1,merge,[],1,1,['charris']
+6942,pr,,,,,[],2,2,"['mwiebe', 'charris']"
+6937,issue,charris,2016-01-05T23:28:28Z,#6942,close,['#6942'],3,3,"['mghiggins', 'mwiebe', 'charris']"
+6925,pr,,,,,[],1,1,['charris']
+6924,pr,,,,,['#6922'],18,4,"['charris', 'njsmith', 'seberg', 'jaimefrio']"
+6919,issue,charris,2016-01-01T21:06:03Z,,close,[],3,1,['charris']
+6912,pr,,,,,[],6,2,"['gfyoung', 'charris']"
+6906,issue,rgommers,2015-12-31T23:16:20Z,a547d0e,close,[],3,2,"['kohr-h', 'rgommers']"
+6898,issue,charris,2016-01-05T16:29:02Z,,close,['#6900'],2,3,"['kohr-h', 'gfyoung', 'charris']"
+6893,pr,,,,,[],3,2,"['charris', 'rgommers']"
+6882,issue,rgommers,2015-12-29T09:26:27Z,#6893,close,['#6893'],9,5,"['charris', 'argriffing', 'njsmith', 'rgommers', 'insertinterestingnamehere']"
+6881,issue,charris,2015-12-30T21:46:41Z,,close,[],6,3,"['charris', 'gfyoung', 'njsmith']"
+6880,pr,,,,,[],2,2,"['charris', 'njsmith']"
+6864,pr,,,,,[],12,4,"['HWiese1980', 'charris', 'njsmith', 'matthew-brett']"
+6863,issue,jaimefrio,2015-12-20T06:35:50Z,8bc592f,close,['#6867'],3,3,"['fijal', 'rgommers', 'gfyoung']"
+6852,pr,,,,,[],1,2,"['charris', 'arogozhnikov']"
+6850,pr,,,,,[],1,1,['charris']
+6843,pr,,,,,[],2,2,"['charris', 'njsmith']"
+6840,pr,,,,,[],1,1,['charris']
+6837,pr,,,,,[],5,2,"['charris', 'njsmith']"
+6822,pr,,,,,[],1,2,"['charris', 'cgohlke']"
+6819,pr,,,,,['#6807'],2,2,"['cgohlke', 'charris']"
+6815,pr,,,,,[],1,1,['charris']
+6814,pr,,,,,[],1,1,['charris']
+6813,pr,,,,,['#6807'],3,2,"['charris', 'njsmith']"
+6807,issue,charris,2015-12-12T16:09:37Z,,close,"['#6813', '#6817', '#6819', '#6826']",19,4,"['charris', 'njsmith', 'matthew-brett', 'cgohlke']"
+6805,issue,seberg,2016-03-22T09:48:34Z,94a47c5,close,[],4,3,"['jaimefrio', 'gfyoung', 'charris']"
+6804,issue,charris,2015-12-10T18:59:20Z,,close,[],13,4,"['quakberto', 'charris', 'jaimefrio', 'njsmith']"
+6783,pr,,,,,['#6781'],2,1,['charris']
+6781,issue,charris,2015-12-07T21:57:35Z,,close,['#6783'],2,1,['charris']
+6774,pr,,,,,[],2,2,"['pv', 'charris']"
+6772,pr,,,,,[],1,2,"['charris', 'joernhees']"
+6770,pr,,,,,[],1,2,"['charris', 'ahaldane']"
+6766,issue,seberg,2015-12-14T14:20:27Z,,close,[],26,4,"['jor-', 'charris', 'pv', 'seberg']"
+6763,pr,,,,,[],6,3,"['gerritholl', 'charris', 'ahaldane']"
+6761,pr,,,,,[],2,2,"['gerritholl', 'charris']"
+6758,pr,,,,,[],2,2,"['seberg', 'charris']"
+6757,pr,,,,,[],13,3,"['ahaldane', 'juliantaylor', 'charris']"
+6756,pr,,,,,[],5,2,"['joernhees', 'charris']"
+6755,pr,,,,,[],6,4,"['gerritholl', 'mhvk', 'charris', 'ahaldane']"
+6748,pr,,,,,"['#3544', '#7621']",11,4,"['saimn', 'charris', 'seberg', 'ahaldane']"
+6744,issue,charris,2016-02-29T17:52:26Z,682a691,close,['#7332'],1,2,"['jburroni', 'charris']"
+6738,pr,,,,,[],1,2,"['charris', 'astrofrog']"
+6736,pr,,,,,[],1,2,"['charris', 'gerritholl']"
+6734,pr,,,,,['#6732'],6,2,"['saimn', 'charris']"
+6733,pr,,,,,[],4,2,"['gerritholl', 'charris']"
+6732,issue,saimn,2016-02-04T09:25:28Z,,close,"['#6734', '#3544']",6,2,"['saimn', 'charris']"
+6731,pr,,,,,[],1,1,['charris']
+6729,issue,charris,2015-12-01T14:34:35Z,#6733,close,['#6733'],2,2,"['gerritholl', 'charris']"
+6728,pr,,,,,[],7,4,"['gerritholl', 'ahaldane', 'seberg', 'charris']"
+6726,pr,,,,,[],2,1,['charris']
+6724,issue,charris,2015-12-04T19:49:36Z,#6763,close,"['#6755', '#6763']",2,2,"['gerritholl', 'charris']"
+6720,pr,,,,,['#6719'],7,3,"['gerritholl', 'charris', 'rkern']"
+6715,pr,,,,,[],1,1,['charris']
+6712,issue,charris,2016-01-08T23:23:44Z,#6976,close,['#6976'],6,2,"['argriffing', 'charris']"
+6711,issue,charris,2016-06-11T17:26:28Z,,close,['#7727'],6,4,"['clwainwright', 'badhrink', 'shoyer', 'charris']"
+6707,pr,,,,,[],1,2,"['charris', 'congma']"
+6706,pr,,,,,[],1,2,"['charris', 'juliantaylor']"
+6705,pr,,,,,[],1,2,"['charris', 'pv']"
+6703,pr,,,,,[],4,2,"['ahaldane', 'charris']"
+6702,pr,,,,,['#6701'],26,7,"['ahaldane', 'seberg', 'charris', 'astrofrog', 'homu', 'jaimefrio', 'njsmith']"
+6699,pr,,,,,[],5,3,"['stuartarchibald', 'juliantaylor', 'charris']"
+6697,pr,,,,,[],2,3,"['congma', 'juliantaylor', 'charris']"
+6695,pr,,,,,[],2,2,"['juliantaylor', 'charris']"
+6690,pr,,,,,[],6,3,"['lzkelley', 'jaimefrio', 'charris']"
+6686,pr,,,,,[],2,2,"['pv', 'charris']"
+6682,issue,rgommers,2016-01-16T11:34:24Z,,close,[],8,5,"['bsipocz', 'charris', 'argriffing', 'monkpit', 'rgommers']"
+6672,issue,seberg,2016-06-05T09:13:00Z,#7482,close,['#7482'],8,4,"['lfsimoes', 'jaimefrio', 'charris', 'seberg']"
+6662,pr,,,,,['#6701'],11,4,"['Iceman9', 'njsmith', 'charris', 'astrofrog']"
+6646,issue,charris,2016-01-15T01:58:04Z,0104646,close,['#6912'],2,2,"['charris', 'gfyoung']"
+6645,pr,,,,,[],1,2,"['charris', 'ahaldane']"
+6644,pr,,,,,[],1,2,"['charris', 'ahaldane']"
+6642,pr,,,,,[],7,2,"['ahaldane', 'charris']"
+6641,issue,charris,2015-11-06T18:21:22Z,#6643,close,"['#6643', 'saquiba2/numpy#3', '#6949']",2,3,"['aldanor', 'ahaldane', 'charris']"
+6626,pr,charris,2015-11-04T21:39:49Z,9d4fbcf,merge,[],1,1,['charris']
+6621,pr,charris,2015-11-04T21:27:54Z,615e66b,merge,[],1,1,['charris']
+6615,pr,,,,,[],1,1,['charris']
+6614,pr,,,,,[],2,1,['charris']
+6604,pr,,,,,[],1,1,['charris']
+6602,issue,charris,2015-11-02T19:39:03Z,6a09c85,close,[],1,2,"['zpincus', 'charris']"
+6601,pr,,,,,['#5200'],3,3,"['ignatenkobrain', 'mhvk', 'charris']"
+6596,pr,,,,,['#6590'],4,2,"['charris', 'ahaldane']"
+6590,issue,charris,2015-11-02T01:05:57Z,#6596,close,['#6596'],27,7,"['oeway', 'SIKz17', 'ahaldane', 'njsmith', 'charris', 'ewmoore', 'teoliphant']"
+6587,pr,,,,,[],9,3,"['rgommers', 'njsmith', 'charris']"
+6580,pr,charris,2015-10-29T18:20:17Z,7fe8a6b,merge,[],1,2,"['charris', 'pv']"
+6579,pr,charris,2015-10-29T18:15:38Z,8b4904e,merge,[],3,3,"['pv', 'charris', 'rgommers']"
+6569,issue,charris,2015-10-30T00:36:22Z,,close,['#6577'],25,6,"['wackywendell', 'charris', 'njsmith', 'rkern', 'rgommers', 'pv']"
+6563,issue,njsmith,2015-10-26T22:47:54Z,#6567,close,"['#6567', '#6568', '#6654']",5,2,"['rewquey', 'charris']"
+6553,pr,,,,,[],17,4,"['yashmehrotra', 'charris', 'jaimefrio', 'njsmith']"
+6551,issue,charris,2016-01-16T16:38:07Z,#6895,close,['#6895'],48,10,"['mdboom', 'juliantaylor', 'charris', 'cimarronm', 'njsmith', 'kyleabeauchamp', 'rgommers', 'pitrou', 'NelleV', 'jakirkham']"
+6544,pr,,,,,[],1,2,"['charris', 'dsanders11']"
+6543,pr,,,,,[],1,2,"['charris', 'jjhelmus']"
+6541,pr,,,,,[],1,2,"['charris', 'jjhelmus']"
+6538,pr,,,,,[],2,2,"['jjhelmus', 'charris']"
+6537,pr,,,,,[],3,2,"['jjhelmus', 'charris']"
+6527,pr,,,,,[],7,3,"['ethankruse', 'njsmith', 'charris']"
+6526,pr,,,,,[],9,3,"['dsanders11', 'rgommers', 'charris']"
+6504,pr,,,,,[],1,2,"['charris', 'ahaldane']"
+6500,pr,,,,,"['#6504', '#6636']",3,2,"['ahaldane', 'charris']"
+6490,pr,,,,,[],3,2,"['charris', '2sn']"
+6489,pr,,,,,[],1,2,"['charris', '2sn']"
+6488,pr,,,,,['#5876'],1,2,"['charris', '2sn']"
+6487,pr,,,,,"['#5877', '#5876']",1,2,"['charris', '2sn']"
+6481,pr,,,,,[],1,2,"['charris', 'mindw']"
+6461,pr,,,,,['#6569'],6,2,"['rgommers', 'charris']"
+6460,pr,,,,,[],3,2,"['behrisch', 'charris']"
+6444,pr,,,,,[],1,2,"['charris', 'cgohlke']"
+6436,pr,,,,,[],4,3,"['juliantaylor', 'charris', 'rgommers']"
+6432,pr,,,,,[],6,4,"['jjhelmus', 'ahaldane', 'rgommers', 'charris']"
+6427,issue,charris,2015-10-10T17:22:36Z,#6436,close,['#6436'],18,5,"['toddrme2178', 'charris', 'ewmoore', 'juliantaylor', 'rgommers']"
+6413,pr,,,,,[],1,1,['charris']
+6400,pr,,,,,[],4,2,"['jjhelmus', 'charris']"
+6386,pr,,,,,[],1,1,['charris']
+6376,pr,,,,,[],1,3,"['charris', 'MichaelCurrie', 'seberg']"
+6375,pr,,,,,[],1,2,"['charris', 'seberg']"
+6374,pr,,,,,[],1,2,"['charris', 'seberg']"
+6373,pr,,,,,[],2,2,"['seberg', 'charris']"
+6371,pr,,,,,"['#5771', '#6575']",2,3,"['seberg', 'charris', 'MichaelCurrie']"
+6362,pr,,,,,[],4,3,"['seberg', 'charris', 'njsmith']"
+6361,pr,,,,,['#7797'],8,3,"['seberg', 'ahaldane', 'charris']"
+6347,pr,,,,,['#6363'],3,1,['charris']
+6346,pr,,,,,[],10,4,"['ChristopherHogan', 'charris', 'njsmith', 'juliantaylor']"
+6343,issue,charris,2015-09-25T17:41:02Z,32a6b45,close,[],8,3,"['charris', 'pv', 'juliantaylor']"
+6330,pr,,,,,"['#6246', '#6632']",14,4,"['cjermain', 'mhvk', 'pv', 'charris']"
+6307,pr,,,,,['#5877'],9,3,"['2sn', 'charris', 'pearu']"
+6306,pr,,,,,['#5876'],4,2,"['2sn', 'charris']"
+6298,pr,,,,,[],7,4,"['nbeaver', 'jaimefrio', 'charris', 'rgommers']"
+6280,pr,,,,,[],2,3,"['pitrou', 'jaimefrio', 'charris']"
+6254,pr,,,,,[],6,3,"['njsmith', 'pitrou', 'charris']"
+6245,pr,,,,,[],1,2,"['seberg', 'charris']"
+6243,pr,,,,,"['#7287', '#7655']",18,2,"['dzagorny', 'charris']"
+6229,issue,charris,2016-02-20T19:01:07Z,,close,"['#6265', '#6269']",10,6,"['atomicpirate', 'ewmoore', 'pv', 'jaimefrio', 'springcoil', 'charris']"
+6224,pr,,,,,[],2,56,"['jaimefrio', 'charris', 'gfyoung', 'jakirkham', 'juliantaylor', 'gerritholl', 'shoyer', 'TwistedHardware', 'njsmith', 'andyfaff', 'rgommers', 'ogrisel', 'anntzer', 'jonathanunderwood', 'stuarteberg', 'zerothi', 'tushar-rishav', 'xdmiodz', 'alexbrc', 'dongjoon-hyun', 'gmarkall']"
+6221,issue,seberg,2015-08-26T13:16:39Z,447b619,close,[],6,3,"['cytsai', 'seberg', 'mwiebe']"
+6211,pr,,,,,[],5,3,"['yolanda15', 'charris', 'rgommers']"
+6169,pr,,,,,[],10,3,"['rgommers', 'charris', 'slishak']"
+6127,issue,charris,2016-01-16T22:32:54Z,#7022,close,['#7022'],30,5,"['mhvk', 'pitrou', 'charris', 'argriffing', 'anntzer']"
+6120,issue,rgommers,2015-07-30T17:01:33Z,,close,"['#6126', '#6270']",12,5,"['rgommers', 'jaimefrio', 'nayyarv', 'astrofrog', 'charris']"
+6112,pr,,,,,[],2,2,"['charris', 'jaimefrio']"
+6107,issue,charris,2015-07-26T14:50:07Z,de81da9,close,[],2,2,"['SuperFluffy', 'rgommers']"
+6095,issue,charris,2015-08-21T14:01:55Z,#6169,close,['#6169'],5,3,"['slishak', 'charris', 'rgommers']"
+6094,pr,,,,,"['#6019', '#6729', '#7493', '#7621']",14,5,"['astrofrog', 'ahaldane', 'charris', 'gerritholl', 'rgommers']"
+6063,issue,charris,2016-01-12T17:41:34Z,#6975,close,"['#6975', '#7653']",15,8,"['githubmlai', 'juliantaylor', 'fieryvova', 'ltnetcase', 'rgommers', 'ewmoore', 'argriffing', 'charris']"
+6062,issue,jaimefrio,2015-07-11T21:30:48Z,#6064,close,['#6064'],3,3,"['rgommers', 'njsmith', 'seberg']"
+6030,issue,jaimefrio,2015-07-09T00:53:57Z,#6031,close,['#6031'],3,2,"['pitrou', 'jaimefrio']"
+6026,issue,charris,2015-06-29T15:03:20Z,,close,[],3,2,"['JackKelly', 'charris']"
+6004,pr,,,,,[],3,2,"['mhvk', 'charris']"
+5982,pr,,,,,[],12,3,"['embray', 'charris', 'mhvk']"
+5969,issue,ahaldane,2016-05-22T00:46:35Z,bb46a49,close,"['#5769', '#7592', '#7635']",4,4,"['jeanconn', 'rgommers', 'taldcroft', 'AmitAronovitch']"
+5967,pr,,,,,[],14,6,"['wimglenn', 'seberg', 'pv', 'njsmith', 'homu', 'charris']"
+5963,pr,,,,,[],2,2,"['charris', 'seberg']"
+5962,pr,,,,,[],18,5,"['mhvk', 'embray', 'charris', 'seberg', 'ahaldane']"
+5960,pr,,,,,[],4,2,"['ahaldane', 'charris']"
+5958,pr,,,,,['#7093'],11,6,"['jaimefrio', 'seberg', 'nouiz', 'charris', 'njsmith', 'homu']"
+5947,pr,,,,,"['#4855', '#7641']",4,2,"['ahaldane', 'charris']"
+5946,pr,,,,,[],6,3,"['seberg', 'jaimefrio', 'charris']"
+5943,pr,,,,,['#5962'],17,3,"['ahaldane', 'charris', 'mhvk']"
+5924,issue,charris,2016-02-02T13:54:33Z,,close,[],10,7,"['sergii-gavrylov', 'charris', 'ChanderG', 'SaurabhJha', 'jaimefrio', 'yashmehrotra', 'maniteja123']"
+5921,pr,,,,,['#3581'],8,2,"['embray', 'charris']"
+5907,issue,seberg,2015-06-05T20:24:46Z,5bfc31c,close,['#5944'],8,2,"['charris', 'seberg']"
+5889,pr,,,,,[],2,2,"['jaimefrio', 'charris']"
+5886,pr,,,,,[],8,2,"['jaimefrio', 'charris']"
+5880,pr,,,,,['#5868'],15,5,"['argriffing', 'njsmith', 'jordigh', 'charris', 'alexbrc']"
+5877,issue,charris,2015-10-16T18:23:02Z,#6487,close,"['#6307', '#6487', '#6490']",10,3,"['2sn', 'rgommers', 'pearu']"
+5876,issue,charris,2015-10-16T18:34:44Z,81bdad0,close,['#6306'],17,4,"['2sn', 'charris', 'pearu', 'rgommers']"
+5865,pr,,,,,[],7,3,"['jaimefrio', 'njsmith', 'charris']"
+5858,pr,,,,,"['#5851', '#2056']",4,2,"['jaimefrio', 'charris']"
+5847,pr,,,,,[],7,2,"['christianbrodbeck', 'jaimefrio']"
+5836,pr,,,,,[],2,2,"['rgommers', 'charris']"
+5832,issue,charris,2015-06-03T16:10:18Z,#5912,close,['#5912'],3,2,"['rgommers', 'jaimefrio']"
+5831,pr,,,,,[],13,4,"['charris', 'matthew-brett', 'sturlamolden', 'rgommers']"
+5825,pr,,,,,[],5,2,"['charris', 'jakirkham']"
+5824,pr,,,,,[],1,1,['charris']
+5821,pr,,,,,[],5,3,"['behzadnouri', 'jaimefrio', 'charris']"
+5812,issue,charris,2015-04-30T15:24:18Z,#5815,close,['#5815'],4,3,"['berquist', 'rgommers', 'matthew-brett']"
+5805,pr,,,,,['#6062'],5,3,"['jaimefrio', 'charris', 'rgommers']"
+5804,issue,jaimefrio,2015-05-05T13:46:27Z,2a8efb1,close,[],3,3,"['chkothe', 'jaimefrio', 'rgommers']"
+5800,pr,,,,,[],4,2,"['behzadnouri', 'charris']"
+5790,issue,charris,2015-05-06T16:19:04Z,#5840,close,['#5840'],12,6,"['cdeil', 'rgommers', 'jaimefrio', 'charris', 'mhvk', 'njsmith']"
+5785,pr,,,,,[],4,2,"['jaimefrio', 'charris']"
+5771,pr,,,,,['#6575'],3,4,"['MichaelCurrie', 'seberg', 'homu', 'charris']"
+5768,issue,rgommers,2015-04-19T12:45:48Z,73471de,close,[],4,2,"['ewmoore', 'rgommers']"
+5766,issue,charris,2015-04-27T16:25:59Z,#5800,close,['#5800'],1,2,"['xiaoweiz', 'rgommers']"
+5762,issue,jaimefrio,2015-06-05T15:43:41Z,e2cd6fa,close,"['#5523', '#5548']",2,3,"['astrofrog', 'ahaldane', 'rgommers']"
+5760,issue,juliantaylor,2016-01-17T12:04:24Z,#5981,close,"['#5981', '#7180']",2,3,"['anntzer', 'shoyer', 'rgommers']"
+5753,pr,,,,,"['#6197', '#586']",14,6,"['empeeu', 'charris', 'homu', 'njsmith', 'juliantaylor', 'madphysicist']"
+5748,pr,,,,,['#5844'],13,4,"['mhvk', 'njsmith', 'charris', 'pv']"
+5747,pr,,,,,[],2,2,"['jaimefrio', 'charris']"
+5742,pr,,,,,[],7,2,"['charris', 'jaimefrio']"
+5737,issue,bastula,2016-02-01T05:00:42Z,,close,"['#5187', '#7145']",9,4,"['bastula', 'njsmith', 'charris', 'badray']"
+5732,pr,,,,,['#6710'],4,3,"['jmrosen155', 'jaimefrio', 'charris']"
+5731,pr,,,,,['#5725'],9,3,"['naritta', 'jaimefrio', 'charris']"
+5725,issue,jaimefrio,2015-03-30T05:57:46Z,,close,['#5731'],7,3,"['argriffing', 'jaimefrio', 'gmcastil']"
+5720,pr,,,,,[],2,3,"['cowlicks', 'charris', 'jayvius']"
+5719,issue,jaimefrio,2015-03-28T21:36:10Z,,close,['#5724'],6,4,"['cowlicks', 'charris', 'njsmith', 'jaimefrio']"
+5713,pr,,,,,[],12,2,"['cowlicks', 'charris']"
+5709,pr,,,,,"['#5739', '#5185', '#3219', '#6611']",23,6,"['abalkin', 'ahaldane', 'charris', 'matthew-brett', 'jjhelmus', 'abelopolsky']"
+5707,pr,,,,,[],2,2,"['jaimefrio', 'charris']"
+5705,issue,charris,2015-05-07T05:29:13Z,#5843,close,['#5843'],1,1,['charris']
+5704,pr,,,,,[],4,3,"['jaimefrio', 'charris', 'ahaldane']"
+5687,issue,charris,2015-03-21T02:14:30Z,,close,[],4,4,"['mieswicht', 'pv', 'ewmoore', 'charris']"
+5676,pr,,,,,[],2,2,"['jaimefrio', 'charris']"
+5673,pr,,,,,['#2368'],4,2,"['jaimefrio', 'charris']"
+5672,issue,charris,2015-03-13T05:06:07Z,#5673,close,['#5673'],2,2,"['mhauru', 'jaimefrio']"
+5665,issue,charris,2015-03-13T05:17:10Z,#5676,close,['#5676'],4,2,"['mhvk', 'jaimefrio']"
+5656,issue,charris,2015-06-19T03:01:26Z,,close,['#6377'],6,4,"['charris', 'njsmith', 'ahaldane', 'juliantaylor']"
+5655,issue,jaimefrio,2015-03-11T18:24:32Z,#5666,close,['#5666'],7,2,"['DavidPowell', 'charris']"
+5644,pr,,,,,[],4,3,"['rgommers', 'juliantaylor', 'charris']"
+5640,pr,,,,,[],7,2,"['pv', 'charris']"
+5638,pr,,,,,[],7,3,"['DavidPowell', 'jaimefrio', 'charris']"
+5626,issue,charris,2016-01-23T01:28:35Z,#7088,close,"['#7088', '#7098']",19,5,"['djrobust', 'charris', 'argriffing', 'alexirpan', 'jakirkham']"
+5623,pr,,,,,[],18,6,"['rev112', 'jaimefrio', 'juliantaylor', 'rgommers', 'rkern', 'charris']"
+5495,pr,,,,,[],5,2,"['charris', 'alanbriolat']"
+5467,issue,charris,2016-01-16T16:39:06Z,b27e9b1,close,[],8,5,"['pitrou', 'rgommers', 'juliantaylor', 'wackywendell', 'jakirkham']"
+5398,pr,,,,,[],18,6,"['Garrett-R', 'jaimefrio', 'argriffing', 'rgommers', 'charris', 'njsmith']"
+5386,pr,,,,,['#5354'],58,5,"['maniteja123', 'rgommers', 'argriffing', 'jaimefrio', 'juliantaylor']"
+5316,pr,,,,,"['#5656', '#5224', '#6377']",30,8,"['juliantaylor', 'njsmith', 'charris', 'cournape', 'matthew-brett', 'pv', 'stonebig', 'rgommers']"
+5250,issue,charris,2016-03-13T23:37:21Z,,close,['#7373'],10,5,"['bmerry', 'charris', 'juliantaylor', 'ischwabacher', 'xflr6']"
+5148,issue,juliantaylor,2014-10-04T18:35:55Z,#5149,close,['#5149'],2,2,"['bpires-ualberta', 'charris']"
+5082,issue,charris,2014-09-19T20:33:52Z,#5087,close,['#5087'],2,2,"['rkern', 'juliantaylor']"
+5010,issue,rgommers,2014-08-29T19:53:27Z,#5021,close,['#5021'],5,5,"['opoplawski', 'charris', 'Arfrever', 'juliantaylor', 'rgommers']"
+4890,issue,charris,2014-07-27T18:23:20Z,9e8c1ad,close,[],2,2,"['argriffing', 'rgommers']"
+4848,issue,seberg,2014-07-07T14:20:27Z,,close,[],14,4,"['gundamlh', 'njsmith', 'seberg', 'rkern']"
+4799,issue,charris,2014-06-30T01:44:15Z,#4823,close,['#4823'],3,2,"['eyurtsev', 'juliantaylor']"
+4798,issue,pv,2016-03-02T14:31:47Z,,close,['#4888'],3,4,"['frozflame', 'jakirkham', 'pv', 'rgommers']"
+4778,issue,charris,2014-06-04T22:36:18Z,#4782,close,['#4782'],16,4,"['taldcroft', 'seberg', 'juliantaylor', 'rgommers']"
+4753,pr,,,,,"['#5844', '#5986']",37,8,"['mhvk', 'pv', 'cowlicks', 'njsmith', 'ewmoore', 'charris', 'juliantaylor', 'rgommers']"
+4738,pr,,,,,[],3,2,"['rgommers', 'charris']"
+4736,issue,rgommers,2014-05-24T16:04:59Z,,close,['#4739'],6,3,"['isaxs', 'seberg', 'rgommers']"
+4726,issue,rgommers,2014-05-24T15:31:56Z,a075dcb,close,['#4738'],3,2,"['pitrou', 'rgommers']"
+4723,issue,juliantaylor,2015-01-27T20:44:56Z,,close,[],5,3,"['fz0dbx', 'juliantaylor', 'rgommers']"
+4679,issue,jaimefrio,2015-03-13T00:59:13Z,,close,['#5585'],5,4,"['briancheung', 'njsmith', 'jaimefrio', 'rgommers']"
+4677,pr,,,,,[],2,2,"['charris', 'rgommers']"
+4664,issue,charris,2014-05-04T12:59:53Z,#4667,close,"['#4665', '#4667']",14,4,"['charris', 'rgommers', 'rkern', 'jaraco']"
+4658,issue,rkern,2014-06-23T12:03:06Z,,close,['#4821'],4,4,"['tjlane', 'seberg', 'ChienliMa', 'rkern']"
+4656,pr,,,,,[],23,6,"['foogod', 'charris', 'juliantaylor', 'njsmith', 'seberg', 'rgommers']"
+4655,issue,juliantaylor,2014-05-09T10:40:05Z,,close,[],2,3,"['foogod', 'juliantaylor', 'rgommers']"
+4653,issue,alimuldal,2014-05-03T11:49:47Z,,close,[],8,3,"['alimuldal', 'seberg', 'juliantaylor']"
+4652,issue,juliantaylor,2014-05-02T10:00:24Z,#4654,close,"['#4654', '#5548']",6,5,"['ogh', 'seberg', 'juliantaylor', 'charris', 'rgommers']"
+4649,pr,,,,,['#2509'],4,3,"['alanbriolat', 'jaimefrio', 'charris']"
+4631,issue,charris,2014-05-04T13:35:17Z,be3f0b1,close,[],2,2,"['WarrenWeckesser', 'charris']"
+4630,pr,,,,,[],9,5,"['rgommers', 'rkern', 'juliantaylor', 'ahmadia', 'charris']"
+4627,issue,charris,2014-06-25T00:14:51Z,,close,['#4463'],3,3,"['rgommers', 'juliantaylor', 'charris']"
+4623,issue,rgommers,2015-01-02T12:04:44Z,,close,[],9,4,"['vgweirs', 'rgommers', 'pv', 'charris']"
+4601,issue,jaimefrio,2015-05-04T12:51:46Z,,close,[],7,4,"['jprafael', 'KevinNielson', 'jaimefrio', 'rgommers']"
+4523,issue,rgommers,2015-01-02T18:54:52Z,20bc2eb,close,[],9,4,"['larsmans', 'rkern', 'jarondl', 'rgommers']"
+4516,issue,rgommers,2014-04-24T05:46:08Z,,close,[],9,5,"['michelmno', 'juliantaylor', 'charris', 'opoplawski', 'rgommers']"
+4490,pr,,,,,[],3,2,"['charris', 'juliantaylor']"
+4485,issue,mwiebe,2014-03-17T19:13:49Z,10e289c,close,[],16,5,"['EelcoHoogendoorn', 'seberg', 'mwiebe', 'njsmith', 'charris']"
+4478,issue,gerritholl,2015-12-02T13:02:26Z,,close,[],3,2,"['gerritholl', 'jjhelmus']"
+4423,pr,,,,,[],2,2,"['charris', 'rgommers']"
+4381,issue,charris,2015-08-28T18:29:13Z,#6199,close,['#6199'],12,6,"['scottransom', 'charris', 'juliantaylor', 'aarchiba', 'njsmith', 'pv']"
+4359,issue,charris,2014-03-02T03:29:56Z,#4401,close,['#4401'],2,3,"['abalkin', 'ddasilva', 'charris']"
+4357,issue,charris,2014-03-05T19:09:11Z,#4402,close,['#4402'],1,2,"['bdkearns', 'charris']"
+4354,issue,juliantaylor,2014-03-03T18:30:39Z,e9afd40,close,[],2,1,['charris']
+4346,issue,rgommers,2014-03-02T22:29:34Z,#4423,close,['#4423'],7,3,"['tchajed', 'rgommers', 'charris']"
+4340,issue,charris,2014-02-21T22:15:32Z,#4342,close,"['#4342', '#4392']",3,3,"['jaimefrio', 'seberg', 'charris']"
+4314,issue,charris,2014-03-26T22:41:39Z,#4544,close,['#4544'],12,4,"['matthew-brett', 'juliantaylor', 'seberg', 'charris']"
+4300,pr,,,,,[],2,3,"['charris', 'seberg', 'rgommers']"
+4295,issue,charris,2014-02-27T21:31:35Z,#4391,close,['#4391'],9,5,"['yarikoptic', 'juliantaylor', 'seberg', 'njsmith', 'charris']"
+4277,issue,charris,2016-01-06T19:28:46Z,,close,[],4,3,"['xnx', 'argriffing', 'charris']"
+4263,issue,jaimefrio,2016-01-25T00:18:24Z,61f8722,close,"['#7055', '#6938']",8,4,"['demitri', 'rkern', 'seberg', 'charris']"
+4249,issue,fkbreitl,2014-02-11T01:40:48Z,,close,[],3,2,"['fkbreitl', 'rhattersley']"
+4225,issue,charris,2014-03-02T03:38:17Z,#4415,close,"['#4415', '#4416']",4,4,"['pbrod', 'WarrenWeckesser', 'juliantaylor', 'charris']"
+4216,issue,ahaldane,2016-01-11T04:06:53Z,,close,['#4524'],3,3,"['gabobert', 'charris', 'ahaldane']"
+4195,issue,bryanwweber,2014-01-15T19:27:10Z,,close,[],5,2,"['bryanwweber', 'juliantaylor']"
+4192,issue,juliantaylor,2014-05-26T16:49:38Z,0d483a7,close,['#4731'],4,3,"['juliantaylor', 'rodrigob', 'charris']"
+4181,issue,rgommers,2015-01-17T17:42:34Z,fea2ebb,close,"['#5427', '#5500', '#6349']",11,5,"['ckuehne', 'fplandes', 'njsmith', 'maniteja123', 'rgommers']"
+4160,issue,pv,2014-01-08T18:35:02Z,,close,[],9,4,"['mhvk', 'njsmith', 'pv', 'cowlicks']"
+4136,issue,rgommers,2013-12-23T12:52:13Z,#4137,close,['#4137'],5,2,"['rgommers', 'juliantaylor']"
+4097,issue,pv,2013-12-04T09:27:48Z,,close,[],5,3,"['rgommers', 'seberg', 'pv']"
+3993,issue,charris,2015-01-30T22:22:40Z,,close,['#5454'],3,3,"['garaud', 'charris', 'ahaldane']"
+3988,issue,charris,2014-03-12T18:38:39Z,,close,[],9,4,"['letmaik', 'charris', 'pearu', 'grenoya']"
+3985,issue,jseabold,2014-10-21T12:02:54Z,,close,[],4,2,"['jseabold', 'charris']"
+3939,issue,ahaldane,2016-06-01T21:35:16Z,0bf9478,close,[],5,3,"['seberg', 'charris', 'jreback']"
+3934,issue,juliantaylor,2014-11-25T19:05:38Z,,close,[],3,3,"['joergdietrich', 'juliantaylor', 'charris']"
+3926,issue,charris,2015-01-21T22:26:07Z,c51770d,close,"['#5475', '#5720', '#6349']",1,2,"['mcgfeller', 'charris']"
+3897,issue,rgommers,2013-10-12T11:43:10Z,,close,[],7,4,"['rgommers', 'kousu', 'juliantaylor', 'WarrenWeckesser']"
+3892,issue,jaimefrio,2014-09-30T23:16:46Z,,close,['#5024'],8,6,"['ariddell', 'larsmans', 'njsmith', 'seberg', 'charris', 'jaimefrio']"
+3889,issue,charris,2015-10-23T23:44:52Z,,close,[],6,3,"['aksarkar', 'charris', 'rgommers']"
+3877,issue,charris,2015-10-23T23:43:15Z,,close,[],4,2,"['aksarkar', 'charris']"
+3871,issue,charris,2013-10-06T16:25:00Z,#3872,close,['#3872'],2,2,"['pv', 'charris']"
+3812,issue,pv,2013-10-19T21:40:46Z,,close,"['#3856', '#4815']",3,1,['pv']
+3759,issue,seberg,2014-05-04T19:54:48Z,9b8f6c7,close,[],7,4,"['yarikoptic', 'njsmith', 'seberg', 'charris']"
+3671,issue,charris,2014-02-23T17:54:20Z,,close,[],7,4,"['charris', 'cowlicks', 'rgommers', 'njsmith']"
+3615,issue,charris,2014-06-25T16:28:59Z,,close,[],7,4,"['Juanlu001', 'rgommers', 'charris', 'ilam']"
+3598,issue,charris,2013-08-12T13:13:33Z,#3600,close,['#3600'],6,3,"['rgommers', 'juliantaylor', 'charris']"
+3581,issue,charris,2015-06-19T21:38:56Z,a93b862,close,"['#4443', '#4444', '#5454', '#5483', '#5523', '#5943']",21,8,"['potyt', 'nevion', 'dalexander', 'jaimefrio', 'embray', 'ahaldane', 'charris', 'mhvk']"
+3544,issue,cpelley,2016-02-04T10:29:48Z,,close,['#6748'],8,5,"['cpelley', 'charris', 'pv', 'saimn', 'jjhelmus']"
+3488,issue,charris,2014-05-04T14:34:25Z,#4666,close,['#4666'],2,3,"['mgeier', 'njsmith', 'charris']"
+3484,issue,charris,2015-06-13T11:05:42Z,8f172dd,close,"['#3486', '#5963']",8,5,"['justinvf', 'njsmith', 'juliantaylor', 'jcrist', 'charris']"
+3473,issue,charris,2014-05-05T18:16:08Z,,close,[],4,3,"['dlangenk', 'pv', 'charris']"
+3442,issue,seberg,2013-06-17T17:13:23Z,,close,[],5,3,"['pv', 'charris', 'seberg']"
+3428,issue,seberg,2014-08-13T18:44:29Z,,close,[],4,4,"['prossahl', 'charris', 'Wilfred', 'seberg']"
+3388,issue,shoyer,2016-01-22T00:08:47Z,,close,[],10,6,"['rgommers', 'charris', 'dhirschfeld', 'Sankarshan-Mudkavi', 'njsmith', 'shoyer']"
+3368,issue,seberg,2014-01-27T17:34:16Z,3d8da08,close,"['#4142', '#4153']",2,2,"['WarrenWeckesser', 'rgommers']"
+3363,issue,charris,2013-08-11T21:27:39Z,#3599,close,['#3599'],6,3,"['juliantaylor', 'charris', 'cournape']"
+3334,issue,charris,2014-02-20T14:46:50Z,,close,[],11,3,"['jnlanl', 'rgommers', 'charris']"
+3311,issue,charris,2014-03-04T02:17:01Z,#4431,close,['#4431'],1,2,"['hillierdani', 'charris']"
+3285,issue,charris,2014-03-12T14:16:57Z,#4479,close,['#4479'],2,2,"['alex-me', 'charris']"
+3276,issue,charris,2015-10-20T03:10:15Z,,close,[],7,4,"['taldcroft', 'njsmith', 'charris', 'jjhelmus']"
+3259,issue,charris,2014-03-24T16:20:28Z,#4358,close,['#4358'],16,4,"['gbb', 'pv', 'njsmith', 'charris']"
+3254,issue,charris,2014-03-28T13:50:00Z,,close,['#4358'],8,3,"['gbb', 'njsmith', 'charris']"
+3253,issue,jaimefrio,2015-06-05T15:43:41Z,e2cd6fa,close,['#5548'],4,3,"['mwtoews', 'imstochastic', 'charris']"
+3219,issue,jjhelmus,2015-10-30T02:33:18Z,,close,[],2,3,"['tkf', 'jjhelmus', 'charris']"
+3213,issue,charris,2014-03-28T23:33:13Z,06aafa5,close,['#3379'],5,3,"['hamogu', 'timburgess', 'charris']"
+3195,issue,jaimefrio,2015-05-05T04:03:22Z,#5821,close,['#5821'],2,2,"['julien-diener', 'charris']"
+3175,issue,seberg,2014-02-22T19:39:42Z,6c4e642,close,[],9,3,"['megies', 'charris', 'seberg']"
+3173,issue,charris,2014-02-22T19:46:00Z,#4348,close,"['#4348', '#4388']",5,4,"['saffsd', 'charris', 'juliantaylor', 'seberg']"
+3171,issue,njsmith,2015-07-11T21:07:28Z,,close,[],3,3,"['goyodiaz', 'charris', 'njsmith']"
+3126,issue,charris,2015-06-11T22:09:53Z,df959ed,close,"['#4556', '#5548', '#5559', '#5642', '#5648', '#5947', '#6053']",17,4,"['mbyt', 'charris', 'juliantaylor', 'njsmith']"
+2972,issue,charris,2015-05-02T16:18:44Z,a7d663f,close,"['#5513', '#5516']",4,2,"['gerritholl', 'charris']"
+2969,issue,njsmith,2013-03-02T12:30:59Z,,close,['#2983'],22,7,"['mrjbq7', 'charris', 'nouiz', 'rgommers', 'erg', 'njsmith', 'certik']"
+2917,issue,charris,2014-11-30T17:20:53Z,b82388e,close,[],2,2,"['llvilanova', 'charris']"
+2912,issue,rgommers,2015-03-25T06:48:29Z,,close,['#5025'],6,4,"['callegar', 'rgommers', 'njsmith', 'jorisvandenbossche']"
+2877,issue,charris,2014-02-25T04:47:55Z,,close,[],4,2,"['Erdaron', 'charris']"
+2860,issue,charris,2014-02-16T03:25:26Z,,close,[],18,7,"['amschne', 'njsmith', 'rgommers', 'lukauskas', 'willsALMANJ', 'vene', 'charris']"
+2807,issue,charris,2014-03-01T14:04:07Z,#4376,close,"['#4376', '#4406', '#4407']",1,2,"['abingham', 'charris']"
+2799,issue,charris,2014-02-22T15:58:19Z,#4344,close,"['#4344', '#4390']",7,3,"['pchanial', 'charris', 'jaimefrio']"
+2757,issue,charris,2012-11-25T17:28:16Z,,close,['#2765'],4,1,['charris']
+2756,issue,charris,2012-11-21T19:55:36Z,,close,[],5,2,"['tjligocki', 'charris']"
+2750,issue,certik,2012-12-21T01:03:00Z,,close,"['#2836', '#2849']",7,4,"['cgohlke', 'rgommers', 'y-p', 'certik']"
+2690,issue,pv,2012-10-20T00:21:58Z,,close,[],4,2,"['numpy-gitbot', 'pv']"
+2689,issue,njsmith,2013-09-15T18:21:41Z,,close,['#2691'],3,3,"['numpy-gitbot', 'jarondl', 'njsmith']"
+2688,issue,numpy-gitbot,2012-10-19T22:35:58Z,,close,[],11,1,['numpy-gitbot']
+2687,issue,charris,2013-08-30T03:56:39Z,,close,['#2988'],5,4,"['numpy-gitbot', 'stefanv', 'ewmoore', 'charris']"
+2686,issue,seberg,2013-12-05T09:52:30Z,,close,[],3,3,"['numpy-gitbot', 'stefanv', 'seberg']"
+2685,issue,certik,2013-02-06T19:52:39Z,,close,[],7,5,"['numpy-gitbot', 'stefanv', 'njsmith', 'rgommers', 'certik']"
+2684,issue,charris,2013-06-15T16:58:56Z,,close,['#3440'],2,2,"['numpy-gitbot', 'charris']"
+2683,issue,cournape,2013-01-21T18:44:31Z,,close,[],2,2,"['numpy-gitbot', 'cournape']"
+2681,issue,pv,2014-02-21T15:14:48Z,,close,[],3,3,"['numpy-gitbot', 'charris', 'pv']"
+2680,issue,charris,2014-02-21T14:49:15Z,,close,"['#2716', '#3882']",2,2,"['numpy-gitbot', 'charris']"
+2679,issue,charris,2012-10-20T00:40:14Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2678,issue,numpy-gitbot,2012-10-19T22:35:41Z,,close,[],3,1,['numpy-gitbot']
+2677,issue,numpy-gitbot,2012-10-19T22:35:39Z,,close,[],3,1,['numpy-gitbot']
+2676,issue,charris,2016-01-06T19:16:23Z,,close,[],7,3,"['numpy-gitbot', 'JStech', 'charris']"
+2675,issue,seberg,2013-12-05T09:55:45Z,,close,[],5,2,"['numpy-gitbot', 'seberg']"
+2673,issue,numpy-gitbot,2012-10-19T22:35:31Z,,close,[],14,1,['numpy-gitbot']
+2672,issue,numpy-gitbot,2012-10-19T22:35:26Z,,close,[],5,1,['numpy-gitbot']
+2670,issue,numpy-gitbot,2012-10-19T22:35:23Z,,close,[],8,1,['numpy-gitbot']
+2668,issue,certik,2012-12-14T04:38:35Z,,close,"['#2794', '#3421', '#3768']",8,4,"['numpy-gitbot', 'certik', 'matthew-brett', 'mwiebe']"
+2666,issue,seberg,2013-01-03T19:33:58Z,,close,[],5,2,"['numpy-gitbot', 'seberg']"
+2665,issue,numpy-gitbot,2012-10-19T22:35:11Z,,close,[],17,1,['numpy-gitbot']
+2664,issue,numpy-gitbot,2012-10-19T22:35:04Z,,close,[],3,1,['numpy-gitbot']
+2663,issue,numpy-gitbot,2012-10-19T22:35:02Z,,close,[],3,1,['numpy-gitbot']
+2661,issue,seberg,2013-10-25T15:52:49Z,,close,[],3,2,"['numpy-gitbot', 'seberg']"
+2659,issue,numpy-gitbot,2012-10-19T22:34:55Z,,close,[],7,1,['numpy-gitbot']
+2658,issue,numpy-gitbot,2012-10-19T22:34:52Z,,close,[],11,1,['numpy-gitbot']
+2656,issue,charris,2014-09-30T03:34:22Z,#5101,close,['#5101'],9,6,"['numpy-gitbot', 'letmaik', 'jaimefrio', 'skuschel', 'charris', 'juliantaylor']"
+2655,issue,numpy-gitbot,2012-10-19T22:34:45Z,,close,[],12,1,['numpy-gitbot']
+2654,issue,seberg,2013-04-12T21:26:22Z,,close,[],3,2,"['numpy-gitbot', 'seberg']"
+2653,issue,numpy-gitbot,2012-10-19T22:34:39Z,,close,[],13,1,['numpy-gitbot']
+2652,issue,numpy-gitbot,2012-10-19T22:34:35Z,,close,[],5,1,['numpy-gitbot']
+2651,issue,charris,2014-02-15T17:24:57Z,,close,[],6,2,"['numpy-gitbot', 'charris']"
+2649,issue,charris,2014-02-21T05:44:33Z,,close,"['#3196', '#3198', '#4278']",3,2,"['numpy-gitbot', 'charris']"
+2644,issue,charris,2014-02-15T21:47:50Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2640,issue,numpy-gitbot,2012-10-19T22:34:15Z,,close,[],5,1,['numpy-gitbot']
+2638,issue,numpy-gitbot,2012-10-19T22:34:08Z,,close,[],10,1,['numpy-gitbot']
+2637,issue,numpy-gitbot,2012-10-19T22:34:03Z,,close,[],3,1,['numpy-gitbot']
+2636,issue,numpy-gitbot,2012-10-19T22:34:01Z,,close,[],3,1,['numpy-gitbot']
+2635,issue,seberg,2013-10-16T18:16:03Z,,close,[],3,2,"['numpy-gitbot', 'seberg']"
+2634,issue,numpy-gitbot,2012-10-19T22:33:57Z,,close,[],4,1,['numpy-gitbot']
+2632,issue,charris,2014-02-21T04:45:38Z,,close,[],8,4,"['numpy-gitbot', 'charris', 'inducer', 'seberg']"
+2631,issue,numpy-gitbot,2012-10-19T22:33:52Z,,close,['#3818'],7,1,['numpy-gitbot']
+2630,issue,numpy-gitbot,2012-10-19T22:33:48Z,,close,[],3,1,['numpy-gitbot']
+2628,issue,numpy-gitbot,2012-10-19T22:33:45Z,,close,[],3,1,['numpy-gitbot']
+2625,issue,numpy-gitbot,2012-10-19T22:33:39Z,,close,[],5,1,['numpy-gitbot']
+2624,issue,charris,2014-03-01T16:43:28Z,,close,['#4338'],8,4,"['numpy-gitbot', 'charris', 'girving', 'jaimefrio']"
+2621,issue,numpy-gitbot,2012-10-19T22:33:30Z,,close,[],6,1,['numpy-gitbot']
+2620,issue,seberg,2013-12-05T09:38:10Z,,close,[],3,2,"['numpy-gitbot', 'seberg']"
+2619,issue,numpy-gitbot,2012-10-19T22:33:25Z,,close,[],5,1,['numpy-gitbot']
+2618,issue,seberg,2013-12-05T09:36:26Z,,close,[],3,2,"['numpy-gitbot', 'seberg']"
+2617,issue,charris,2014-02-21T04:21:30Z,,close,[],5,2,"['numpy-gitbot', 'charris']"
+2616,issue,seberg,2016-03-03T11:24:50Z,,close,[],2,2,"['numpy-gitbot', 'seberg']"
+2614,issue,numpy-gitbot,2012-10-19T22:33:16Z,,close,[],4,1,['numpy-gitbot']
+2611,issue,charris,2016-01-06T19:14:02Z,,close,[],3,3,"['numpy-gitbot', 'ddasilva', 'charris']"
+2610,issue,numpy-gitbot,2012-10-19T22:33:09Z,,close,[],4,1,['numpy-gitbot']
+2607,issue,seberg,2013-10-22T09:53:32Z,,close,[],5,3,"['numpy-gitbot', 'ewmoore', 'seberg']"
+2605,issue,charris,2014-02-21T04:12:52Z,,close,[],4,2,"['numpy-gitbot', 'charris']"
+2604,issue,seberg,2013-04-21T20:38:08Z,,close,[],2,2,"['numpy-gitbot', 'seberg']"
+2603,issue,charris,2014-02-21T04:05:11Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2602,issue,numpy-gitbot,2012-10-19T22:32:55Z,,close,[],3,1,['numpy-gitbot']
+2600,issue,seberg,2014-02-17T18:27:01Z,,close,[],3,2,"['numpy-gitbot', 'seberg']"
+2599,issue,jaimefrio,2015-06-05T15:43:41Z,e2cd6fa,close,"['#3126', '#3561', '#5548', '#5648', '#6562']",4,3,"['numpy-gitbot', 'cmarquardt', 'charris']"
+2597,issue,numpy-gitbot,2012-10-19T22:32:48Z,,close,[],3,1,['numpy-gitbot']
+2596,issue,charris,2014-02-21T03:44:24Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2595,issue,seberg,2013-12-05T09:20:39Z,,close,[],2,2,"['numpy-gitbot', 'seberg']"
+2594,issue,seberg,2013-12-05T09:06:54Z,,close,[],5,2,"['numpy-gitbot', 'seberg']"
+2593,issue,seberg,2013-12-05T09:09:27Z,,close,[],2,2,"['numpy-gitbot', 'seberg']"
+2592,issue,charris,2013-07-08T16:16:57Z,0c1f94d,close,"['#3471', '#3500']",4,3,"['numpy-gitbot', 'cournape', 'charris']"
+2591,issue,charris,2014-04-05T20:49:38Z,079ca4d,close,['#4588'],3,2,"['numpy-gitbot', 'charris']"
+2590,issue,charris,2014-02-21T03:37:37Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2589,issue,numpy-gitbot,2012-10-19T22:32:34Z,,close,[],2,1,['numpy-gitbot']
+2588,issue,seberg,2013-12-09T15:32:27Z,,close,[],4,2,"['numpy-gitbot', 'seberg']"
+2587,issue,seberg,2013-05-11T15:45:25Z,,close,[],7,2,"['numpy-gitbot', 'seberg']"
+2585,issue,ahaldane,2016-06-02T16:51:24Z,,close,"['#1901', '#2196', '#6430']",2,2,"['numpy-gitbot', 'ahaldane']"
+2583,issue,numpy-gitbot,2012-10-19T22:32:23Z,,close,[],7,1,['numpy-gitbot']
+2581,issue,numpy-gitbot,2012-10-19T22:32:19Z,,close,[],5,1,['numpy-gitbot']
+2580,issue,numpy-gitbot,2012-10-19T22:32:17Z,,close,[],4,1,['numpy-gitbot']
+2579,issue,numpy-gitbot,2012-10-19T22:32:14Z,,close,[],3,1,['numpy-gitbot']
+2578,issue,numpy-gitbot,2012-10-19T22:32:12Z,,close,[],2,1,['numpy-gitbot']
+2577,issue,charris,2014-02-21T01:13:04Z,,close,[],7,2,"['numpy-gitbot', 'charris']"
+2576,issue,seberg,2013-03-31T22:04:36Z,,close,[],4,3,"['numpy-gitbot', 'dlax', 'seberg']"
+2575,issue,charris,2014-02-21T01:12:21Z,,close,[],5,2,"['numpy-gitbot', 'charris']"
+2574,issue,seberg,2013-12-09T15:37:55Z,,close,[],5,2,"['numpy-gitbot', 'seberg']"
+2573,issue,seberg,2013-11-13T17:44:50Z,,close,[],3,3,"['numpy-gitbot', 'WarrenWeckesser', 'seberg']"
+2572,issue,njsmith,2015-10-19T03:05:17Z,,close,['#3404'],3,3,"['numpy-gitbot', 'jjhelmus', 'njsmith']"
+2569,issue,charris,2014-02-21T02:43:07Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2568,issue,numpy-gitbot,2012-10-19T22:31:55Z,,close,[],2,1,['numpy-gitbot']
+2567,issue,charris,2013-06-16T02:26:17Z,,close,[],3,3,"['numpy-gitbot', 'efiring', 'charris']"
+2566,issue,numpy-gitbot,2012-10-19T22:31:52Z,,close,[],6,1,['numpy-gitbot']
+2561,issue,charris,2013-10-10T21:14:55Z,293b9e0,close,['#3885'],2,2,"['numpy-gitbot', 'Nodd']"
+2560,issue,charris,2014-02-21T00:37:08Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2559,issue,charris,2014-02-21T00:36:20Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2557,issue,numpy-gitbot,2012-10-19T22:31:38Z,,close,[],2,1,['numpy-gitbot']
+2556,issue,numpy-gitbot,2012-10-19T22:31:37Z,,close,[],2,1,['numpy-gitbot']
+2555,issue,numpy-gitbot,2012-10-19T22:31:34Z,,close,[],2,1,['numpy-gitbot']
+2554,issue,numpy-gitbot,2012-10-19T22:31:33Z,,close,[],6,3,"['numpy-gitbot', 'endolith', 'njsmith']"
+2552,issue,charris,2014-03-10T15:15:02Z,#4471,close,"['#4468', '#4471']",2,2,"['numpy-gitbot', 'charris']"
+2551,issue,rgommers,2012-12-08T21:23:34Z,,close,['#2795'],2,2,"['numpy-gitbot', 'rgommers']"
+2550,issue,numpy-gitbot,2012-10-19T22:31:27Z,,close,[],3,1,['numpy-gitbot']
+2549,issue,numpy-gitbot,2012-10-19T22:31:25Z,,close,[],4,1,['numpy-gitbot']
+2546,issue,charris,2013-05-09T16:48:44Z,,close,[],5,3,"['numpy-gitbot', 'nouiz', 'charris']"
+2545,issue,numpy-gitbot,2012-10-19T22:31:18Z,,close,[],6,1,['numpy-gitbot']
+2544,issue,charris,2014-02-21T00:14:40Z,,close,[],10,2,"['numpy-gitbot', 'charris']"
+2541,issue,numpy-gitbot,2012-10-19T22:31:08Z,,close,[],10,1,['numpy-gitbot']
+2540,issue,numpy-gitbot,2012-10-19T22:31:04Z,,close,[],2,1,['numpy-gitbot']
+2538,issue,numpy-gitbot,2012-10-19T22:31:01Z,,close,[],2,1,['numpy-gitbot']
+2537,issue,numpy-gitbot,2012-10-19T22:30:59Z,,close,[],10,1,['numpy-gitbot']
+2536,issue,numpy-gitbot,2012-10-19T22:30:55Z,,close,[],6,1,['numpy-gitbot']
+2535,issue,numpy-gitbot,2012-10-19T22:30:52Z,,close,[],3,1,['numpy-gitbot']
+2532,issue,charris,2014-02-20T23:56:20Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2531,issue,numpy-gitbot,2012-10-19T22:30:45Z,,close,[],3,1,['numpy-gitbot']
+2530,issue,numpy-gitbot,2012-10-19T22:30:42Z,,close,[],5,1,['numpy-gitbot']
+2529,issue,numpy-gitbot,2012-10-19T22:30:39Z,,close,[],8,1,['numpy-gitbot']
+2528,issue,pv,2014-02-17T09:11:57Z,,close,[],4,3,"['numpy-gitbot', 'charris', 'pv']"
+2526,issue,numpy-gitbot,2012-10-19T22:30:33Z,,close,[],3,1,['numpy-gitbot']
+2525,issue,rgommers,2013-06-29T10:02:56Z,,close,[],7,4,"['numpy-gitbot', 'jdkloe', '2sn', 'rgommers']"
+2523,issue,numpy-gitbot,2012-10-19T22:30:28Z,,close,[],2,1,['numpy-gitbot']
+2521,issue,charris,2013-03-02T01:48:39Z,a226daa,close,['#3014'],4,3,"['numpy-gitbot', 'bfroehle', 'charris']"
+2519,issue,numpy-gitbot,2012-10-19T22:30:21Z,,close,[],14,1,['numpy-gitbot']
+2518,issue,charris,2014-02-20T23:51:51Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2516,issue,charris,2014-02-20T23:43:00Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2515,issue,seberg,2013-10-25T16:21:28Z,,close,[],2,2,"['numpy-gitbot', 'seberg']"
+2514,issue,numpy-gitbot,2012-10-19T22:30:12Z,,close,[],2,1,['numpy-gitbot']
+2512,issue,numpy-gitbot,2012-10-19T22:30:04Z,,close,[],14,1,['numpy-gitbot']
+2511,issue,numpy-gitbot,2012-10-19T22:29:59Z,,close,[],5,1,['numpy-gitbot']
+2510,issue,numpy-gitbot,2012-10-19T22:29:56Z,,close,[],10,1,['numpy-gitbot']
+2509,issue,charris,2015-01-23T21:57:53Z,,close,[],4,3,"['numpy-gitbot', 'charris', 'alanbriolat']"
+2507,issue,charris,2014-02-21T02:08:17Z,,close,[],4,2,"['numpy-gitbot', 'charris']"
+2506,issue,charris,2013-05-23T17:19:12Z,,close,"['#462', '#3380']",7,3,"['numpy-gitbot', 'charris', 'girving']"
+2505,issue,numpy-gitbot,2012-10-19T22:29:47Z,,close,[],5,1,['numpy-gitbot']
+2503,issue,seberg,2013-01-06T10:42:23Z,,close,['#2882'],3,2,"['numpy-gitbot', 'seberg']"
+2502,issue,numpy-gitbot,2012-10-19T22:29:41Z,,close,[],12,1,['numpy-gitbot']
+2501,issue,charris,2014-02-21T01:50:33Z,,close,[],4,2,"['numpy-gitbot', 'charris']"
+2500,issue,charris,2014-02-21T01:45:18Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2499,issue,charris,2014-02-20T23:39:03Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2498,issue,numpy-gitbot,2012-10-19T22:29:32Z,,close,[],9,1,['numpy-gitbot']
+2497,issue,charris,2014-02-20T23:30:08Z,,close,[],5,2,"['numpy-gitbot', 'charris']"
+2496,issue,numpy-gitbot,2012-10-19T22:29:27Z,,close,[],4,1,['numpy-gitbot']
+2495,issue,charris,2013-06-17T00:40:59Z,c2465b6,close,[],1,1,['numpy-gitbot']
+2493,issue,rgommers,2014-02-21T05:39:17Z,,close,[],4,3,"['numpy-gitbot', 'charris', 'rgommers']"
+2492,issue,numpy-gitbot,2012-10-19T22:29:20Z,,close,[],4,1,['numpy-gitbot']
+2491,issue,seberg,2016-03-23T13:14:08Z,#7229,close,['#7229'],3,3,"['numpy-gitbot', 'charris', 'nedlrichards']"
+2490,issue,charris,2013-06-17T00:49:16Z,,close,[],7,3,"['numpy-gitbot', 'efiring', 'charris']"
+2489,issue,numpy-gitbot,2012-10-19T22:29:14Z,,close,[],13,1,['numpy-gitbot']
+2488,issue,numpy-gitbot,2012-10-19T22:29:09Z,,close,[],8,1,['numpy-gitbot']
+2487,issue,numpy-gitbot,2012-10-19T22:29:06Z,,close,[],13,1,['numpy-gitbot']
+2485,issue,seberg,2013-12-16T23:22:58Z,,close,['#3270'],11,3,"['numpy-gitbot', 'kolesman', 'seberg']"
+2484,issue,seberg,2014-02-10T22:15:39Z,,close,[],2,2,"['numpy-gitbot', 'seberg']"
+2483,issue,numpy-gitbot,2012-10-19T22:28:54Z,,close,[],7,1,['numpy-gitbot']
+2482,issue,numpy-gitbot,2012-10-19T22:28:51Z,,close,[],4,1,['numpy-gitbot']
+2480,issue,charris,2014-02-20T23:00:39Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2479,issue,charris,2014-02-20T22:24:18Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2478,issue,numpy-gitbot,2012-10-19T22:28:44Z,,close,[],6,1,['numpy-gitbot']
+2476,issue,charris,2014-02-20T21:55:47Z,,close,[],5,2,"['numpy-gitbot', 'charris']"
+2474,issue,seberg,2013-12-12T21:11:15Z,,close,[],4,2,"['numpy-gitbot', 'seberg']"
+2473,issue,numpy-gitbot,2012-10-19T22:28:34Z,,close,[],3,1,['numpy-gitbot']
+2472,issue,numpy-gitbot,2012-10-19T22:28:32Z,,close,[],2,1,['numpy-gitbot']
+2471,issue,numpy-gitbot,2012-10-19T22:28:31Z,,close,[],8,1,['numpy-gitbot']
+2470,issue,numpy-gitbot,2012-10-19T22:28:25Z,,close,[],2,1,['numpy-gitbot']
+2469,issue,charris,2014-03-16T19:50:54Z,#4483,close,['#4483'],4,3,"['numpy-gitbot', 'seberg', 'charris']"
+2468,issue,numpy-gitbot,2012-10-19T22:28:21Z,,close,[],4,1,['numpy-gitbot']
+2467,issue,numpy-gitbot,2012-10-19T22:28:19Z,,close,[],7,1,['numpy-gitbot']
+2466,issue,charris,2014-02-27T01:03:53Z,,close,[],4,2,"['numpy-gitbot', 'charris']"
+2465,issue,charris,2014-02-20T21:08:06Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2463,issue,numpy-gitbot,2012-10-19T22:28:11Z,,close,[],13,1,['numpy-gitbot']
+2461,issue,numpy-gitbot,2012-10-19T22:28:04Z,,close,[],4,1,['numpy-gitbot']
+2460,issue,numpy-gitbot,2012-10-19T22:28:01Z,,close,[],9,1,['numpy-gitbot']
+2458,issue,numpy-gitbot,2012-10-19T22:27:56Z,,close,[],8,1,['numpy-gitbot']
+2456,issue,numpy-gitbot,2012-10-19T22:27:49Z,,close,[],4,1,['numpy-gitbot']
+2454,issue,numpy-gitbot,2012-10-19T22:27:45Z,,close,[],1,1,['numpy-gitbot']
+2452,issue,numpy-gitbot,2012-10-19T22:27:42Z,,close,[],4,1,['numpy-gitbot']
+2450,issue,numpy-gitbot,2012-10-19T22:27:39Z,,close,[],25,1,['numpy-gitbot']
+2447,issue,numpy-gitbot,2012-10-19T22:27:25Z,,close,[],2,1,['numpy-gitbot']
+2446,issue,numpy-gitbot,2012-10-19T22:27:23Z,,close,[],2,1,['numpy-gitbot']
+2445,issue,numpy-gitbot,2012-10-19T22:27:20Z,,close,[],2,1,['numpy-gitbot']
+2444,issue,numpy-gitbot,2012-10-19T22:27:17Z,,close,[],8,1,['numpy-gitbot']
+2442,issue,numpy-gitbot,2012-10-19T22:27:10Z,,close,[],2,1,['numpy-gitbot']
+2441,issue,numpy-gitbot,2012-10-19T22:27:08Z,,close,[],5,1,['numpy-gitbot']
+2440,issue,numpy-gitbot,2012-10-19T22:27:05Z,,close,[],2,1,['numpy-gitbot']
+2439,issue,numpy-gitbot,2012-10-19T22:27:04Z,,close,[],7,1,['numpy-gitbot']
+2438,issue,certik,2013-07-02T19:30:57Z,,close,[],9,5,"['numpy-gitbot', 'OndrejMarsalek', 'njsmith', 'pv', 'certik']"
+2437,issue,numpy-gitbot,2012-10-19T22:26:59Z,,close,[],3,1,['numpy-gitbot']
+2436,issue,numpy-gitbot,2012-10-19T22:26:57Z,,close,[],6,1,['numpy-gitbot']
+2433,issue,charris,2013-02-15T02:27:05Z,,close,[],3,3,"['numpy-gitbot', 'ewmoore', 'charris']"
+2432,issue,njsmith,2012-12-08T19:57:29Z,0196aed,close,['#2747'],1,2,"['numpy-gitbot', 'njsmith']"
+2431,issue,numpy-gitbot,2012-10-19T22:26:48Z,,close,[],3,1,['numpy-gitbot']
+2430,issue,numpy-gitbot,2012-10-19T22:26:46Z,,close,[],12,1,['numpy-gitbot']
+2429,issue,numpy-gitbot,2012-10-19T22:26:41Z,,close,[],3,1,['numpy-gitbot']
+2428,issue,charris,2014-02-19T22:39:46Z,,close,[],8,2,"['numpy-gitbot', 'charris']"
+2427,issue,numpy-gitbot,2012-10-19T22:26:36Z,,close,[],3,1,['numpy-gitbot']
+2424,issue,numpy-gitbot,2012-10-19T22:26:31Z,,close,[],2,1,['numpy-gitbot']
+2423,issue,charris,2014-03-01T14:04:34Z,#4372,close,"['#4372', '#4406', '#4407']",4,2,"['numpy-gitbot', 'charris']"
+2422,issue,charris,2014-02-19T22:35:52Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2421,issue,numpy-gitbot,2012-10-19T22:26:26Z,,close,[],6,1,['numpy-gitbot']
+2420,issue,numpy-gitbot,2012-10-19T22:26:23Z,,close,[],3,1,['numpy-gitbot']
+2419,issue,numpy-gitbot,2012-10-19T22:26:20Z,,close,[],2,1,['numpy-gitbot']
+2414,issue,numpy-gitbot,2012-10-19T22:26:11Z,,close,[],2,1,['numpy-gitbot']
+2413,issue,charris,2013-02-13T03:58:01Z,,close,[],6,3,"['numpy-gitbot', 'ewmoore', 'charris']"
+2412,issue,numpy-gitbot,2012-10-19T22:26:08Z,,close,[],3,1,['numpy-gitbot']
+2411,issue,rgommers,2014-02-19T22:20:35Z,,close,[],9,5,"['numpy-gitbot', 'charris', 'rgommers', 'juliantaylor', 'ahmadia']"
+2409,issue,charris,2014-02-20T17:14:51Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2408,issue,charris,2014-02-20T17:08:06Z,#4315,close,['#4315'],16,3,"['numpy-gitbot', 'charris', 'matthew-brett']"
+2406,issue,numpy-gitbot,2012-10-19T22:25:46Z,,close,[],4,1,['numpy-gitbot']
+2405,issue,charris,2014-02-19T21:45:03Z,,close,[],4,2,"['numpy-gitbot', 'charris']"
+2404,issue,numpy-gitbot,2012-10-19T22:25:41Z,,close,[],8,1,['numpy-gitbot']
+2403,issue,charris,2013-06-16T13:17:54Z,fb4edf7,close,[],3,2,"['numpy-gitbot', 'efiring']"
+2400,issue,charris,2014-02-19T21:25:54Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2399,issue,rgommers,2014-02-19T22:22:24Z,,close,[],3,3,"['numpy-gitbot', 'charris', 'rgommers']"
+2398,issue,numpy-gitbot,2012-10-19T22:25:27Z,,close,[],23,1,['numpy-gitbot']
+2397,issue,charris,2014-02-19T21:09:49Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2396,issue,charris,2014-02-19T21:05:32Z,,close,[],9,8,"['numpy-gitbot', 'zhlsk', 'seberg', 'njsmith', 'robert-chiniquy', 'pv', 'charris', 'AWNystrom']"
+2394,issue,numpy-gitbot,2012-10-19T22:25:16Z,,close,[],7,1,['numpy-gitbot']
+2392,issue,numpy-gitbot,2012-10-19T22:25:10Z,,close,[],3,1,['numpy-gitbot']
+2391,issue,numpy-gitbot,2012-10-19T22:25:08Z,,close,[],5,1,['numpy-gitbot']
+2386,issue,numpy-gitbot,2012-10-19T22:24:58Z,,close,[],7,1,['numpy-gitbot']
+2385,issue,juliantaylor,2013-10-30T08:50:14Z,753d611,close,['#3992'],1,1,['numpy-gitbot']
+2384,issue,charris,2014-03-13T17:56:50Z,a38888c,close,"['#4418', '#4487']",8,4,"['numpy-gitbot', 'charris', 'rgommers', 'wfspotz']"
+2383,issue,numpy-gitbot,2012-10-19T22:24:53Z,,close,[],5,1,['numpy-gitbot']
+2381,issue,numpy-gitbot,2012-10-19T22:24:48Z,,close,[],7,1,['numpy-gitbot']
+2380,issue,charris,2014-02-19T20:02:09Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2378,issue,numpy-gitbot,2012-10-19T22:24:40Z,,close,[],5,1,['numpy-gitbot']
+2377,issue,charris,2014-03-15T04:34:59Z,,close,[],3,3,"['numpy-gitbot', 'ddasilva', 'charris']"
+2375,issue,numpy-gitbot,2012-10-19T22:24:35Z,,close,[],5,1,['numpy-gitbot']
+2374,issue,charris,2014-02-19T19:19:03Z,,close,[],4,2,"['numpy-gitbot', 'charris']"
+2373,issue,numpy-gitbot,2012-10-19T22:24:30Z,,close,[],3,1,['numpy-gitbot']
+2371,issue,numpy-gitbot,2012-10-19T22:24:23Z,,close,[],2,1,['numpy-gitbot']
+2370,issue,numpy-gitbot,2012-10-19T22:24:21Z,,close,[],5,1,['numpy-gitbot']
+2369,issue,numpy-gitbot,2012-10-19T22:24:19Z,,close,[],5,1,['numpy-gitbot']
+2368,issue,jaimefrio,2015-05-03T16:21:06Z,,close,[],6,3,"['numpy-gitbot', 'charris', 'jaimefrio']"
+2366,issue,numpy-gitbot,2012-10-19T22:24:12Z,,close,[],3,1,['numpy-gitbot']
+2365,issue,numpy-gitbot,2012-10-19T22:24:10Z,,close,[],5,1,['numpy-gitbot']
+2363,issue,charris,2014-02-15T21:34:50Z,,close,[],10,2,"['numpy-gitbot', 'charris']"
+2362,issue,numpy-gitbot,2012-10-19T22:24:03Z,,close,[],3,1,['numpy-gitbot']
+2361,issue,numpy-gitbot,2012-10-19T22:24:01Z,,close,[],9,1,['numpy-gitbot']
+2360,issue,numpy-gitbot,2012-10-19T22:23:57Z,,close,[],9,1,['numpy-gitbot']
+2359,issue,numpy-gitbot,2012-10-19T22:23:53Z,,close,[],4,1,['numpy-gitbot']
+2357,issue,numpy-gitbot,2012-10-19T22:23:49Z,,close,[],3,1,['numpy-gitbot']
+2356,issue,numpy-gitbot,2012-10-19T22:23:46Z,,close,[],3,1,['numpy-gitbot']
+2355,issue,numpy-gitbot,2012-10-19T22:23:45Z,,close,[],3,1,['numpy-gitbot']
+2354,issue,charris,2014-03-01T14:03:54Z,#4400,close,"['#3010', '#4400', '#4406', '#4407']",3,2,"['numpy-gitbot', 'charris']"
+2352,issue,numpy-gitbot,2012-10-19T22:23:39Z,,close,[],9,1,['numpy-gitbot']
+2351,issue,numpy-gitbot,2012-10-19T22:23:35Z,,close,[],12,1,['numpy-gitbot']
+2345,issue,numpy-gitbot,2012-10-19T22:23:19Z,,close,[],5,1,['numpy-gitbot']
+2344,issue,numpy-gitbot,2012-10-19T22:23:16Z,,close,[],13,1,['numpy-gitbot']
+2343,issue,numpy-gitbot,2012-10-19T22:23:11Z,,close,[],3,1,['numpy-gitbot']
+2342,issue,numpy-gitbot,2012-10-19T22:23:09Z,,close,[],4,1,['numpy-gitbot']
+2341,issue,numpy-gitbot,2012-10-19T22:23:06Z,,close,[],3,1,['numpy-gitbot']
+2340,issue,charris,2015-04-03T16:54:35Z,#5733,close,['#5733'],7,2,"['numpy-gitbot', 'charris']"
+2337,issue,numpy-gitbot,2012-10-19T22:22:57Z,,close,[],5,1,['numpy-gitbot']
+2336,issue,numpy-gitbot,2012-10-19T22:22:54Z,,close,[],4,1,['numpy-gitbot']
+2335,issue,numpy-gitbot,2012-10-19T22:22:52Z,,close,[],2,1,['numpy-gitbot']
+2332,issue,numpy-gitbot,2012-10-19T22:22:46Z,,close,[],14,1,['numpy-gitbot']
+2331,issue,numpy-gitbot,2012-10-19T22:22:41Z,,close,[],2,1,['numpy-gitbot']
+2330,issue,numpy-gitbot,2012-10-19T22:22:40Z,,close,[],3,1,['numpy-gitbot']
+2329,issue,numpy-gitbot,2012-10-19T22:22:38Z,,close,[],4,1,['numpy-gitbot']
+2328,issue,numpy-gitbot,2012-10-19T22:22:36Z,,close,[],4,1,['numpy-gitbot']
+2327,issue,numpy-gitbot,2012-10-19T22:22:33Z,,close,[],2,1,['numpy-gitbot']
+2324,issue,charris,2014-02-19T18:39:01Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2322,issue,numpy-gitbot,2012-10-19T22:22:22Z,,close,[],2,1,['numpy-gitbot']
+2321,issue,charris,2015-02-13T17:44:16Z,#5518,close,"['#3010', '#5510', '#5518']",3,1,['numpy-gitbot']
+2320,issue,numpy-gitbot,2012-10-19T22:22:18Z,,close,[],4,1,['numpy-gitbot']
+2319,issue,numpy-gitbot,2012-10-19T22:22:16Z,,close,[],31,1,['numpy-gitbot']
+2317,issue,seberg,2014-08-16T08:22:54Z,9c76897,close,['#6349'],3,3,"['numpy-gitbot', 'Thav', 'charris']"
+2316,issue,seberg,2013-12-05T00:07:26Z,,close,[],5,2,"['numpy-gitbot', 'seberg']"
+2315,issue,charris,2014-03-04T23:35:22Z,#4435,close,['#4435'],4,3,"['numpy-gitbot', 'charris', 'jaimefrio']"
+2313,issue,numpy-gitbot,2012-10-19T22:21:56Z,,close,[],5,1,['numpy-gitbot']
+2312,issue,charris,2014-02-26T14:50:39Z,1058717,close,[],1,2,"['numpy-gitbot', 'charris']"
+2311,issue,seberg,2014-02-20T23:26:45Z,,close,[],12,3,"['numpy-gitbot', 'charris', 'seberg']"
+2309,issue,charris,2014-02-19T19:52:48Z,,close,[],8,3,"['numpy-gitbot', 'charris', 'matthew-brett']"
+2308,issue,seberg,2014-02-19T18:24:02Z,,close,[],4,4,"['numpy-gitbot', 'brianthelion', 'charris', 'seberg']"
+2307,issue,seberg,2014-02-16T23:30:32Z,,close,[],3,2,"['numpy-gitbot', 'seberg']"
+2306,issue,charris,2014-02-16T03:14:55Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2305,issue,numpy-gitbot,2012-10-19T22:21:41Z,,close,[],3,1,['numpy-gitbot']
+2304,issue,numpy-gitbot,2012-10-19T22:21:39Z,,close,[],4,1,['numpy-gitbot']
+2303,issue,njsmith,2016-02-23T21:48:57Z,#7311,close,['#7311'],7,4,"['numpy-gitbot', 'charris', 'njsmith', 'udiboy1209']"
+2302,issue,numpy-gitbot,2012-10-19T22:21:35Z,,close,[],2,1,['numpy-gitbot']
+2301,issue,numpy-gitbot,2012-10-19T22:21:33Z,,close,[],4,1,['numpy-gitbot']
+2299,issue,numpy-gitbot,2012-10-19T22:21:27Z,,close,[],7,1,['numpy-gitbot']
+2298,issue,charris,2014-02-19T18:10:00Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2297,issue,numpy-gitbot,2012-10-19T22:21:23Z,,close,[],7,1,['numpy-gitbot']
+2296,issue,numpy-gitbot,2012-10-19T22:21:18Z,,close,[],3,1,['numpy-gitbot']
+2295,issue,numpy-gitbot,2012-10-19T22:21:16Z,,close,[],6,1,['numpy-gitbot']
+2294,issue,numpy-gitbot,2012-10-19T22:21:13Z,,close,[],3,1,['numpy-gitbot']
+2293,issue,numpy-gitbot,2012-10-19T22:21:11Z,,close,[],3,1,['numpy-gitbot']
+2292,issue,numpy-gitbot,2012-10-19T22:21:09Z,,close,[],2,1,['numpy-gitbot']
+2291,issue,numpy-gitbot,2012-10-19T22:21:08Z,,close,[],7,1,['numpy-gitbot']
+2290,issue,numpy-gitbot,2012-10-19T22:21:03Z,,close,[],9,1,['numpy-gitbot']
+2289,issue,numpy-gitbot,2012-10-19T22:20:59Z,,close,[],3,1,['numpy-gitbot']
+2288,issue,numpy-gitbot,2012-10-19T22:20:57Z,,close,[],4,1,['numpy-gitbot']
+2287,issue,numpy-gitbot,2012-10-19T22:20:53Z,,close,[],5,1,['numpy-gitbot']
+2286,issue,numpy-gitbot,2012-10-19T22:20:51Z,,close,[],5,1,['numpy-gitbot']
+2285,issue,charris,2014-02-15T21:25:13Z,,close,[],15,2,"['numpy-gitbot', 'charris']"
+2284,issue,ahaldane,2015-09-25T02:47:55Z,,close,[],6,4,"['numpy-gitbot', 'efiring', 'jjhelmus', 'ahaldane']"
+2283,issue,numpy-gitbot,2012-10-19T22:20:43Z,,close,[],4,1,['numpy-gitbot']
+2282,issue,numpy-gitbot,2012-10-19T22:20:40Z,,close,[],3,1,['numpy-gitbot']
+2281,issue,pv,2013-09-29T13:42:49Z,,close,[],3,3,"['numpy-gitbot', 'jarondl', 'pv']"
+2280,issue,charris,2014-02-15T23:51:58Z,,close,['#5590'],3,2,"['numpy-gitbot', 'charris']"
+2278,issue,numpy-gitbot,2012-10-19T22:20:34Z,,close,[],5,1,['numpy-gitbot']
+2277,issue,numpy-gitbot,2012-10-19T22:20:31Z,,close,[],6,1,['numpy-gitbot']
+2276,issue,seberg,2013-12-12T23:09:41Z,#4117,close,['#4117'],8,4,"['numpy-gitbot', 'WarrenWeckesser', 'seberg', 'abalkin']"
+2275,issue,numpy-gitbot,2012-10-19T22:20:27Z,,close,[],3,1,['numpy-gitbot']
+2274,issue,numpy-gitbot,2012-10-19T22:20:24Z,,close,[],3,1,['numpy-gitbot']
+2272,issue,numpy-gitbot,2012-10-19T22:20:20Z,,close,[],3,1,['numpy-gitbot']
+2271,issue,numpy-gitbot,2012-10-19T22:20:17Z,,close,[],3,1,['numpy-gitbot']
+2270,issue,numpy-gitbot,2012-10-19T22:20:14Z,,close,[],3,1,['numpy-gitbot']
+2268,issue,numpy-gitbot,2012-10-19T22:20:10Z,,close,[],7,1,['numpy-gitbot']
+2267,issue,numpy-gitbot,2012-10-19T22:20:07Z,,close,[],5,1,['numpy-gitbot']
+2265,issue,numpy-gitbot,2012-10-19T22:20:02Z,,close,[],2,1,['numpy-gitbot']
+2264,issue,charris,2013-06-17T00:55:48Z,,close,[],5,3,"['numpy-gitbot', 'efiring', 'charris']"
+2261,issue,rgommers,2013-09-29T18:46:32Z,,close,[],7,3,"['numpy-gitbot', 'jarondl', 'rgommers']"
+2260,issue,charris,2014-02-19T17:33:46Z,,close,[],5,2,"['numpy-gitbot', 'charris']"
+2259,issue,numpy-gitbot,2012-10-19T22:19:49Z,,close,[],2,1,['numpy-gitbot']
+2258,issue,numpy-gitbot,2012-10-19T22:19:47Z,,close,[],4,1,['numpy-gitbot']
+2257,issue,numpy-gitbot,2012-10-19T22:19:45Z,,close,[],5,1,['numpy-gitbot']
+2256,issue,numpy-gitbot,2012-10-19T22:19:42Z,,close,[],18,1,['numpy-gitbot']
+2255,issue,numpy-gitbot,2012-10-19T22:19:37Z,,close,[],3,1,['numpy-gitbot']
+2254,issue,charris,2014-02-19T23:53:46Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2252,issue,numpy-gitbot,2012-10-19T22:19:31Z,,close,[],4,1,['numpy-gitbot']
+2251,issue,numpy-gitbot,2012-10-19T22:19:29Z,,close,[],5,1,['numpy-gitbot']
+2250,issue,numpy-gitbot,2012-10-19T22:19:26Z,,close,[],3,1,['numpy-gitbot']
+2247,issue,seberg,2013-11-10T22:19:21Z,,close,[],2,2,"['numpy-gitbot', 'seberg']"
+2246,issue,charris,2014-02-19T17:31:47Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2245,issue,numpy-gitbot,2012-10-19T22:19:18Z,,close,[],3,1,['numpy-gitbot']
+2244,issue,charris,2015-10-04T15:11:51Z,7744de5,close,[],1,1,['numpy-gitbot']
+2243,issue,numpy-gitbot,2012-10-19T22:19:15Z,,close,[],2,1,['numpy-gitbot']
+2242,issue,numpy-gitbot,2012-10-19T22:19:13Z,,close,[],10,1,['numpy-gitbot']
+2241,issue,numpy-gitbot,2012-10-19T22:19:09Z,,close,[],2,1,['numpy-gitbot']
+2240,issue,numpy-gitbot,2012-10-19T22:19:06Z,,close,[],2,1,['numpy-gitbot']
+2239,issue,numpy-gitbot,2012-10-19T22:19:05Z,,close,[],2,1,['numpy-gitbot']
+2238,issue,numpy-gitbot,2012-10-19T22:19:02Z,,close,[],6,1,['numpy-gitbot']
+2237,issue,numpy-gitbot,2012-10-19T22:18:59Z,,close,[],2,1,['numpy-gitbot']
+2236,issue,numpy-gitbot,2012-10-19T22:18:57Z,,close,[],5,1,['numpy-gitbot']
+2235,issue,numpy-gitbot,2012-10-19T22:18:55Z,,close,[],4,1,['numpy-gitbot']
+2233,issue,numpy-gitbot,2012-10-19T22:18:50Z,,close,[],3,1,['numpy-gitbot']
+2232,issue,numpy-gitbot,2012-10-19T22:18:48Z,,close,[],5,1,['numpy-gitbot']
+2231,issue,numpy-gitbot,2012-10-19T22:18:46Z,,close,[],4,1,['numpy-gitbot']
+2229,issue,numpy-gitbot,2012-10-19T22:18:42Z,,close,[],17,1,['numpy-gitbot']
+2228,issue,numpy-gitbot,2012-10-19T22:18:36Z,,close,[],6,1,['numpy-gitbot']
+2227,issue,charris,2014-02-19T17:30:11Z,,close,[],17,2,"['numpy-gitbot', 'charris']"
+2226,issue,numpy-gitbot,2012-10-19T22:18:24Z,,close,[],2,1,['numpy-gitbot']
+2225,issue,numpy-gitbot,2012-10-19T22:18:21Z,,close,[],6,1,['numpy-gitbot']
+2224,issue,numpy-gitbot,2012-10-19T22:18:19Z,,close,[],4,1,['numpy-gitbot']
+2223,issue,charris,2014-02-19T21:56:24Z,,close,[],6,3,"['numpy-gitbot', 'charris', 'fonnesbeck']"
+2222,issue,numpy-gitbot,2012-10-19T22:18:15Z,,close,[],3,1,['numpy-gitbot']
+2221,issue,numpy-gitbot,2012-10-19T22:18:13Z,,close,[],11,1,['numpy-gitbot']
+2220,issue,numpy-gitbot,2012-10-19T22:18:07Z,,close,[],3,1,['numpy-gitbot']
+2218,issue,seberg,2013-11-13T17:45:41Z,,close,[],6,3,"['numpy-gitbot', 'WarrenWeckesser', 'seberg']"
+2214,issue,charris,2014-02-19T16:58:15Z,,close,['#462'],2,2,"['numpy-gitbot', 'charris']"
+2213,issue,numpy-gitbot,2012-10-19T22:17:54Z,,close,[],3,1,['numpy-gitbot']
+2210,issue,numpy-gitbot,2012-10-19T22:17:45Z,,close,[],4,1,['numpy-gitbot']
+2208,issue,charris,2014-03-13T15:20:32Z,1a977ac,close,[],3,3,"['numpy-gitbot', 'charris', 'Sankarshan-Mudkavi']"
+2207,issue,charris,2014-02-20T01:44:38Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2206,issue,numpy-gitbot,2012-10-19T22:17:38Z,,close,[],10,1,['numpy-gitbot']
+2205,issue,numpy-gitbot,2012-10-19T22:17:34Z,,close,[],2,1,['numpy-gitbot']
+2204,issue,numpy-gitbot,2012-10-19T22:17:32Z,,close,[],9,1,['numpy-gitbot']
+2203,issue,numpy-gitbot,2012-10-19T22:17:26Z,,close,[],4,1,['numpy-gitbot']
+2202,issue,numpy-gitbot,2012-10-19T22:17:23Z,,close,[],6,1,['numpy-gitbot']
+2201,issue,numpy-gitbot,2012-10-19T22:17:20Z,,close,[],4,1,['numpy-gitbot']
+2200,issue,numpy-gitbot,2012-10-19T22:17:17Z,,close,[],3,1,['numpy-gitbot']
+2198,issue,charris,2014-02-20T01:41:42Z,,close,[],4,2,"['numpy-gitbot', 'charris']"
+2197,issue,numpy-gitbot,2012-10-19T22:17:09Z,,close,[],8,1,['numpy-gitbot']
+2196,issue,ahaldane,2016-06-02T15:26:52Z,#6430,close,"['#473', '#6430']",11,5,"['numpy-gitbot', 'charris', 'ahaldane', 'njsmith', 'embray']"
+2195,issue,seberg,2013-10-16T18:17:28Z,,close,[],4,2,"['numpy-gitbot', 'seberg']"
+2194,issue,numpy-gitbot,2012-10-19T22:17:03Z,,close,[],4,1,['numpy-gitbot']
+2193,issue,numpy-gitbot,2012-10-19T22:17:01Z,,close,[],3,1,['numpy-gitbot']
+2192,issue,numpy-gitbot,2012-10-19T22:16:59Z,,close,[],4,1,['numpy-gitbot']
+2189,issue,numpy-gitbot,2012-10-19T22:16:53Z,,close,[],4,1,['numpy-gitbot']
+2187,issue,numpy-gitbot,2012-10-19T22:16:48Z,,close,[],4,1,['numpy-gitbot']
+2186,issue,charris,2014-02-19T16:47:51Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2185,issue,numpy-gitbot,2012-10-19T22:16:44Z,,close,[],3,1,['numpy-gitbot']
+2184,issue,numpy-gitbot,2012-10-19T22:16:42Z,,close,['#351'],13,1,['numpy-gitbot']
+2182,issue,numpy-gitbot,2012-10-19T22:16:32Z,,close,[],5,1,['numpy-gitbot']
+2181,issue,numpy-gitbot,2012-10-19T22:16:30Z,,close,[],3,1,['numpy-gitbot']
+2180,issue,numpy-gitbot,2012-10-19T22:16:28Z,,close,[],10,1,['numpy-gitbot']
+2178,issue,numpy-gitbot,2012-10-19T22:16:22Z,,close,[],4,1,['numpy-gitbot']
+2177,issue,numpy-gitbot,2012-10-19T22:16:20Z,,close,[],3,1,['numpy-gitbot']
+2176,issue,numpy-gitbot,2012-10-19T22:16:17Z,,close,[],3,1,['numpy-gitbot']
+2175,issue,numpy-gitbot,2012-10-19T22:16:15Z,,close,[],32,1,['numpy-gitbot']
+2174,issue,numpy-gitbot,2012-10-19T22:16:05Z,,close,[],4,1,['numpy-gitbot']
+2173,issue,numpy-gitbot,2012-10-19T22:16:02Z,,close,[],3,1,['numpy-gitbot']
+2172,issue,numpy-gitbot,2012-10-19T22:15:59Z,,close,[],8,1,['numpy-gitbot']
+2171,issue,numpy-gitbot,2012-10-19T22:15:53Z,,close,[],8,1,['numpy-gitbot']
+2170,issue,numpy-gitbot,2012-10-19T22:15:45Z,,close,[],4,1,['numpy-gitbot']
+2169,issue,numpy-gitbot,2012-10-19T22:15:42Z,,close,[],2,1,['numpy-gitbot']
+2168,issue,numpy-gitbot,2012-10-19T22:15:39Z,,close,[],5,1,['numpy-gitbot']
+2167,issue,numpy-gitbot,2012-10-19T22:15:35Z,,close,[],5,1,['numpy-gitbot']
+2165,issue,numpy-gitbot,2012-10-19T22:15:29Z,,close,['#349'],5,1,['numpy-gitbot']
+2164,issue,numpy-gitbot,2012-10-19T22:15:26Z,,close,[],2,1,['numpy-gitbot']
+2163,issue,numpy-gitbot,2012-10-19T22:15:25Z,,close,[],2,1,['numpy-gitbot']
+2162,issue,numpy-gitbot,2012-10-19T22:15:23Z,,close,[],17,1,['numpy-gitbot']
+2161,issue,numpy-gitbot,2012-10-19T22:15:13Z,,close,[],3,1,['numpy-gitbot']
+2160,issue,numpy-gitbot,2012-10-19T22:15:11Z,,close,[],4,1,['numpy-gitbot']
+2158,issue,numpy-gitbot,2012-10-19T22:15:06Z,,close,[],2,1,['numpy-gitbot']
+2157,issue,numpy-gitbot,2012-10-19T22:15:04Z,,close,[],3,1,['numpy-gitbot']
+2156,issue,numpy-gitbot,2012-10-19T22:15:01Z,,close,[],9,1,['numpy-gitbot']
+2155,issue,numpy-gitbot,2012-10-19T22:14:58Z,,close,[],6,1,['numpy-gitbot']
+2154,issue,numpy-gitbot,2012-10-19T22:14:55Z,,close,[],2,1,['numpy-gitbot']
+2151,issue,numpy-gitbot,2012-10-19T22:14:50Z,,close,[],2,1,['numpy-gitbot']
+2150,issue,njsmith,2013-08-30T15:02:40Z,,close,[],2,3,"['numpy-gitbot', 'ewmoore', 'njsmith']"
+2149,issue,charris,2014-02-19T16:05:17Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+2147,issue,numpy-gitbot,2012-10-19T22:14:45Z,,close,[],5,1,['numpy-gitbot']
+2146,issue,numpy-gitbot,2012-10-19T22:14:42Z,,close,[],8,1,['numpy-gitbot']
+2145,issue,numpy-gitbot,2012-10-19T22:14:38Z,,close,[],7,1,['numpy-gitbot']
+2144,issue,numpy-gitbot,2012-10-19T22:14:36Z,,close,[],2,1,['numpy-gitbot']
+2143,issue,numpy-gitbot,2012-10-19T22:14:34Z,,close,[],4,1,['numpy-gitbot']
+2141,issue,charris,2014-02-19T15:57:12Z,,close,[],2,2,"['numpy-gitbot', 'charris']"
+2140,issue,numpy-gitbot,2012-10-19T22:14:28Z,,close,[],7,1,['numpy-gitbot']
+2139,issue,numpy-gitbot,2012-10-19T22:14:25Z,,close,[],8,1,['numpy-gitbot']
+2138,issue,jaimefrio,2015-05-04T05:27:48Z,,close,['#5131'],5,3,"['numpy-gitbot', 'charris', 'jaimefrio']"
+2137,issue,numpy-gitbot,2012-10-19T22:14:20Z,,close,[],3,1,['numpy-gitbot']
+2136,issue,numpy-gitbot,2012-10-19T22:14:18Z,,close,[],7,1,['numpy-gitbot']
+2135,issue,numpy-gitbot,2012-10-19T22:14:15Z,,close,[],3,1,['numpy-gitbot']
+2134,issue,numpy-gitbot,2012-10-19T22:14:12Z,,close,[],5,1,['numpy-gitbot']
+2133,issue,numpy-gitbot,2012-10-19T22:14:10Z,,close,[],4,1,['numpy-gitbot']
+2132,issue,numpy-gitbot,2012-10-19T22:14:07Z,,close,[],6,1,['numpy-gitbot']
+2131,issue,numpy-gitbot,2012-10-19T22:14:04Z,,close,[],4,1,['numpy-gitbot']
+2128,issue,numpy-gitbot,2012-10-19T22:13:52Z,,close,[],5,1,['numpy-gitbot']
+2127,issue,numpy-gitbot,2012-10-19T22:13:49Z,,close,[],3,1,['numpy-gitbot']
+2126,issue,numpy-gitbot,2012-10-19T22:13:47Z,,close,[],4,1,['numpy-gitbot']
+2125,issue,numpy-gitbot,2012-10-19T22:13:45Z,,close,[],3,1,['numpy-gitbot']
+2124,issue,numpy-gitbot,2012-10-19T22:13:42Z,,close,[],4,1,['numpy-gitbot']
+2123,issue,numpy-gitbot,2012-10-20T07:28:43Z,,close,[],6,2,"['thouis', 'numpy-gitbot']"
+2122,issue,thouis,2012-10-19T21:06:59Z,,close,[],4,1,['thouis']
+2121,issue,thouis,2012-10-19T21:06:56Z,,close,[],5,1,['thouis']
+2120,issue,thouis,2012-10-19T21:06:53Z,,close,[],4,1,['thouis']
+2119,issue,charris,2013-09-04T03:55:47Z,,close,[],12,3,"['thouis', 'ewmoore', 'charris']"
+2115,issue,jaimefrio,2016-03-27T18:46:09Z,,close,[],10,5,"['thouis', 'jluttine', 'jaimefrio', 'shoyer', 'davidmashburn']"
+2114,issue,charris,2013-02-13T03:52:48Z,,close,[],9,3,"['thouis', 'ewmoore', 'charris']"
+2113,issue,seberg,2013-12-04T23:53:32Z,,close,[],6,4,"['thouis', 'seberg', 'amarder', 'charris']"
+2112,issue,thouis,2012-10-19T21:06:12Z,,close,[],4,1,['thouis']
+2110,issue,charris,2014-02-19T05:49:04Z,,close,[],3,2,"['thouis', 'charris']"
+2106,issue,thouis,2012-10-19T21:05:52Z,,close,[],5,1,['thouis']
+2105,issue,charris,2014-02-19T15:35:46Z,,close,[],3,2,"['thouis', 'charris']"
+2104,issue,thouis,2012-10-19T21:05:46Z,,close,[],8,2,"['thouis', 'numpy-gitbot']"
+2103,issue,thouis,2012-10-19T21:05:40Z,,close,[],4,1,['thouis']
+2102,issue,thouis,2012-10-19T21:05:37Z,,close,[],6,1,['thouis']
+2101,issue,charris,2013-05-05T16:54:16Z,,close,[],7,4,"['thouis', 'numpy-gitbot', 'simon-r', 'charris']"
+2100,issue,thouis,2012-10-19T21:05:29Z,,close,[],3,1,['thouis']
+2099,issue,thouis,2012-10-19T21:05:26Z,,close,[],4,1,['thouis']
+2097,issue,charris,2014-02-19T15:33:58Z,,close,[],3,2,"['thouis', 'charris']"
+2096,issue,charris,2014-02-19T16:09:17Z,,close,[],9,3,"['thouis', 'charris', 'stsci-sienkiew']"
+2093,issue,thouis,2012-10-19T21:05:02Z,,close,[],3,1,['thouis']
+2092,issue,charris,2014-03-16T03:04:46Z,#4498,close,['#4498'],3,2,"['thouis', 'charris']"
+2091,issue,njsmith,2015-06-22T10:01:51Z,,close,"['#5353', '#5964']",12,7,"['thouis', 'charris', 'ddasilva', 'abalkin', 'pv', 'seberg', 'njsmith']"
+2090,issue,thouis,2012-10-19T21:04:54Z,,close,[],3,1,['thouis']
+2088,issue,thouis,2012-10-19T21:04:50Z,,close,[],7,1,['thouis']
+2087,issue,thouis,2012-10-19T21:04:47Z,,close,[],8,1,['thouis']
+2086,issue,thouis,2012-10-19T21:04:42Z,,close,[],7,1,['thouis']
+2084,issue,charris,2013-02-13T03:38:31Z,,close,[],4,3,"['thouis', 'ewmoore', 'charris']"
+2082,issue,thouis,2012-10-19T21:04:31Z,,close,[],6,1,['thouis']
+2080,issue,thouis,2012-10-19T21:04:26Z,,close,[],3,1,['thouis']
+2079,issue,thouis,2012-10-19T21:04:23Z,,close,[],6,1,['thouis']
+2076,issue,thouis,2012-10-19T21:04:15Z,,close,[],3,1,['thouis']
+2075,issue,thouis,2012-10-19T21:04:13Z,,close,[],2,1,['thouis']
+2074,issue,charris,2014-02-19T05:12:55Z,,close,[],18,7,"['thouis', 'sparseinference', 'certik', 'dwf', 'charris', 'pv', 'njsmith']"
+2073,issue,thouis,2012-10-19T21:04:09Z,,close,[],4,1,['thouis']
+2072,issue,charris,2014-02-19T05:05:42Z,,close,[],7,2,"['thouis', 'charris']"
+2071,issue,thouis,2012-10-19T21:04:04Z,,close,[],6,1,['thouis']
+2070,issue,thouis,2012-10-19T21:04:02Z,,close,[],6,1,['thouis']
+2069,issue,thouis,2012-10-19T21:03:56Z,,close,[],2,1,['thouis']
+2068,issue,charris,2014-02-19T05:04:08Z,,close,[],16,3,"['thouis', 'megies', 'charris']"
+2066,issue,thouis,2012-10-19T21:03:46Z,,close,[],2,1,['thouis']
+2065,issue,thouis,2012-10-19T21:03:44Z,,close,[],7,1,['thouis']
+2064,issue,thouis,2012-10-19T21:03:41Z,,close,[],3,1,['thouis']
+2063,issue,charris,2014-02-19T06:37:34Z,,close,[],7,3,"['thouis', 'charris', 'rgommers']"
+2061,issue,thouis,2012-10-19T21:03:34Z,,close,[],4,1,['thouis']
+2058,issue,thouis,2012-10-19T21:03:25Z,,close,[],2,1,['thouis']
+2057,issue,thouis,2012-10-19T21:03:22Z,,close,[],2,1,['thouis']
+2056,issue,jaimefrio,2015-05-12T10:53:09Z,,close,[],6,4,"['thouis', 'charris', 'josef-pkt', 'jaimefrio']"
+2055,issue,thouis,2012-10-19T21:03:19Z,,close,[],11,1,['thouis']
+2054,issue,thouis,2012-10-19T21:03:14Z,,close,[],2,1,['thouis']
+2052,issue,thouis,2012-10-19T21:03:10Z,,close,['#3952'],2,1,['thouis']
+2051,issue,thouis,2012-10-19T21:03:08Z,,close,[],6,1,['thouis']
+2050,issue,thouis,2012-10-19T21:03:05Z,,close,[],3,1,['thouis']
+2046,issue,juliantaylor,2014-02-14T16:13:10Z,,close,[],3,2,"['thouis', 'juliantaylor']"
+2045,issue,thouis,2012-10-19T21:02:50Z,,close,[],7,2,"['thouis', 'numpy-gitbot']"
+2044,issue,thouis,2012-10-19T21:02:47Z,,close,[],2,1,['thouis']
+2043,issue,thouis,2012-10-19T21:02:45Z,,close,[],4,1,['thouis']
+2041,issue,charris,2014-02-20T01:20:25Z,,close,[],4,2,"['thouis', 'charris']"
+2040,issue,thouis,2012-10-19T21:02:37Z,,close,[],6,1,['thouis']
+2039,issue,seberg,2016-01-10T09:14:04Z,#6630,close,['#6630'],9,5,"['thouis', 'BenFrantzDale', 'juliantaylor', 'charris', 'shoyer']"
+2038,issue,thouis,2012-10-19T21:02:32Z,,close,[],4,1,['thouis']
+2037,issue,thouis,2012-10-19T21:02:29Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+2036,issue,thouis,2012-10-19T21:02:27Z,,close,[],5,1,['thouis']
+2035,issue,thouis,2012-10-19T21:02:24Z,,close,[],2,1,['thouis']
+2034,issue,thouis,2012-10-19T21:02:22Z,,close,[],4,1,['thouis']
+2033,issue,thouis,2012-10-19T21:02:19Z,,close,[],4,1,['thouis']
+2032,issue,thouis,2012-10-19T21:02:15Z,,close,[],3,1,['thouis']
+2030,issue,charris,2014-02-17T01:54:08Z,,close,[],4,3,"['thouis', 'charris', 'yarikoptic']"
+2029,issue,thouis,2012-10-19T21:02:10Z,,close,[],11,1,['thouis']
+2028,issue,thouis,2012-10-19T21:02:05Z,,close,['#349'],3,1,['thouis']
+2027,issue,thouis,2012-10-19T21:02:01Z,,close,[],2,1,['thouis']
+2026,issue,thouis,2012-10-19T21:01:59Z,,close,[],4,2,"['thouis', 'numpy-gitbot']"
+2025,issue,thouis,2012-10-19T21:01:57Z,,close,[],6,2,"['thouis', 'numpy-gitbot']"
+2024,issue,seberg,2013-12-04T23:40:35Z,,close,[],2,2,"['thouis', 'seberg']"
+2023,issue,thouis,2012-10-19T21:01:53Z,,close,[],11,2,"['thouis', 'numpy-gitbot']"
+2022,issue,thouis,2012-10-19T21:01:49Z,,close,[],3,1,['thouis']
+2021,issue,thouis,2012-10-19T21:01:45Z,,close,[],3,1,['thouis']
+2020,issue,thouis,2012-10-19T21:01:41Z,,close,[],4,1,['thouis']
+2019,issue,charris,2013-06-16T01:00:26Z,,close,[],4,3,"['thouis', 'efiring', 'charris']"
+2018,issue,seberg,2013-12-04T23:21:46Z,,close,[],2,2,"['thouis', 'seberg']"
+2017,issue,charris,2014-02-19T00:41:26Z,,close,['#231'],5,3,"['thouis', 'numpy-gitbot', 'charris']"
+2015,issue,charris,2014-12-12T20:24:45Z,#5358,close,['#5358'],7,6,"['thouis', 'WarrenWeckesser', 'charris', 'Garrett-R', 'njsmith', 'jaimefrio']"
+2014,issue,charris,2015-05-03T15:20:52Z,#5828,close,['#5828'],6,2,"['thouis', 'charris']"
+2013,issue,thouis,2012-10-19T21:01:28Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+2012,issue,charris,2014-05-09T23:48:20Z,,close,['#4687'],16,4,"['thouis', 'charris', 'wa03', 'josef-pkt']"
+2010,issue,thouis,2012-10-19T21:01:22Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+2009,issue,thouis,2012-10-19T21:01:20Z,,close,[],4,1,['thouis']
+2008,issue,thouis,2012-10-19T21:01:18Z,,close,[],3,1,['thouis']
+2007,issue,thouis,2012-10-19T21:01:16Z,,close,[],4,1,['thouis']
+2006,issue,charris,2014-02-19T00:21:16Z,,close,[],2,2,"['thouis', 'charris']"
+2005,issue,charris,2014-02-19T00:18:31Z,,close,[],4,2,"['thouis', 'charris']"
+2004,issue,thouis,2012-10-19T21:01:10Z,,close,[],4,1,['thouis']
+2003,issue,thouis,2012-10-19T21:01:07Z,,close,[],2,1,['thouis']
+2002,issue,thouis,2012-10-19T21:01:05Z,,close,[],2,1,['thouis']
+1999,issue,thouis,2012-10-19T21:00:54Z,,close,[],9,1,['thouis']
+1997,issue,thouis,2012-10-19T21:00:49Z,,close,[],24,1,['thouis']
+1996,issue,charris,2014-02-19T00:06:45Z,,close,[],4,4,"['thouis', 'charris', 'b45ch1', 'seberg']"
+1995,issue,thouis,2012-10-19T21:00:39Z,,close,[],2,1,['thouis']
+1992,issue,thouis,2012-10-19T21:00:32Z,,close,[],3,1,['thouis']
+1990,issue,thouis,2012-10-19T21:00:29Z,,close,[],2,1,['thouis']
+1989,issue,thouis,2012-10-19T21:00:27Z,,close,[],4,1,['thouis']
+1988,issue,thouis,2012-10-19T21:00:24Z,,close,[],5,1,['thouis']
+1987,issue,thouis,2012-10-19T21:00:22Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1986,issue,thouis,2012-10-19T21:00:20Z,,close,[],9,1,['thouis']
+1985,issue,thouis,2012-10-19T21:00:15Z,,close,[],4,1,['thouis']
+1984,issue,charris,2015-10-18T20:14:54Z,#6208,close,['#6208'],7,2,"['thouis', 'charris']"
+1981,issue,thouis,2012-10-19T21:00:05Z,,close,[],6,1,['thouis']
+1980,issue,thouis,2012-10-19T21:00:02Z,,close,[],3,1,['thouis']
+1979,issue,rgommers,2013-05-05T17:13:09Z,,close,[],5,3,"['thouis', 'charris', 'rgommers']"
+1978,issue,charris,2014-02-20T00:48:37Z,,close,[],11,2,"['thouis', 'charris']"
+1977,issue,thouis,2012-10-19T20:59:54Z,,close,[],4,1,['thouis']
+1976,issue,thouis,2012-10-19T20:59:52Z,,close,[],7,1,['thouis']
+1975,issue,thouis,2012-10-19T20:59:49Z,,close,[],4,1,['thouis']
+1974,issue,thouis,2012-10-19T20:59:46Z,,close,[],2,1,['thouis']
+1973,issue,thouis,2012-10-19T20:59:45Z,,close,[],2,1,['thouis']
+1972,issue,thouis,2012-10-19T20:59:43Z,,close,[],5,1,['thouis']
+1971,issue,thouis,2012-10-19T20:59:40Z,,close,[],5,1,['thouis']
+1970,issue,thouis,2012-10-19T20:59:36Z,,close,[],3,1,['thouis']
+1969,issue,thouis,2012-10-19T20:59:33Z,,close,[],5,1,['thouis']
+1968,issue,thouis,2012-10-19T20:59:31Z,,close,[],7,1,['thouis']
+1966,issue,thouis,2012-10-19T20:59:27Z,,close,[],2,1,['thouis']
+1965,issue,thouis,2012-10-19T20:59:25Z,,close,[],4,1,['thouis']
+1964,issue,thouis,2012-10-19T20:59:22Z,,close,[],2,1,['thouis']
+1962,issue,thouis,2012-10-19T20:59:16Z,,close,[],4,1,['thouis']
+1961,issue,thouis,2012-10-19T20:59:12Z,,close,[],3,1,['thouis']
+1960,issue,thouis,2012-10-19T20:59:10Z,,close,[],7,1,['thouis']
+1959,issue,seberg,2013-02-09T10:29:55Z,,close,[],6,4,"['thouis', 'numpy-gitbot', 'supermank17', 'seberg']"
+1957,issue,thouis,2012-10-19T20:59:03Z,,close,[],2,1,['thouis']
+1956,issue,thouis,2012-10-19T20:59:00Z,,close,[],2,1,['thouis']
+1955,issue,thouis,2012-10-19T20:58:58Z,,close,[],3,1,['thouis']
+1954,issue,thouis,2012-10-19T20:58:56Z,,close,[],6,1,['thouis']
+1953,issue,thouis,2012-10-19T20:58:54Z,,close,[],2,1,['thouis']
+1951,issue,charris,2014-02-21T15:57:08Z,,close,[],10,5,"['thouis', 'rgommers', 'pv', 'charris', 'dpinte']"
+1950,issue,njsmith,2013-08-30T15:24:05Z,,close,[],3,3,"['thouis', 'ewmoore', 'njsmith']"
+1949,issue,charris,2014-02-18T23:46:04Z,,close,[],6,2,"['thouis', 'charris']"
+1948,issue,thouis,2012-10-19T20:58:44Z,,close,[],1,1,['thouis']
+1947,issue,thouis,2012-10-19T20:58:42Z,,close,[],6,1,['thouis']
+1946,issue,thouis,2012-10-19T20:58:39Z,,close,[],4,1,['thouis']
+1944,issue,charris,2014-02-18T23:42:32Z,,close,[],4,2,"['thouis', 'charris']"
+1943,issue,thouis,2012-10-19T20:58:34Z,,close,[],15,1,['thouis']
+1941,issue,thouis,2012-10-19T20:58:27Z,,close,[],6,1,['thouis']
+1939,issue,rgommers,2013-10-04T20:27:40Z,cc99961,close,['#3865'],2,1,['thouis']
+1938,issue,charris,2014-02-15T05:03:23Z,,close,[],4,3,"['thouis', 'romanstingler', 'charris']"
+1937,issue,thouis,2012-10-19T20:58:20Z,,close,[],2,1,['thouis']
+1936,issue,thouis,2012-10-19T20:58:18Z,,close,[],4,1,['thouis']
+1935,issue,charris,2014-02-18T23:40:04Z,,close,[],6,2,"['thouis', 'charris']"
+1934,issue,thouis,2012-10-19T20:58:13Z,,close,[],19,1,['thouis']
+1933,issue,thouis,2012-10-19T20:58:06Z,,close,[],3,1,['thouis']
+1932,issue,thouis,2012-10-19T20:58:03Z,,close,[],3,2,"['thouis', 'numpy-gitbot']"
+1931,issue,charris,2014-02-17T02:29:05Z,,close,[],4,2,"['thouis', 'charris']"
+1930,issue,thouis,2012-10-19T20:57:58Z,,close,[],15,1,['thouis']
+1929,issue,thouis,2012-10-19T20:57:52Z,,close,[],4,1,['thouis']
+1928,issue,thouis,2012-10-19T20:57:49Z,,close,[],5,1,['thouis']
+1927,issue,thouis,2012-10-19T20:57:47Z,,close,[],3,1,['thouis']
+1926,issue,thouis,2012-10-19T20:57:45Z,,close,[],3,1,['thouis']
+1924,issue,thouis,2012-10-19T20:57:39Z,,close,['#133'],5,1,['thouis']
+1923,issue,charris,2013-05-05T17:31:21Z,,close,[],5,2,"['thouis', 'charris']"
+1922,issue,charris,2014-02-18T23:34:51Z,,close,[],2,2,"['thouis', 'charris']"
+1921,issue,seberg,2013-12-04T23:45:41Z,,close,[],7,2,"['thouis', 'seberg']"
+1920,issue,thouis,2012-10-19T20:57:31Z,,close,[],30,1,['thouis']
+1919,issue,thouis,2012-10-19T20:57:21Z,,close,[],3,2,"['thouis', 'numpy-gitbot']"
+1918,issue,thouis,2012-10-19T20:57:19Z,,close,[],2,1,['thouis']
+1916,issue,thouis,2012-10-19T20:57:14Z,,close,[],4,1,['thouis']
+1915,issue,thouis,2012-10-19T20:57:12Z,,close,[],4,1,['thouis']
+1913,issue,seberg,2013-12-05T13:14:26Z,,close,[],2,2,"['thouis', 'seberg']"
+1911,issue,thouis,2012-10-19T20:57:05Z,,close,[],13,1,['thouis']
+1910,issue,thouis,2012-10-19T20:57:00Z,,close,[],9,1,['thouis']
+1909,issue,thouis,2012-10-19T20:56:56Z,,close,[],2,1,['thouis']
+1907,issue,thouis,2012-10-19T20:56:53Z,,close,[],4,1,['thouis']
+1904,issue,thouis,2012-10-19T20:56:46Z,,close,[],2,1,['thouis']
+1902,issue,thouis,2012-10-19T20:56:42Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1901,issue,ahaldane,2016-06-02T16:51:19Z,,close,"['#2196', '#6430']",4,3,"['thouis', 'charris', 'ahaldane']"
+1899,issue,thouis,2012-10-19T20:56:36Z,,close,[],2,1,['thouis']
+1898,issue,thouis,2012-10-19T20:56:35Z,,close,[],7,1,['thouis']
+1897,issue,thouis,2012-10-19T20:56:32Z,,close,[],3,1,['thouis']
+1895,issue,thouis,2012-10-19T20:56:28Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1894,issue,thouis,2012-10-19T20:56:25Z,,close,[],5,1,['thouis']
+1893,issue,thouis,2012-10-19T20:56:23Z,,close,[],2,1,['thouis']
+1892,issue,thouis,2012-10-19T20:56:21Z,,close,[],2,1,['thouis']
+1891,issue,thouis,2012-10-19T20:56:19Z,,close,[],2,1,['thouis']
+1890,issue,thouis,2012-10-19T20:56:16Z,,close,[],10,1,['thouis']
+1889,issue,thouis,2012-10-19T20:56:11Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1888,issue,thouis,2012-10-19T20:56:09Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1887,issue,thouis,2012-10-19T20:56:07Z,,close,[],3,1,['thouis']
+1885,issue,thouis,2012-10-19T20:56:03Z,,close,[],2,1,['thouis']
+1884,issue,thouis,2012-10-19T20:56:02Z,,close,[],5,1,['thouis']
+1883,issue,thouis,2012-10-19T20:55:59Z,,close,[],3,1,['thouis']
+1882,issue,thouis,2012-10-19T20:55:57Z,,close,[],4,1,['thouis']
+1881,issue,thouis,2012-10-19T20:55:55Z,,close,[],4,1,['thouis']
+1880,issue,thouis,2012-10-19T20:55:52Z,,close,[],3,1,['thouis']
+1877,issue,thouis,2012-10-19T20:55:44Z,,close,[],3,2,"['thouis', 'numpy-gitbot']"
+1876,issue,thouis,2012-10-19T20:55:42Z,,close,[],5,1,['thouis']
+1875,issue,thouis,2012-10-19T20:55:39Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1874,issue,thouis,2012-10-19T20:55:37Z,,close,[],3,1,['thouis']
+1873,issue,jaimefrio,2016-03-27T18:19:10Z,,close,['#5958'],7,3,"['thouis', 'charris', 'jaimefrio']"
+1872,issue,thouis,2012-10-19T20:55:32Z,,close,[],3,1,['thouis']
+1871,issue,thouis,2012-10-19T20:55:30Z,,close,[],7,2,"['thouis', 'numpy-gitbot']"
+1870,issue,thouis,2012-10-19T20:55:27Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1869,issue,thouis,2012-10-19T20:55:24Z,,close,[],3,1,['thouis']
+1867,issue,thouis,2012-10-19T20:55:20Z,,close,[],2,1,['thouis']
+1865,issue,thouis,2012-10-19T20:55:17Z,,close,[],6,1,['thouis']
+1863,issue,thouis,2012-10-19T20:55:12Z,,close,[],4,1,['thouis']
+1861,issue,thouis,2012-10-19T20:55:06Z,,close,[],7,1,['thouis']
+1857,issue,thouis,2012-10-19T20:54:52Z,,close,[],8,2,"['thouis', 'numpy-gitbot']"
+1856,issue,thouis,2012-10-19T20:54:48Z,,close,[],2,1,['thouis']
+1855,issue,thouis,2012-10-19T20:54:46Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1854,issue,thouis,2012-10-19T20:54:44Z,,close,[],7,1,['thouis']
+1853,issue,thouis,2012-10-19T20:54:41Z,,close,[],4,1,['thouis']
+1852,issue,thouis,2012-10-19T20:54:38Z,,close,[],4,1,['thouis']
+1849,issue,thouis,2012-10-19T20:54:31Z,,close,[],3,1,['thouis']
+1848,issue,charris,2014-02-17T01:46:13Z,,close,"['#6161', '#6320']",9,2,"['thouis', 'charris']"
+1847,issue,thouis,2012-10-19T20:54:25Z,,close,[],3,1,['thouis']
+1846,issue,thouis,2012-10-19T20:54:22Z,,close,[],4,1,['thouis']
+1845,issue,thouis,2012-10-19T20:54:20Z,,close,[],3,1,['thouis']
+1844,issue,thouis,2012-10-19T20:54:18Z,,close,[],4,1,['thouis']
+1843,issue,seberg,2013-12-04T22:18:43Z,,close,[],5,2,"['thouis', 'seberg']"
+1842,issue,thouis,2012-10-19T20:54:13Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1841,issue,thouis,2012-10-19T20:54:11Z,,close,[],3,1,['thouis']
+1840,issue,thouis,2012-10-19T20:54:09Z,,close,[],4,1,['thouis']
+1839,issue,thouis,2012-10-19T20:54:07Z,,close,[],4,1,['thouis']
+1838,issue,thouis,2012-10-19T20:54:05Z,,close,[],3,1,['thouis']
+1837,issue,charris,2014-02-20T00:29:45Z,,close,[],6,2,"['thouis', 'charris']"
+1833,issue,thouis,2012-10-19T20:53:49Z,,close,[],7,1,['thouis']
+1831,issue,thouis,2012-10-19T20:53:42Z,,close,[],6,2,"['thouis', 'numpy-gitbot']"
+1829,issue,thouis,2012-10-19T20:53:35Z,,close,[],2,1,['thouis']
+1827,issue,thouis,2012-10-19T20:53:30Z,,close,[],18,1,['thouis']
+1826,issue,thouis,2012-10-19T20:53:24Z,,close,[],10,1,['thouis']
+1825,issue,thouis,2012-10-19T20:53:20Z,,close,[],2,1,['thouis']
+1823,issue,thouis,2012-10-19T20:53:16Z,,close,[],5,1,['thouis']
+1822,issue,thouis,2012-10-19T20:53:14Z,,close,[],3,1,['thouis']
+1820,issue,thouis,2012-10-19T20:53:08Z,,close,[],4,1,['thouis']
+1819,issue,thouis,2012-10-19T20:53:06Z,,close,[],7,1,['thouis']
+1818,issue,thouis,2012-10-19T20:53:03Z,,close,[],2,1,['thouis']
+1817,issue,thouis,2012-10-19T20:53:01Z,,close,[],3,1,['thouis']
+1815,issue,thouis,2012-10-19T20:52:53Z,,close,[],2,1,['thouis']
+1814,issue,thouis,2012-10-19T20:52:52Z,,close,[],2,1,['thouis']
+1809,issue,thouis,2012-10-19T20:52:36Z,,close,[],33,1,['thouis']
+1808,issue,thouis,2012-10-19T20:52:26Z,,close,[],2,1,['thouis']
+1807,issue,charris,2014-02-18T19:29:14Z,,close,[],4,2,"['thouis', 'charris']"
+1805,issue,thouis,2012-10-19T20:52:21Z,,close,[],3,1,['thouis']
+1804,issue,thouis,2012-10-19T20:52:19Z,,close,[],3,1,['thouis']
+1803,issue,thouis,2012-10-19T20:52:16Z,,close,[],3,2,"['thouis', 'numpy-gitbot']"
+1802,issue,thouis,2012-10-19T20:52:13Z,,close,[],7,1,['thouis']
+1801,issue,thouis,2012-10-19T20:52:11Z,,close,[],2,1,['thouis']
+1800,issue,thouis,2012-10-19T20:52:09Z,,close,[],2,1,['thouis']
+1799,issue,thouis,2012-10-19T20:52:07Z,,close,[],2,1,['thouis']
+1798,issue,thouis,2012-10-19T20:52:05Z,,close,[],3,1,['thouis']
+1797,issue,thouis,2012-10-19T20:52:03Z,,close,[],3,1,['thouis']
+1796,issue,thouis,2012-10-19T20:52:01Z,,close,[],7,1,['thouis']
+1795,issue,thouis,2012-10-19T20:51:57Z,,close,[],2,1,['thouis']
+1794,issue,thouis,2012-10-19T20:51:56Z,,close,[],5,1,['thouis']
+1793,issue,thouis,2012-10-19T20:51:53Z,,close,[],4,1,['thouis']
+1792,issue,thouis,2012-10-19T20:51:50Z,,close,[],4,2,"['thouis', 'numpy-gitbot']"
+1790,issue,thouis,2012-10-19T20:51:45Z,,close,[],4,1,['thouis']
+1789,issue,thouis,2012-10-19T20:51:42Z,,close,[],1,1,['thouis']
+1787,issue,thouis,2012-10-19T20:51:39Z,,close,[],4,1,['thouis']
+1786,issue,thouis,2012-10-19T20:51:36Z,,close,[],3,1,['thouis']
+1785,issue,thouis,2012-10-19T20:51:34Z,,close,[],3,1,['thouis']
+1784,issue,thouis,2012-10-19T20:51:32Z,,close,[],4,1,['thouis']
+1783,issue,thouis,2012-10-19T20:51:29Z,,close,[],2,1,['thouis']
+1782,issue,thouis,2012-10-19T20:51:28Z,,close,[],2,1,['thouis']
+1780,issue,thouis,2012-10-19T20:51:24Z,,close,[],3,1,['thouis']
+1777,issue,thouis,2012-10-19T20:51:17Z,,close,[],6,1,['thouis']
+1776,issue,thouis,2012-10-19T20:51:14Z,,close,[],3,1,['thouis']
+1775,issue,thouis,2012-10-19T20:51:11Z,,close,[],5,1,['thouis']
+1774,issue,charris,2014-02-22T23:07:20Z,,close,[],7,2,"['thouis', 'charris']"
+1773,issue,thouis,2012-10-19T20:51:05Z,,close,[],10,1,['thouis']
+1772,issue,thouis,2012-10-19T20:51:01Z,,close,[],8,2,"['thouis', 'numpy-gitbot']"
+1771,issue,thouis,2012-10-19T20:50:58Z,,close,[],12,2,"['thouis', 'numpy-gitbot']"
+1769,issue,seberg,2013-05-15T18:50:33Z,,close,['#2701'],4,3,"['thouis', 'nouiz', 'seberg']"
+1768,issue,thouis,2012-10-19T20:50:49Z,,close,[],5,1,['thouis']
+1767,issue,thouis,2012-10-19T20:50:46Z,,close,[],2,1,['thouis']
+1766,issue,thouis,2012-10-19T20:50:44Z,,close,[],8,1,['thouis']
+1764,issue,thouis,2012-10-19T20:50:38Z,,close,[],3,1,['thouis']
+1763,issue,thouis,2012-10-19T20:50:36Z,,close,[],6,1,['thouis']
+1762,issue,charris,2014-02-18T19:04:15Z,,close,[],8,2,"['thouis', 'charris']"
+1761,issue,thouis,2012-10-19T20:50:30Z,,close,[],8,2,"['thouis', 'numpy-gitbot']"
+1760,issue,thouis,2012-10-19T20:50:26Z,,close,[],6,1,['thouis']
+1759,issue,seberg,2013-05-11T15:52:13Z,,close,[],3,2,"['thouis', 'seberg']"
+1758,issue,thouis,2012-10-19T20:50:22Z,,close,[],4,1,['thouis']
+1757,issue,thouis,2012-10-19T20:50:19Z,,close,[],2,1,['thouis']
+1755,issue,thouis,2012-10-19T20:50:16Z,,close,[],3,1,['thouis']
+1754,issue,charris,2013-02-13T03:36:49Z,,close,[],6,4,"['thouis', 'numpy-gitbot', 'ewmoore', 'charris']"
+1752,issue,thouis,2012-10-19T20:50:09Z,,close,[],2,1,['thouis']
+1750,issue,thouis,2012-10-19T20:50:02Z,,close,[],3,1,['thouis']
+1749,issue,thouis,2012-10-19T20:49:59Z,,close,[],3,1,['thouis']
+1748,issue,thouis,2012-10-19T20:49:57Z,,close,[],7,3,"['thouis', 'olgabot', 'njsmith']"
+1747,issue,thouis,2012-10-19T20:49:54Z,,close,[],7,1,['thouis']
+1746,issue,thouis,2012-10-19T20:49:51Z,,close,[],5,1,['thouis']
+1744,issue,thouis,2012-10-19T20:49:45Z,,close,[],8,1,['thouis']
+1743,issue,thouis,2012-10-19T20:49:42Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1742,issue,thouis,2012-10-19T20:49:40Z,,close,[],2,1,['thouis']
+1739,issue,thouis,2012-10-19T20:49:31Z,,close,[],3,1,['thouis']
+1738,issue,thouis,2012-10-19T20:49:29Z,,close,[],4,1,['thouis']
+1736,issue,thouis,2012-10-19T20:49:25Z,,close,[],5,1,['thouis']
+1735,issue,thouis,2012-10-19T20:49:22Z,,close,[],5,1,['thouis']
+1734,issue,thouis,2012-10-19T20:49:20Z,,close,[],7,2,"['thouis', 'numpy-gitbot']"
+1732,issue,thouis,2012-10-19T20:49:15Z,,close,[],2,1,['thouis']
+1729,issue,thouis,2012-10-19T20:49:05Z,,close,[],2,1,['thouis']
+1728,issue,thouis,2012-10-19T20:49:03Z,,close,[],4,1,['thouis']
+1727,issue,thouis,2012-10-19T20:49:01Z,,close,[],3,1,['thouis']
+1726,issue,charris,2014-02-18T18:40:55Z,,close,[],6,2,"['thouis', 'charris']"
+1724,issue,seberg,2013-04-12T19:50:23Z,,close,[],4,2,"['thouis', 'seberg']"
+1721,issue,charris,2013-08-30T15:38:06Z,,close,[],23,4,"['thouis', 'kjordahl', 'ewmoore', 'charris']"
+1720,issue,thouis,2012-10-19T20:48:37Z,,close,[],2,1,['thouis']
+1719,issue,thouis,2012-10-19T20:48:34Z,,close,[],3,1,['thouis']
+1718,issue,thouis,2012-10-19T20:48:32Z,,close,[],3,1,['thouis']
+1717,issue,thouis,2012-10-19T20:48:30Z,,close,[],3,2,"['thouis', 'numpy-gitbot']"
+1716,issue,thouis,2012-10-19T20:48:28Z,,close,[],3,2,"['thouis', 'numpy-gitbot']"
+1715,issue,thouis,2012-10-19T20:48:25Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1713,issue,thouis,2012-10-19T20:48:21Z,,close,[],4,1,['thouis']
+1712,issue,thouis,2012-10-19T20:48:18Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1710,issue,thouis,2012-10-19T20:48:14Z,,close,[],5,1,['thouis']
+1709,issue,thouis,2012-10-19T20:48:11Z,,close,[],5,1,['thouis']
+1708,issue,thouis,2012-10-19T20:48:09Z,,close,[],11,1,['thouis']
+1707,issue,thouis,2012-10-19T20:48:05Z,,close,[],3,1,['thouis']
+1706,issue,thouis,2012-10-19T20:48:02Z,,close,[],14,1,['thouis']
+1704,issue,thouis,2012-10-19T20:47:53Z,,close,[],5,1,['thouis']
+1703,issue,thouis,2012-10-19T20:47:51Z,,close,[],4,1,['thouis']
+1702,issue,thouis,2012-10-19T20:47:47Z,,close,[],2,1,['thouis']
+1701,issue,thouis,2012-10-19T20:47:46Z,,close,[],6,1,['thouis']
+1700,issue,thouis,2012-10-19T20:47:42Z,,close,[],2,1,['thouis']
+1699,issue,thouis,2012-10-19T20:47:40Z,,close,[],8,1,['thouis']
+1698,issue,thouis,2012-10-19T20:47:37Z,,close,[],2,1,['thouis']
+1697,issue,thouis,2012-10-19T20:47:35Z,,close,[],7,2,"['thouis', 'numpy-gitbot']"
+1696,issue,charris,2014-02-20T19:42:09Z,,close,[],6,2,"['thouis', 'charris']"
+1695,issue,thouis,2012-10-19T20:47:29Z,,close,[],3,1,['thouis']
+1694,issue,thouis,2012-10-19T20:47:27Z,,close,[],3,1,['thouis']
+1693,issue,thouis,2012-10-19T20:47:25Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1692,issue,thouis,2012-10-19T20:47:22Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1690,issue,seberg,2013-12-15T13:37:22Z,,close,[],12,3,"['thouis', 'numpy-gitbot', 'seberg']"
+1688,issue,thouis,2012-10-19T20:47:08Z,,close,[],3,1,['thouis']
+1687,issue,thouis,2012-10-19T20:47:06Z,,close,['#6955'],12,1,['thouis']
+1686,issue,thouis,2012-10-19T20:47:02Z,,close,[],3,1,['thouis']
+1685,issue,thouis,2012-10-19T20:46:59Z,,close,[],15,1,['thouis']
+1684,issue,thouis,2012-10-19T20:46:54Z,,close,[],3,1,['thouis']
+1682,issue,thouis,2012-10-19T20:46:45Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1680,issue,thouis,2012-10-19T20:46:40Z,,close,[],4,1,['thouis']
+1679,issue,thouis,2012-10-19T20:46:38Z,,close,[],14,2,"['thouis', 'numpy-gitbot']"
+1678,issue,thouis,2012-10-19T20:46:33Z,,close,[],5,1,['thouis']
+1676,issue,thouis,2012-10-19T20:46:25Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1675,issue,thouis,2012-10-19T20:46:24Z,,close,['#58'],5,2,"['thouis', 'numpy-gitbot']"
+1674,issue,thouis,2012-10-19T20:46:21Z,,close,[],6,1,['thouis']
+1670,issue,thouis,2012-10-19T20:46:09Z,,close,[],6,1,['thouis']
+1669,issue,thouis,2012-10-19T20:46:06Z,,close,[],18,2,"['thouis', 'numpy-gitbot']"
+1668,issue,thouis,2012-10-19T20:45:58Z,,close,[],4,1,['thouis']
+1667,issue,thouis,2012-10-19T20:45:55Z,,close,[],2,1,['thouis']
+1666,issue,thouis,2012-10-19T20:45:53Z,,close,[],4,1,['thouis']
+1665,issue,thouis,2012-10-19T20:45:50Z,,close,[],3,1,['thouis']
+1664,issue,thouis,2012-10-19T20:45:49Z,,close,[],2,1,['thouis']
+1663,issue,thouis,2012-10-19T20:45:47Z,,close,[],3,1,['thouis']
+1662,issue,thouis,2012-10-19T20:45:45Z,,close,[],5,1,['thouis']
+1660,issue,thouis,2012-10-19T20:45:41Z,,close,[],2,1,['thouis']
+1659,issue,thouis,2012-10-19T20:45:38Z,,close,[],2,1,['thouis']
+1657,issue,charris,2014-02-21T14:35:44Z,,close,[],8,2,"['thouis', 'charris']"
+1656,issue,thouis,2012-10-19T20:45:31Z,,close,[],8,1,['thouis']
+1655,issue,thouis,2012-10-19T20:45:28Z,,close,[],3,1,['thouis']
+1654,issue,charris,2015-01-22T18:56:32Z,,close,[],23,5,"['thouis', 'charris', 'sturlamolden', 'juliantaylor', 'cournape']"
+1650,issue,thouis,2012-10-19T20:45:12Z,,close,[],3,1,['thouis']
+1648,issue,thouis,2012-10-19T20:45:04Z,,close,[],2,1,['thouis']
+1647,issue,thouis,2012-10-19T20:45:03Z,,close,[],3,1,['thouis']
+1646,issue,thouis,2012-10-19T20:45:00Z,,close,[],4,1,['thouis']
+1645,issue,thouis,2012-10-19T20:44:58Z,,close,[],2,1,['thouis']
+1644,issue,thouis,2012-10-19T20:44:56Z,,close,[],4,1,['thouis']
+1643,issue,thouis,2012-10-19T20:44:54Z,,close,[],5,1,['thouis']
+1638,issue,thouis,2012-10-19T20:44:41Z,,close,[],5,1,['thouis']
+1637,issue,thouis,2012-10-19T20:44:37Z,,close,[],5,1,['thouis']
+1636,issue,thouis,2012-10-19T20:44:34Z,,close,[],8,1,['thouis']
+1635,issue,thouis,2012-10-19T20:44:31Z,,close,[],2,1,['thouis']
+1633,issue,thouis,2012-10-19T20:44:23Z,,close,[],11,2,"['thouis', 'numpy-gitbot']"
+1632,issue,thouis,2012-10-19T20:44:18Z,,close,[],5,1,['thouis']
+1631,issue,thouis,2012-10-19T20:44:15Z,,close,[],9,1,['thouis']
+1630,issue,thouis,2012-10-19T20:44:11Z,,close,[],18,1,['thouis']
+1628,issue,thouis,2012-10-19T20:44:01Z,,close,[],2,1,['thouis']
+1624,issue,thouis,2012-10-19T20:43:55Z,,close,[],2,1,['thouis']
+1623,issue,thouis,2012-10-19T20:43:53Z,,close,[],3,1,['thouis']
+1622,issue,thouis,2012-10-19T20:43:51Z,,close,[],2,1,['thouis']
+1621,issue,thouis,2012-10-19T20:43:50Z,,close,[],2,1,['thouis']
+1620,issue,thouis,2012-10-19T20:43:47Z,,close,[],3,1,['thouis']
+1613,issue,thouis,2012-10-19T20:43:35Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1612,issue,thouis,2012-10-19T20:43:33Z,,close,[],2,2,"['thouis', 'numpy-gitbot']"
+1610,issue,thouis,2012-10-19T20:43:30Z,,close,[],4,1,['thouis']
+1609,issue,thouis,2012-10-19T20:43:27Z,,close,[],2,1,['thouis']
+1607,issue,thouis,2012-10-19T20:43:23Z,,close,['#64'],2,1,['thouis']
+1606,issue,thouis,2012-10-19T20:43:21Z,,close,[],8,1,['thouis']
+1605,issue,charris,2014-02-20T00:24:58Z,,close,[],3,2,"['thouis', 'charris']"
+1604,issue,thouis,2012-10-19T20:43:16Z,,close,[],4,1,['thouis']
+1603,issue,thouis,2012-10-19T20:43:13Z,,close,[],4,1,['thouis']
+1602,issue,thouis,2012-10-19T20:43:11Z,,close,[],2,1,['thouis']
+1600,issue,thouis,2012-10-19T20:43:08Z,,close,[],2,1,['thouis']
+1598,issue,charris,2014-02-18T17:10:22Z,,close,[],20,4,"['thouis', 'numpy-gitbot', 'charris', 'matthew-brett']"
+1597,issue,thouis,2012-10-19T20:42:58Z,,close,[],4,2,"['thouis', 'numpy-gitbot']"
+1596,issue,thouis,2012-10-19T20:42:54Z,,close,[],3,1,['thouis']
+1592,issue,thouis,2012-10-19T20:42:44Z,,close,[],5,1,['thouis']
+1591,issue,thouis,2012-10-19T20:42:41Z,,close,[],19,1,['thouis']
+1590,issue,thouis,2012-10-19T20:42:35Z,,close,[],4,2,"['thouis', 'numpy-gitbot']"
+1589,issue,thouis,2012-10-19T20:42:33Z,,close,[],7,1,['thouis']
+1587,issue,thouis,2012-10-19T20:42:26Z,,close,[],4,1,['thouis']
+1584,issue,thouis,2012-10-19T20:42:18Z,,close,[],5,1,['thouis']
+1583,issue,thouis,2012-10-19T20:42:15Z,,close,[],4,1,['thouis']
+1582,issue,thouis,2012-10-19T20:42:12Z,,close,[],3,1,['thouis']
+1581,issue,thouis,2012-10-19T20:42:09Z,,close,[],2,1,['thouis']
+1580,issue,thouis,2012-10-19T20:42:07Z,,close,[],6,1,['thouis']
+1579,issue,thouis,2012-10-19T20:42:03Z,,close,[],2,1,['thouis']
+1578,issue,charris,2014-02-18T16:41:21Z,,close,[],5,2,"['thouis', 'charris']"
+1577,issue,thouis,2012-10-19T20:41:58Z,,close,[],4,1,['thouis']
+1576,issue,thouis,2012-10-19T20:41:56Z,,close,[],4,1,['thouis']
+1575,issue,thouis,2012-10-19T20:41:53Z,,close,[],3,2,"['thouis', 'numpy-gitbot']"
+1574,issue,thouis,2012-10-19T20:41:51Z,,close,[],5,2,"['thouis', 'numpy-gitbot']"
+1573,issue,thouis,2012-10-19T20:41:49Z,,close,[],4,1,['thouis']
+1572,issue,thouis,2012-10-19T20:41:44Z,,close,[],2,1,['thouis']
+1571,issue,thouis,2012-10-19T20:41:43Z,,close,[],8,1,['thouis']
+1569,issue,thouis,2012-10-19T20:41:34Z,,close,[],9,1,['thouis']
+1568,issue,thouis,2012-10-19T20:41:28Z,,close,[],5,1,['thouis']
+1567,issue,thouis,2012-10-19T20:41:25Z,,close,[],2,1,['thouis']
+1563,issue,thouis,2012-10-19T20:41:12Z,,close,[],5,1,['thouis']
+1562,issue,thouis,2012-10-19T20:41:09Z,,close,[],11,1,['thouis']
+1561,issue,seberg,2014-05-19T20:39:29Z,,close,[],8,3,"['thouis', 'charris', 'seberg']"
+1560,issue,thouis,2012-10-19T20:41:02Z,,close,[],7,1,['thouis']
+1559,issue,thouis,2012-10-19T20:40:59Z,,close,[],3,1,['thouis']
+1558,issue,thouis,2012-10-19T20:40:57Z,,close,[],7,1,['thouis']
+1557,issue,thouis,2012-10-19T20:40:54Z,,close,[],8,1,['thouis']
+1556,issue,thouis,2012-10-19T20:40:49Z,,close,[],4,1,['thouis']
+1555,issue,thouis,2012-10-19T20:40:46Z,,close,[],8,1,['thouis']
+1554,issue,thouis,2012-10-19T20:40:43Z,,close,[],3,1,['thouis']
+1553,issue,thouis,2012-10-19T20:40:41Z,,close,[],12,1,['thouis']
+1551,issue,thouis,2012-10-19T20:40:35Z,,close,[],3,1,['thouis']
+1550,issue,charris,2013-04-07T19:20:34Z,7dad2d3,close,['#3188'],4,1,['thouis']
+1549,issue,thouis,2012-10-19T20:40:30Z,,close,[],2,1,['thouis']
+1548,issue,thouis,2012-10-19T20:40:28Z,,close,[],4,1,['thouis']
+1546,issue,thouis,2012-10-19T20:40:24Z,,close,[],5,1,['thouis']
+1545,issue,thouis,2012-10-19T20:40:21Z,,close,[],2,1,['thouis']
+1544,issue,thouis,2012-10-19T20:40:19Z,,close,[],2,1,['thouis']
+1542,issue,thouis,2012-10-19T20:40:16Z,,close,[],4,1,['thouis']
+1540,issue,thouis,2012-10-19T20:40:10Z,,close,[],2,1,['thouis']
+1537,issue,thouis,2012-10-19T20:40:03Z,,close,[],5,1,['thouis']
+1535,issue,thouis,2012-10-19T20:39:59Z,,close,[],9,1,['thouis']
+1534,issue,thouis,2012-10-19T20:39:53Z,,close,[],4,1,['thouis']
+1533,issue,thouis,2012-10-19T20:39:51Z,,close,[],3,1,['thouis']
+1532,issue,thouis,2012-10-19T20:39:49Z,,close,[],4,1,['thouis']
+1531,issue,thouis,2012-10-19T20:39:47Z,,close,[],2,1,['thouis']
+1529,issue,charris,2013-07-09T13:54:02Z,,close,['#3510'],10,3,"['thouis', 'mwtoews', 'charris']"
+1528,issue,thouis,2012-10-19T20:39:41Z,,close,[],2,1,['thouis']
+1527,issue,thouis,2012-10-19T20:39:39Z,,close,[],2,1,['thouis']
+1526,issue,thouis,2012-10-19T20:39:37Z,,close,[],5,1,['thouis']
+1525,issue,thouis,2012-10-19T20:39:33Z,,close,[],2,1,['thouis']
+1524,issue,thouis,2012-10-19T20:39:31Z,,close,[],5,1,['thouis']
+1523,issue,thouis,2012-10-19T20:39:29Z,,close,[],2,1,['thouis']
+1522,issue,thouis,2012-10-19T20:39:27Z,,close,[],4,1,['thouis']
+1521,issue,thouis,2012-10-19T20:39:24Z,,close,[],8,1,['thouis']
+1520,issue,thouis,2012-10-19T20:39:20Z,,close,[],2,1,['thouis']
+1519,issue,thouis,2012-10-19T20:39:18Z,,close,['#4167'],8,1,['thouis']
+1518,issue,thouis,2012-10-19T20:39:14Z,,close,[],5,1,['thouis']
+1516,issue,thouis,2012-10-19T20:39:08Z,,close,[],2,1,['thouis']
+1515,issue,thouis,2012-10-19T20:39:06Z,,close,[],4,1,['thouis']
+1514,issue,charris,2014-02-18T16:14:51Z,,close,[],7,2,"['thouis', 'charris']"
+1513,issue,thouis,2012-10-19T20:39:00Z,,close,[],3,2,"['thouis', 'numpy-gitbot']"
+1512,issue,numpy-gitbot,2012-10-19T20:08:30Z,,close,[],4,1,['numpy-gitbot']
+1511,issue,numpy-gitbot,2012-10-19T20:07:13Z,,close,[],9,1,['numpy-gitbot']
+1510,issue,numpy-gitbot,2012-10-19T20:05:30Z,,close,[],4,1,['numpy-gitbot']
+1509,issue,numpy-gitbot,2012-10-19T20:05:27Z,,close,[],3,1,['numpy-gitbot']
+1508,issue,numpy-gitbot,2012-10-19T20:05:24Z,,close,[],2,1,['numpy-gitbot']
+1506,issue,numpy-gitbot,2012-10-19T20:03:44Z,,close,[],4,1,['numpy-gitbot']
+1504,issue,numpy-gitbot,2012-10-19T20:03:39Z,,close,[],2,1,['numpy-gitbot']
+1503,issue,numpy-gitbot,2012-10-19T20:03:38Z,,close,[],2,1,['numpy-gitbot']
+1502,issue,charris,2014-02-18T16:11:44Z,,close,[],8,2,"['numpy-gitbot', 'charris']"
+1501,issue,numpy-gitbot,2012-10-19T20:02:18Z,,close,[],3,1,['numpy-gitbot']
+1500,issue,numpy-gitbot,2012-10-19T20:02:16Z,,close,[],5,1,['numpy-gitbot']
+1498,issue,numpy-gitbot,2012-10-19T20:00:31Z,,close,[],2,1,['numpy-gitbot']
+1497,issue,numpy-gitbot,2012-10-19T20:00:29Z,,close,[],3,1,['numpy-gitbot']
+1496,issue,numpy-gitbot,2012-10-19T20:00:26Z,,close,[],16,1,['numpy-gitbot']
+1493,issue,numpy-gitbot,2012-10-19T20:00:01Z,,close,[],2,1,['numpy-gitbot']
+1492,issue,numpy-gitbot,2012-10-19T19:59:58Z,,close,[],2,1,['numpy-gitbot']
+1491,issue,numpy-gitbot,2012-10-19T19:59:56Z,,close,[],17,1,['numpy-gitbot']
+1490,issue,numpy-gitbot,2012-10-19T19:59:49Z,,close,[],2,1,['numpy-gitbot']
+1488,issue,numpy-gitbot,2012-10-19T19:59:45Z,,close,[],3,1,['numpy-gitbot']
+1487,issue,numpy-gitbot,2012-10-19T19:59:42Z,,close,[],2,1,['numpy-gitbot']
+1486,issue,numpy-gitbot,2012-10-19T19:59:40Z,,close,[],1,1,['numpy-gitbot']
+1483,issue,numpy-gitbot,2012-10-19T19:59:32Z,,close,[],3,1,['numpy-gitbot']
+1482,issue,numpy-gitbot,2012-10-19T19:59:30Z,,close,[],12,3,"['numpy-gitbot', 'mhabets', 'njsmith']"
+1481,issue,charris,2015-08-28T18:29:23Z,6cbd724,close,['#6199'],5,2,"['numpy-gitbot', 'charris']"
+1480,issue,numpy-gitbot,2012-10-19T19:59:24Z,,close,[],3,1,['numpy-gitbot']
+1479,issue,numpy-gitbot,2012-10-19T19:59:21Z,,close,[],2,1,['numpy-gitbot']
+1478,issue,charris,2015-04-04T07:24:23Z,61a546d,close,['#5732'],4,2,"['numpy-gitbot', 'charris']"
+1476,issue,numpy-gitbot,2012-10-19T19:59:16Z,,close,[],2,1,['numpy-gitbot']
+1475,issue,numpy-gitbot,2012-10-19T19:59:14Z,,close,[],7,1,['numpy-gitbot']
+1473,issue,numpy-gitbot,2012-10-19T19:58:52Z,,close,[],7,1,['numpy-gitbot']
+1469,issue,numpy-gitbot,2012-10-19T19:58:41Z,,close,[],15,1,['numpy-gitbot']
+1466,issue,numpy-gitbot,2012-10-19T19:58:30Z,,close,[],5,1,['numpy-gitbot']
+1465,issue,numpy-gitbot,2012-10-19T19:58:27Z,,close,[],5,1,['numpy-gitbot']
+1464,issue,numpy-gitbot,2012-10-19T19:58:24Z,,close,[],10,1,['numpy-gitbot']
+1463,issue,numpy-gitbot,2012-10-19T19:58:19Z,,close,[],3,1,['numpy-gitbot']
+1462,issue,numpy-gitbot,2012-10-19T19:58:17Z,,close,[],2,1,['numpy-gitbot']
+1461,issue,numpy-gitbot,2012-10-19T19:58:15Z,,close,[],2,1,['numpy-gitbot']
+1460,issue,numpy-gitbot,2012-10-19T19:58:13Z,,close,[],3,1,['numpy-gitbot']
+1459,issue,numpy-gitbot,2012-10-19T19:58:09Z,,close,[],2,1,['numpy-gitbot']
+1458,issue,numpy-gitbot,2012-10-19T19:58:07Z,,close,[],14,1,['numpy-gitbot']
+1457,issue,numpy-gitbot,2012-10-19T19:58:02Z,,close,[],2,1,['numpy-gitbot']
+1455,issue,numpy-gitbot,2012-10-19T19:57:58Z,,close,[],4,1,['numpy-gitbot']
+1454,issue,numpy-gitbot,2012-10-19T19:57:55Z,,close,[],3,1,['numpy-gitbot']
+1453,issue,numpy-gitbot,2012-10-19T19:57:53Z,,close,[],4,1,['numpy-gitbot']
+1452,issue,numpy-gitbot,2012-10-19T19:57:50Z,,close,[],3,1,['numpy-gitbot']
+1451,issue,numpy-gitbot,2012-10-19T19:57:47Z,,close,[],3,1,['numpy-gitbot']
+1450,issue,numpy-gitbot,2012-10-19T19:57:42Z,,close,[],8,1,['numpy-gitbot']
+1449,issue,numpy-gitbot,2012-10-19T19:57:36Z,,close,[],6,1,['numpy-gitbot']
+1448,issue,numpy-gitbot,2012-10-19T19:57:33Z,,close,[],3,1,['numpy-gitbot']
+1447,issue,numpy-gitbot,2012-10-19T19:57:31Z,,close,['#7362'],3,1,['numpy-gitbot']
+1446,issue,numpy-gitbot,2012-10-19T19:57:28Z,,close,[],9,1,['numpy-gitbot']
+1444,issue,numpy-gitbot,2012-10-19T19:57:19Z,,close,[],2,1,['numpy-gitbot']
+1443,issue,numpy-gitbot,2012-10-19T19:31:34Z,,close,[],2,1,['numpy-gitbot']
+1442,issue,numpy-gitbot,2012-10-19T19:31:32Z,,close,[],4,1,['numpy-gitbot']
+1441,issue,numpy-gitbot,2012-10-19T19:31:29Z,,close,[],4,1,['numpy-gitbot']
+1440,issue,numpy-gitbot,2012-10-19T19:31:26Z,,close,[],7,1,['numpy-gitbot']
+1439,issue,numpy-gitbot,2012-10-19T19:30:58Z,,close,[],3,1,['numpy-gitbot']
+1438,issue,numpy-gitbot,2012-10-19T19:30:56Z,,close,[],16,1,['numpy-gitbot']
+1437,issue,numpy-gitbot,2012-10-19T19:30:50Z,,close,[],3,1,['numpy-gitbot']
+1435,issue,numpy-gitbot,2012-10-19T19:30:45Z,,close,[],4,1,['numpy-gitbot']
+1433,issue,numpy-gitbot,2012-10-19T19:30:41Z,,close,[],5,1,['numpy-gitbot']
+1432,issue,numpy-gitbot,2012-10-19T19:30:38Z,,close,[],2,1,['numpy-gitbot']
+1431,issue,numpy-gitbot,2012-10-19T19:30:35Z,,close,[],2,1,['numpy-gitbot']
+1430,issue,numpy-gitbot,2012-10-19T19:30:33Z,,close,[],3,1,['numpy-gitbot']
+1429,issue,numpy-gitbot,2012-10-19T19:30:31Z,,close,[],2,1,['numpy-gitbot']
+1428,issue,numpy-gitbot,2012-10-19T19:30:29Z,,close,[],11,1,['numpy-gitbot']
+1427,issue,numpy-gitbot,2012-10-19T19:30:24Z,,close,[],3,1,['numpy-gitbot']
+1426,issue,numpy-gitbot,2012-10-19T19:30:22Z,,close,[],9,1,['numpy-gitbot']
+1425,issue,numpy-gitbot,2012-10-19T19:30:18Z,,close,[],6,1,['numpy-gitbot']
+1424,issue,numpy-gitbot,2012-10-19T19:30:15Z,,close,[],8,2,"['numpy-gitbot', 'jkitchin']"
+1423,issue,numpy-gitbot,2012-10-19T19:30:12Z,,close,[],6,1,['numpy-gitbot']
+1422,issue,numpy-gitbot,2012-10-19T19:30:09Z,,close,[],2,1,['numpy-gitbot']
+1421,issue,seberg,2014-02-10T22:10:55Z,,close,['#3798'],14,4,"['numpy-gitbot', 'SylvainCorlay', 'seberg', 'njsmith']"
+1420,issue,numpy-gitbot,2012-10-19T19:30:05Z,,close,[],2,1,['numpy-gitbot']
+1419,issue,numpy-gitbot,2012-10-19T19:30:03Z,,close,[],53,1,['numpy-gitbot']
+1418,issue,numpy-gitbot,2012-10-19T19:29:50Z,,close,[],4,1,['numpy-gitbot']
+1417,issue,numpy-gitbot,2012-10-19T19:29:47Z,,close,[],3,1,['numpy-gitbot']
+1416,issue,numpy-gitbot,2012-10-19T19:29:45Z,,close,[],2,1,['numpy-gitbot']
+1414,issue,numpy-gitbot,2012-10-19T19:29:40Z,,close,[],5,1,['numpy-gitbot']
+1413,issue,numpy-gitbot,2012-10-19T19:29:35Z,,close,[],5,1,['numpy-gitbot']
+1412,issue,numpy-gitbot,2012-10-19T19:29:32Z,,close,[],5,1,['numpy-gitbot']
+1411,issue,numpy-gitbot,2012-10-19T19:29:27Z,,close,[],5,1,['numpy-gitbot']
+1410,issue,numpy-gitbot,2012-10-19T19:29:24Z,,close,[],3,1,['numpy-gitbot']
+1409,issue,numpy-gitbot,2012-10-19T19:29:22Z,,close,[],9,1,['numpy-gitbot']
+1408,issue,numpy-gitbot,2012-10-19T19:29:18Z,,close,[],2,1,['numpy-gitbot']
+1406,issue,seberg,2013-10-25T15:48:27Z,,close,[],4,2,"['numpy-gitbot', 'seberg']"
+1405,issue,numpy-gitbot,2012-10-19T19:29:12Z,,close,[],1,1,['numpy-gitbot']
+1404,issue,numpy-gitbot,2012-10-19T19:29:11Z,,close,[],2,1,['numpy-gitbot']
+1403,issue,numpy-gitbot,2012-10-19T19:29:09Z,,close,[],4,1,['numpy-gitbot']
+1402,issue,numpy-gitbot,2012-10-19T19:29:06Z,,close,[],3,1,['numpy-gitbot']
+1401,issue,charris,2014-02-18T15:47:28Z,,close,[],7,3,"['numpy-gitbot', 'charris', 'seberg']"
+1400,issue,charris,2014-02-18T14:34:21Z,,close,[],3,2,"['numpy-gitbot', 'charris']"
+1399,issue,numpy-gitbot,2012-10-19T19:29:01Z,,close,[],2,1,['numpy-gitbot']
+1397,issue,juliantaylor,2014-03-01T14:40:45Z,,close,['#4375'],10,4,"['numpy-gitbot', 'charris', 'teoliphant', 'juliantaylor']"
+1396,issue,numpy-gitbot,2012-10-19T19:28:54Z,,close,[],2,1,['numpy-gitbot']
+1394,issue,numpy-gitbot,2012-10-19T19:28:49Z,,close,[],8,1,['numpy-gitbot']
+1392,issue,numpy-gitbot,2012-10-19T19:28:42Z,,close,[],9,1,['numpy-gitbot']
+1391,issue,numpy-gitbot,2012-10-19T19:28:38Z,,close,[],8,1,['numpy-gitbot']
+1390,issue,numpy-gitbot,2012-10-19T19:28:35Z,,close,[],4,1,['numpy-gitbot']
+1389,issue,numpy-gitbot,2012-10-19T19:28:32Z,,close,[],8,1,['numpy-gitbot']
+1388,issue,numpy-gitbot,2012-10-19T19:28:29Z,,close,[],5,1,['numpy-gitbot']
+1387,issue,numpy-gitbot,2012-10-19T19:28:26Z,,close,['#4246'],7,1,['numpy-gitbot']
+1386,issue,numpy-gitbot,2012-10-19T19:28:23Z,,close,[],13,1,['numpy-gitbot']
+1385,issue,numpy-gitbot,2012-10-19T19:28:16Z,,close,[],11,1,['numpy-gitbot']
+1384,issue,numpy-gitbot,2012-10-19T19:28:12Z,,close,[],6,1,['numpy-gitbot']
+1383,issue,numpy-gitbot,2012-10-19T19:28:09Z,,close,[],4,1,['numpy-gitbot']
+1381,issue,numpy-gitbot,2012-10-19T19:28:03Z,,close,[],2,1,['numpy-gitbot']
+1380,issue,numpy-gitbot,2012-10-19T19:28:01Z,,close,[],2,1,['numpy-gitbot']
+1379,issue,numpy-gitbot,2012-10-19T19:28:00Z,,close,[],2,1,['numpy-gitbot']
+1378,issue,numpy-gitbot,2012-10-19T19:27:57Z,,close,[],2,1,['numpy-gitbot']
+1377,issue,numpy-gitbot,2012-10-19T19:27:56Z,,close,[],3,1,['numpy-gitbot']
+1376,issue,numpy-gitbot,2012-10-19T19:27:54Z,,close,[],3,1,['numpy-gitbot']
+1375,issue,numpy-gitbot,2012-10-19T19:27:51Z,,close,[],3,1,['numpy-gitbot']
+1374,issue,numpy-gitbot,2012-10-19T19:27:49Z,,close,[],2,1,['numpy-gitbot']
+1373,issue,numpy-gitbot,2012-10-19T19:27:47Z,,close,[],7,1,['numpy-gitbot']
+1372,issue,rgommers,2013-05-05T20:01:24Z,,close,[],8,3,"['numpy-gitbot', 'charris', 'rgommers']"
+1371,issue,numpy-gitbot,2012-10-19T19:27:41Z,,close,[],4,1,['numpy-gitbot']
+1370,issue,numpy-gitbot,2012-10-19T19:27:38Z,,close,[],5,1,['numpy-gitbot']
+1369,issue,numpy-gitbot,2012-10-19T19:27:36Z,,close,[],5,1,['numpy-gitbot']
+1368,issue,numpy-gitbot,2012-10-19T19:27:33Z,,close,[],4,1,['numpy-gitbot']
+1364,issue,numpy-gitbot,2012-10-19T19:27:20Z,,close,[],7,1,['numpy-gitbot']
+1359,issue,numpy-gitbot,2012-10-19T19:27:05Z,,close,[],6,1,['numpy-gitbot']
+1358,issue,numpy-gitbot,2012-10-19T19:27:02Z,,close,[],5,1,['numpy-gitbot']
+1357,issue,numpy-gitbot,2012-10-19T19:26:59Z,,close,[],8,1,['numpy-gitbot']
+1355,issue,numpy-gitbot,2012-10-19T19:26:53Z,,close,[],2,1,['numpy-gitbot']
+1351,issue,numpy-gitbot,2012-10-19T19:26:44Z,,close,[],2,1,['numpy-gitbot']
+1350,issue,charris,2014-02-18T13:58:05Z,,close,[],23,2,"['numpy-gitbot', 'charris']"
+1349,issue,numpy-gitbot,2012-10-19T19:26:34Z,,close,[],11,1,['numpy-gitbot']
+1348,issue,numpy-gitbot,2012-10-19T19:26:30Z,,close,[],5,1,['numpy-gitbot']
+1347,issue,numpy-gitbot,2012-10-19T19:26:27Z,,close,[],2,1,['numpy-gitbot']
+1346,issue,numpy-gitbot,2012-10-19T19:26:25Z,,close,['#7593'],18,1,['numpy-gitbot']
+1345,issue,numpy-gitbot,2012-10-19T19:26:20Z,,close,[],4,1,['numpy-gitbot']
+1344,issue,numpy-gitbot,2012-10-19T19:26:17Z,,close,[],2,1,['numpy-gitbot']
+1343,issue,numpy-gitbot,2012-10-19T19:26:15Z,,close,[],5,1,['numpy-gitbot']
+1342,issue,numpy-gitbot,2012-10-19T19:26:10Z,,close,[],4,1,['numpy-gitbot']
+1341,issue,numpy-gitbot,2012-10-19T19:26:08Z,,close,[],3,1,['numpy-gitbot']
+1340,issue,numpy-gitbot,2012-10-19T19:26:05Z,,close,[],2,1,['numpy-gitbot']
+1338,issue,charris,2014-02-20T00:06:33Z,,close,[],8,3,"['numpy-gitbot', 'charris', 'rgommers']"
+1336,issue,numpy-gitbot,2012-10-19T19:25:54Z,,close,[],3,1,['numpy-gitbot']
+1335,issue,numpy-gitbot,2012-10-19T19:25:52Z,,close,[],1,1,['numpy-gitbot']
+1334,issue,numpy-gitbot,2012-10-19T19:25:50Z,,close,[],10,1,['numpy-gitbot']
+1333,issue,numpy-gitbot,2012-10-19T19:25:46Z,,close,[],2,1,['numpy-gitbot']
+1331,issue,numpy-gitbot,2012-10-19T19:25:42Z,,close,[],4,1,['numpy-gitbot']
+1330,issue,numpy-gitbot,2012-10-19T19:25:39Z,,close,[],3,1,['numpy-gitbot']
+1329,issue,numpy-gitbot,2012-10-19T19:25:37Z,,close,[],5,1,['numpy-gitbot']
+1328,issue,numpy-gitbot,2012-10-19T19:25:35Z,,close,[],5,1,['numpy-gitbot']
+1326,issue,numpy-gitbot,2012-10-19T19:25:30Z,,close,[],9,1,['numpy-gitbot']
+1324,issue,numpy-gitbot,2012-10-19T19:25:22Z,,close,[],2,1,['numpy-gitbot']
+1321,issue,numpy-gitbot,2012-10-19T19:25:15Z,,close,[],6,1,['numpy-gitbot']
+1319,issue,numpy-gitbot,2012-10-19T19:25:08Z,,close,[],9,1,['numpy-gitbot']
+1317,issue,numpy-gitbot,2012-10-19T19:25:00Z,,close,[],8,1,['numpy-gitbot']
+1314,issue,numpy-gitbot,2012-10-19T19:24:49Z,,close,[],2,1,['numpy-gitbot']
+1313,issue,numpy-gitbot,2012-10-19T19:24:46Z,,close,[],3,1,['numpy-gitbot']
+1312,issue,numpy-gitbot,2012-10-19T19:24:43Z,,close,[],3,1,['numpy-gitbot']
+1311,issue,numpy-gitbot,2012-10-19T19:24:41Z,,close,[],2,1,['numpy-gitbot']
+1310,issue,numpy-gitbot,2012-10-19T19:24:38Z,,close,[],2,1,['numpy-gitbot']
+1309,issue,numpy-gitbot,2012-10-19T19:24:36Z,,close,[],3,1,['numpy-gitbot']
+1308,issue,numpy-gitbot,2012-10-19T19:24:33Z,,close,[],5,1,['numpy-gitbot']
+1306,issue,numpy-gitbot,2012-10-19T19:24:27Z,,close,[],8,1,['numpy-gitbot']
+1305,issue,numpy-gitbot,2012-10-19T19:24:23Z,,close,[],12,1,['numpy-gitbot']
+1304,issue,numpy-gitbot,2012-10-19T19:24:17Z,,close,[],5,1,['numpy-gitbot']
+1303,issue,numpy-gitbot,2012-10-19T19:24:14Z,,close,[],1,1,['numpy-gitbot']
+1302,issue,numpy-gitbot,2012-10-19T19:24:12Z,,close,[],3,1,['numpy-gitbot']
+1301,issue,numpy-gitbot,2012-10-19T19:24:09Z,,close,[],2,1,['numpy-gitbot']
+1300,issue,numpy-gitbot,2012-10-19T19:24:07Z,,close,[],5,1,['numpy-gitbot']
+1298,issue,numpy-gitbot,2012-10-19T19:24:01Z,,close,[],3,1,['numpy-gitbot']
+1297,issue,numpy-gitbot,2012-10-19T19:23:59Z,,close,[],2,1,['numpy-gitbot']
+1296,issue,numpy-gitbot,2012-10-19T19:23:57Z,,close,['#7459'],12,1,['numpy-gitbot']
+1295,issue,numpy-gitbot,2012-10-19T19:23:52Z,,close,[],2,1,['numpy-gitbot']
+1294,issue,numpy-gitbot,2012-10-19T19:23:50Z,,close,[],4,1,['numpy-gitbot']
+1291,issue,numpy-gitbot,2012-10-19T19:23:42Z,,close,[],4,1,['numpy-gitbot']
+1290,issue,numpy-gitbot,2012-10-19T19:23:40Z,,close,[],3,1,['numpy-gitbot']
+1289,issue,numpy-gitbot,2012-10-19T19:23:36Z,,close,[],3,1,['numpy-gitbot']
+1288,issue,numpy-gitbot,2012-10-19T19:23:34Z,,close,[],3,1,['numpy-gitbot']
+1287,issue,numpy-gitbot,2012-10-19T19:23:32Z,,close,[],1,1,['numpy-gitbot']
+1286,issue,numpy-gitbot,2012-10-19T19:23:30Z,,close,[],2,1,['numpy-gitbot']
+1285,issue,numpy-gitbot,2012-10-19T19:23:28Z,,close,[],3,1,['numpy-gitbot']
+1284,issue,numpy-gitbot,2012-10-19T19:23:26Z,,close,[],7,1,['numpy-gitbot']
+1283,issue,numpy-gitbot,2012-10-19T19:23:23Z,,close,[],2,1,['numpy-gitbot']
+1282,issue,numpy-gitbot,2012-10-19T19:23:20Z,,close,[],2,1,['numpy-gitbot']
+1281,issue,numpy-gitbot,2012-10-19T19:23:19Z,,close,[],2,1,['numpy-gitbot']
+1280,issue,numpy-gitbot,2012-10-19T19:23:17Z,,close,[],2,1,['numpy-gitbot']
+1278,issue,numpy-gitbot,2012-10-19T19:23:12Z,,close,[],2,1,['numpy-gitbot']
+1277,issue,numpy-gitbot,2012-10-19T19:23:10Z,,close,[],2,1,['numpy-gitbot']
+1276,issue,numpy-gitbot,2012-10-19T19:23:08Z,,close,[],2,1,['numpy-gitbot']
+1275,issue,numpy-gitbot,2012-10-19T19:23:06Z,,close,[],3,1,['numpy-gitbot']
+1274,issue,numpy-gitbot,2012-10-19T19:23:04Z,,close,[],5,1,['numpy-gitbot']
+1273,issue,seberg,2014-02-10T22:22:21Z,,close,[],5,2,"['numpy-gitbot', 'seberg']"
+1272,issue,numpy-gitbot,2012-10-19T19:23:00Z,,close,[],9,1,['numpy-gitbot']
+1271,issue,charris,2014-02-15T19:41:52Z,,close,[],11,2,"['numpy-gitbot', 'charris']"
+1270,issue,numpy-gitbot,2012-10-19T19:22:53Z,,close,[],3,1,['numpy-gitbot']
+1269,issue,numpy-gitbot,2012-10-19T19:22:51Z,,close,[],7,1,['numpy-gitbot']
+1268,issue,numpy-gitbot,2012-10-19T19:22:47Z,,close,[],3,1,['numpy-gitbot']
+1267,issue,numpy-gitbot,2012-10-19T19:22:45Z,,close,[],3,1,['numpy-gitbot']
+1265,issue,numpy-gitbot,2012-10-19T19:22:41Z,,close,[],4,1,['numpy-gitbot']
+1263,issue,numpy-gitbot,2012-10-19T19:22:37Z,,close,[],2,1,['numpy-gitbot']
+1260,issue,numpy-gitbot,2012-10-19T19:22:30Z,,close,[],3,1,['numpy-gitbot']
+1259,issue,numpy-gitbot,2012-10-19T19:22:28Z,,close,[],4,1,['numpy-gitbot']
+1258,issue,numpy-gitbot,2012-10-19T19:22:26Z,,close,[],5,1,['numpy-gitbot']
+1257,issue,charris,2014-02-18T14:47:07Z,,close,[],6,3,"['numpy-gitbot', 'charris', 'seberg']"
+1256,issue,numpy-gitbot,2012-10-19T19:22:19Z,,close,[],3,1,['numpy-gitbot']
+1255,issue,numpy-gitbot,2012-10-19T19:22:17Z,,close,[],2,1,['numpy-gitbot']
+1254,issue,numpy-gitbot,2012-10-19T19:22:16Z,,close,[],2,1,['numpy-gitbot']
+1252,issue,numpy-gitbot,2012-10-19T19:22:09Z,,close,[],7,1,['numpy-gitbot']
+1251,issue,numpy-gitbot,2012-10-19T19:22:04Z,,close,[],5,1,['numpy-gitbot']
+1250,issue,numpy-gitbot,2012-10-19T19:22:01Z,,close,[],2,1,['numpy-gitbot']
+1249,issue,numpy-gitbot,2012-10-19T19:21:59Z,,close,[],1,1,['numpy-gitbot']
+1248,issue,numpy-gitbot,2012-10-19T19:21:57Z,,close,[],3,1,['numpy-gitbot']
+1247,issue,numpy-gitbot,2012-10-19T19:21:55Z,,close,[],7,1,['numpy-gitbot']
+1246,issue,numpy-gitbot,2012-10-19T19:21:52Z,,close,[],2,1,['numpy-gitbot']
+1245,issue,numpy-gitbot,2012-10-19T19:21:50Z,,close,[],11,1,['numpy-gitbot']
+1244,issue,numpy-gitbot,2012-10-19T19:21:46Z,,close,[],3,1,['numpy-gitbot']
+1243,issue,numpy-gitbot,2012-10-19T19:21:44Z,,close,[],2,1,['numpy-gitbot']
+1242,issue,numpy-gitbot,2012-10-19T19:21:42Z,,close,[],9,1,['numpy-gitbot']
+1241,issue,numpy-gitbot,2012-10-19T19:21:38Z,,close,[],10,1,['numpy-gitbot']
+1240,issue,numpy-gitbot,2012-10-19T19:21:33Z,,close,[],3,1,['numpy-gitbot']
+1239,issue,numpy-gitbot,2012-10-19T19:21:31Z,,close,[],10,1,['numpy-gitbot']
+1238,issue,numpy-gitbot,2012-10-19T19:21:27Z,,close,[],7,1,['numpy-gitbot']
+1237,issue,numpy-gitbot,2012-10-19T19:21:22Z,,close,[],3,1,['numpy-gitbot']
+1236,issue,numpy-gitbot,2012-10-19T19:21:20Z,,close,[],14,1,['numpy-gitbot']
+1235,issue,numpy-gitbot,2012-10-19T19:21:14Z,,close,[],3,1,['numpy-gitbot']
+1233,issue,numpy-gitbot,2012-10-19T19:21:08Z,,close,[],3,1,['numpy-gitbot']
+1232,issue,numpy-gitbot,2012-10-19T19:21:06Z,,close,[],4,1,['numpy-gitbot']
+1231,issue,numpy-gitbot,2012-10-19T19:21:03Z,,close,[],14,1,['numpy-gitbot']
+1230,issue,numpy-gitbot,2012-10-19T19:20:58Z,,close,[],6,1,['numpy-gitbot']
+1229,issue,numpy-gitbot,2012-10-19T19:20:55Z,,close,[],2,1,['numpy-gitbot']
+1228,issue,numpy-gitbot,2012-10-19T19:20:53Z,,close,[],13,1,['numpy-gitbot']
+1227,issue,numpy-gitbot,2012-10-19T19:20:48Z,,close,[],13,1,['numpy-gitbot']
+1226,issue,numpy-gitbot,2012-10-19T19:20:42Z,,close,[],6,1,['numpy-gitbot']
+1225,issue,numpy-gitbot,2012-10-19T19:20:39Z,,close,[],17,1,['numpy-gitbot']
+1223,issue,numpy-gitbot,2012-10-19T19:20:30Z,,close,[],1,1,['numpy-gitbot']
+1222,issue,numpy-gitbot,2012-10-19T19:20:28Z,,close,[],2,1,['numpy-gitbot']
+1221,issue,numpy-gitbot,2012-10-19T19:20:26Z,,close,[],6,1,['numpy-gitbot']
+1219,issue,numpy-gitbot,2012-10-22T14:31:27Z,,close,[],3,1,['numpy-gitbot']
+1218,issue,numpy-gitbot,2012-10-19T19:00:32Z,,close,[],4,1,['numpy-gitbot']
+1216,issue,numpy-gitbot,2012-10-19T19:00:20Z,,close,[],4,1,['numpy-gitbot']
+1215,issue,numpy-gitbot,2012-10-19T19:00:16Z,,close,[],2,1,['numpy-gitbot']
+1214,issue,numpy-gitbot,2012-10-19T19:00:14Z,,close,[],2,1,['numpy-gitbot']
+1213,issue,numpy-gitbot,2012-10-19T19:00:12Z,,close,[],3,1,['numpy-gitbot']
+1212,issue,numpy-gitbot,2012-10-19T19:00:10Z,,close,[],5,1,['numpy-gitbot']
+1211,issue,numpy-gitbot,2012-10-19T19:00:07Z,,close,[],2,1,['numpy-gitbot']
+1210,issue,numpy-gitbot,2012-10-19T19:00:04Z,,close,[],4,1,['numpy-gitbot']
+1209,issue,numpy-gitbot,2012-10-19T19:00:00Z,,close,[],4,1,['numpy-gitbot']
+1207,issue,numpy-gitbot,2012-10-19T18:59:56Z,,close,[],2,1,['numpy-gitbot']
+1205,issue,numpy-gitbot,2012-10-19T18:59:52Z,,close,[],6,1,['numpy-gitbot']
+1204,issue,numpy-gitbot,2012-10-19T18:59:49Z,,close,[],2,1,['numpy-gitbot']
+1203,issue,numpy-gitbot,2012-10-19T18:59:47Z,,close,[],11,1,['numpy-gitbot']
+1202,issue,numpy-gitbot,2012-10-19T18:59:43Z,,close,[],2,1,['numpy-gitbot']
+1201,issue,numpy-gitbot,2012-10-19T18:59:41Z,,close,[],7,1,['numpy-gitbot']
+1200,issue,numpy-gitbot,2012-10-19T18:59:37Z,,close,[],2,1,['numpy-gitbot']
+1198,issue,numpy-gitbot,2012-10-19T18:59:31Z,,close,[],3,1,['numpy-gitbot']
+1197,issue,numpy-gitbot,2012-10-19T18:59:28Z,,close,[],3,1,['numpy-gitbot']
+1196,issue,numpy-gitbot,2012-10-19T18:59:26Z,,close,[],8,1,['numpy-gitbot']
+1195,issue,numpy-gitbot,2012-10-19T18:59:22Z,,close,[],4,1,['numpy-gitbot']
+1194,issue,numpy-gitbot,2012-10-19T18:59:20Z,,close,[],10,1,['numpy-gitbot']
+1192,issue,numpy-gitbot,2012-10-19T18:59:13Z,,close,[],4,1,['numpy-gitbot']
+1190,issue,numpy-gitbot,2012-10-19T18:59:08Z,,close,[],3,1,['numpy-gitbot']
+1188,issue,numpy-gitbot,2012-10-19T18:59:03Z,,close,[],4,1,['numpy-gitbot']
+1187,issue,numpy-gitbot,2012-10-19T18:59:00Z,,close,[],3,1,['numpy-gitbot']
+1186,issue,numpy-gitbot,2012-10-19T18:58:58Z,,close,[],4,1,['numpy-gitbot']
+1185,issue,numpy-gitbot,2012-10-19T18:58:55Z,,close,[],4,1,['numpy-gitbot']
+1181,issue,numpy-gitbot,2012-10-19T18:58:46Z,,close,[],2,1,['numpy-gitbot']
+1180,issue,numpy-gitbot,2012-10-19T18:58:44Z,,close,[],11,1,['numpy-gitbot']
+1179,issue,numpy-gitbot,2012-10-19T18:58:40Z,,close,[],5,1,['numpy-gitbot']
+1178,issue,numpy-gitbot,2012-10-19T18:58:37Z,,close,[],2,1,['numpy-gitbot']
+1176,issue,numpy-gitbot,2012-10-19T18:58:33Z,,close,[],2,1,['numpy-gitbot']
+1175,issue,numpy-gitbot,2012-10-19T18:58:31Z,,close,[],4,1,['numpy-gitbot']
+1174,issue,numpy-gitbot,2012-10-19T18:58:29Z,,close,[],3,1,['numpy-gitbot']
+1173,issue,numpy-gitbot,2012-10-19T18:58:26Z,,close,[],4,1,['numpy-gitbot']
+1172,issue,numpy-gitbot,2012-10-19T18:58:24Z,,close,[],3,1,['numpy-gitbot']
+1171,issue,numpy-gitbot,2012-10-19T18:58:22Z,,close,['#6809'],7,1,['numpy-gitbot']
+1170,issue,numpy-gitbot,2012-10-19T18:58:18Z,,close,['#7000'],7,1,['numpy-gitbot']
+1168,issue,numpy-gitbot,2012-10-19T18:58:10Z,,close,[],8,1,['numpy-gitbot']
+1167,issue,numpy-gitbot,2012-10-19T18:58:07Z,,close,[],2,1,['numpy-gitbot']
+1164,issue,numpy-gitbot,2012-10-19T18:58:00Z,,close,[],10,1,['numpy-gitbot']
+1162,issue,numpy-gitbot,2012-10-19T18:57:53Z,,close,[],3,1,['numpy-gitbot']
+1161,issue,numpy-gitbot,2012-10-19T18:57:51Z,,close,[],2,1,['numpy-gitbot']
+1160,issue,numpy-gitbot,2012-10-19T18:57:49Z,,close,[],14,1,['numpy-gitbot']
+1159,issue,numpy-gitbot,2012-10-19T18:57:44Z,,close,[],5,1,['numpy-gitbot']
+1158,issue,numpy-gitbot,2012-10-19T18:57:41Z,,close,[],2,1,['numpy-gitbot']
+1157,issue,numpy-gitbot,2012-10-19T18:57:39Z,,close,[],4,1,['numpy-gitbot']
+1155,issue,numpy-gitbot,2012-10-19T18:57:32Z,,close,[],8,1,['numpy-gitbot']
+1154,issue,numpy-gitbot,2012-10-19T18:57:28Z,,close,[],3,1,['numpy-gitbot']
+1153,issue,numpy-gitbot,2012-10-19T18:57:26Z,,close,[],6,1,['numpy-gitbot']
+1152,issue,numpy-gitbot,2012-10-19T18:57:23Z,,close,[],3,1,['numpy-gitbot']
+1151,issue,numpy-gitbot,2012-10-19T18:57:20Z,,close,[],5,1,['numpy-gitbot']
+1150,issue,numpy-gitbot,2012-10-19T18:57:18Z,,close,[],3,1,['numpy-gitbot']
+1149,issue,numpy-gitbot,2012-10-19T18:57:15Z,,close,[],33,1,['numpy-gitbot']
+1148,issue,numpy-gitbot,2012-10-19T18:57:05Z,,close,[],5,1,['numpy-gitbot']
+1147,issue,numpy-gitbot,2012-10-19T18:57:02Z,,close,[],5,1,['numpy-gitbot']
+1146,issue,numpy-gitbot,2012-10-19T18:56:59Z,,close,[],3,1,['numpy-gitbot']
+1144,issue,numpy-gitbot,2012-10-19T18:56:53Z,,close,[],3,1,['numpy-gitbot']
+1143,issue,numpy-gitbot,2012-10-19T18:56:51Z,,close,[],3,1,['numpy-gitbot']
+1142,issue,numpy-gitbot,2012-10-19T18:56:49Z,,close,[],2,1,['numpy-gitbot']
+1141,issue,numpy-gitbot,2012-10-19T18:56:47Z,,close,[],3,1,['numpy-gitbot']
+1140,issue,numpy-gitbot,2012-10-19T18:56:45Z,,close,[],1,1,['numpy-gitbot']
+1139,issue,numpy-gitbot,2012-10-19T18:56:43Z,,close,[],3,1,['numpy-gitbot']
+1138,issue,numpy-gitbot,2012-10-19T18:56:41Z,,close,[],2,1,['numpy-gitbot']
+1137,issue,numpy-gitbot,2012-10-19T18:56:39Z,,close,[],7,1,['numpy-gitbot']
+1136,issue,numpy-gitbot,2012-10-19T18:56:35Z,,close,[],2,1,['numpy-gitbot']
+1135,issue,numpy-gitbot,2012-10-19T18:56:33Z,,close,[],3,1,['numpy-gitbot']
+1134,issue,numpy-gitbot,2012-10-19T18:56:30Z,,close,[],8,1,['numpy-gitbot']
+1133,issue,numpy-gitbot,2012-10-19T18:56:27Z,,close,[],2,1,['numpy-gitbot']
+1132,issue,numpy-gitbot,2012-10-19T18:56:25Z,,close,[],3,1,['numpy-gitbot']
+1130,issue,numpy-gitbot,2012-10-19T18:56:14Z,,close,[],4,1,['numpy-gitbot']
+1129,issue,numpy-gitbot,2012-10-19T18:56:10Z,,close,[],6,1,['numpy-gitbot']
+1128,issue,numpy-gitbot,2012-10-19T18:56:04Z,,close,[],2,1,['numpy-gitbot']
+1126,issue,numpy-gitbot,2012-10-19T18:56:00Z,,close,[],2,1,['numpy-gitbot']
+1124,issue,numpy-gitbot,2012-10-19T18:55:55Z,,close,[],7,1,['numpy-gitbot']
+1123,issue,numpy-gitbot,2012-10-19T18:55:52Z,,close,[],4,1,['numpy-gitbot']
+1122,issue,numpy-gitbot,2012-10-19T18:55:49Z,,close,[],2,1,['numpy-gitbot']
+1121,issue,numpy-gitbot,2012-10-19T18:55:47Z,,close,[],2,1,['numpy-gitbot']
+1119,issue,numpy-gitbot,2012-10-19T18:55:43Z,,close,[],5,1,['numpy-gitbot']
+1118,issue,numpy-gitbot,2012-10-19T18:55:40Z,,close,[],3,1,['numpy-gitbot']
+1117,issue,numpy-gitbot,2012-10-19T18:55:37Z,,close,[],4,1,['numpy-gitbot']
+1116,issue,numpy-gitbot,2012-10-19T18:55:34Z,,close,[],6,1,['numpy-gitbot']
+1115,issue,numpy-gitbot,2012-10-19T18:55:31Z,,close,[],6,1,['numpy-gitbot']
+1114,issue,numpy-gitbot,2012-10-19T18:55:22Z,,close,[],3,1,['numpy-gitbot']
+1113,issue,numpy-gitbot,2012-10-19T18:55:20Z,,close,[],3,1,['numpy-gitbot']
+1112,issue,numpy-gitbot,2012-10-19T18:55:18Z,,close,[],4,1,['numpy-gitbot']
+1111,issue,numpy-gitbot,2012-10-19T18:55:15Z,,close,[],2,1,['numpy-gitbot']
+1110,issue,charris,2014-02-18T13:24:09Z,,close,[],9,2,"['numpy-gitbot', 'charris']"
+1109,issue,numpy-gitbot,2012-10-19T18:55:10Z,,close,[],1,1,['numpy-gitbot']
+1108,issue,numpy-gitbot,2012-10-19T18:55:08Z,,close,[],5,1,['numpy-gitbot']
+1107,issue,numpy-gitbot,2012-10-19T18:55:04Z,,close,[],4,1,['numpy-gitbot']
+1106,issue,numpy-gitbot,2012-10-19T18:55:01Z,,close,[],3,1,['numpy-gitbot']
+1105,issue,numpy-gitbot,2012-10-19T18:54:59Z,,close,[],5,1,['numpy-gitbot']
+1104,issue,numpy-gitbot,2012-10-19T18:54:56Z,,close,[],8,1,['numpy-gitbot']
+1103,issue,numpy-gitbot,2012-10-19T18:54:52Z,,close,[],3,1,['numpy-gitbot']
+1101,issue,numpy-gitbot,2012-10-19T18:54:47Z,,close,[],3,1,['numpy-gitbot']
+1099,issue,numpy-gitbot,2012-10-19T18:54:40Z,,close,[],15,1,['numpy-gitbot']
+1098,issue,numpy-gitbot,2012-10-19T18:54:33Z,,close,[],4,1,['numpy-gitbot']
+1095,issue,numpy-gitbot,2012-10-19T18:54:26Z,,close,[],4,1,['numpy-gitbot']
+1094,issue,numpy-gitbot,2012-10-19T18:54:23Z,,close,[],3,1,['numpy-gitbot']
+1093,issue,numpy-gitbot,2012-10-19T18:54:20Z,,close,[],2,1,['numpy-gitbot']
+1092,issue,numpy-gitbot,2012-10-19T18:54:18Z,,close,[],10,1,['numpy-gitbot']
+1091,issue,numpy-gitbot,2012-10-19T18:54:12Z,,close,[],2,1,['numpy-gitbot']
+1090,issue,numpy-gitbot,2012-10-19T18:54:10Z,,close,[],2,1,['numpy-gitbot']
+1089,issue,numpy-gitbot,2012-10-19T18:54:07Z,,close,[],4,1,['numpy-gitbot']
+1088,issue,numpy-gitbot,2012-10-19T18:54:04Z,,close,[],2,1,['numpy-gitbot']
+1086,issue,numpy-gitbot,2012-10-19T18:54:00Z,,close,[],2,1,['numpy-gitbot']
+1085,issue,numpy-gitbot,2012-10-19T18:53:58Z,,close,[],4,1,['numpy-gitbot']
+1084,issue,numpy-gitbot,2012-10-19T18:53:56Z,,close,[],6,1,['numpy-gitbot']
+1083,issue,numpy-gitbot,2012-10-19T18:53:53Z,,close,[],3,1,['numpy-gitbot']
+1082,issue,numpy-gitbot,2012-10-19T18:53:51Z,,close,[],2,1,['numpy-gitbot']
+1081,issue,numpy-gitbot,2012-10-19T18:53:49Z,,close,[],4,1,['numpy-gitbot']
+1080,issue,numpy-gitbot,2012-10-19T18:53:47Z,,close,[],5,1,['numpy-gitbot']
+1079,issue,numpy-gitbot,2012-10-19T18:53:44Z,,close,[],2,1,['numpy-gitbot']
+1078,issue,numpy-gitbot,2012-10-19T18:53:42Z,,close,[],2,1,['numpy-gitbot']
+1077,issue,numpy-gitbot,2012-10-19T18:53:40Z,,close,[],4,1,['numpy-gitbot']
+1075,issue,numpy-gitbot,2012-10-19T18:53:34Z,,close,[],1,1,['numpy-gitbot']
+1074,issue,numpy-gitbot,2012-10-19T18:53:32Z,,close,[],3,1,['numpy-gitbot']
+1073,issue,numpy-gitbot,2012-10-19T18:53:30Z,,close,[],1,1,['numpy-gitbot']
+1072,issue,numpy-gitbot,2012-10-19T18:53:29Z,,close,[],3,1,['numpy-gitbot']
+1071,issue,numpy-gitbot,2012-10-19T18:53:27Z,,close,"['#3198', '#4278']",2,1,['numpy-gitbot']
+1070,issue,numpy-gitbot,2012-10-19T18:53:25Z,,close,[],5,1,['numpy-gitbot']
+1069,issue,numpy-gitbot,2012-10-19T18:53:22Z,,close,[],2,1,['numpy-gitbot']
+1068,issue,numpy-gitbot,2012-10-19T18:53:20Z,,close,[],7,1,['numpy-gitbot']
+1067,issue,numpy-gitbot,2012-10-19T18:53:17Z,,close,[],5,1,['numpy-gitbot']
+1065,issue,numpy-gitbot,2012-10-19T18:53:12Z,,close,[],2,1,['numpy-gitbot']
+1064,issue,numpy-gitbot,2012-10-19T18:53:10Z,,close,[],17,1,['numpy-gitbot']
+1063,issue,numpy-gitbot,2012-10-19T18:53:04Z,,close,[],3,1,['numpy-gitbot']
+1062,issue,numpy-gitbot,2012-10-19T18:53:02Z,,close,[],4,1,['numpy-gitbot']
+1061,issue,numpy-gitbot,2012-10-19T18:52:59Z,,close,[],5,1,['numpy-gitbot']
+1057,issue,numpy-gitbot,2012-10-19T18:52:50Z,,close,[],3,1,['numpy-gitbot']
+1056,issue,numpy-gitbot,2012-10-19T18:52:47Z,,close,[],3,1,['numpy-gitbot']
+1055,issue,numpy-gitbot,2012-10-19T18:52:45Z,,close,[],3,1,['numpy-gitbot']
+1054,issue,numpy-gitbot,2012-10-19T18:52:42Z,,close,[],6,1,['numpy-gitbot']
+1053,issue,numpy-gitbot,2012-10-19T18:52:37Z,,close,[],5,1,['numpy-gitbot']
+1052,issue,numpy-gitbot,2012-10-19T18:52:34Z,,close,[],5,1,['numpy-gitbot']
+1051,issue,numpy-gitbot,2012-10-19T18:52:31Z,,close,[],2,1,['numpy-gitbot']
+1050,issue,numpy-gitbot,2012-10-19T18:52:28Z,,close,[],2,1,['numpy-gitbot']
+1048,issue,numpy-gitbot,2012-10-19T18:52:23Z,,close,[],17,1,['numpy-gitbot']
+1047,issue,numpy-gitbot,2012-10-19T18:52:16Z,,close,[],2,1,['numpy-gitbot']
+1046,issue,numpy-gitbot,2012-10-19T18:52:14Z,,close,[],1,1,['numpy-gitbot']
+1044,issue,numpy-gitbot,2012-10-19T18:52:11Z,,close,[],2,1,['numpy-gitbot']
+1043,issue,numpy-gitbot,2012-10-19T18:52:09Z,,close,[],5,1,['numpy-gitbot']
+1042,issue,numpy-gitbot,2012-10-19T18:52:06Z,,close,[],1,1,['numpy-gitbot']
+1041,issue,numpy-gitbot,2012-10-19T18:52:05Z,,close,[],1,1,['numpy-gitbot']
+1038,issue,charris,2014-02-17T18:20:35Z,,close,[],10,2,"['numpy-gitbot', 'charris']"
+1037,issue,numpy-gitbot,2012-10-19T18:51:55Z,,close,[],2,1,['numpy-gitbot']
+1036,issue,numpy-gitbot,2012-10-19T18:51:53Z,,close,[],5,1,['numpy-gitbot']
+1034,issue,numpy-gitbot,2012-10-19T18:51:38Z,,close,[],5,1,['numpy-gitbot']
+1033,issue,numpy-gitbot,2012-10-19T18:51:35Z,,close,[],2,1,['numpy-gitbot']
+1031,issue,numpy-gitbot,2012-10-19T18:51:30Z,,close,[],3,1,['numpy-gitbot']
+1030,issue,numpy-gitbot,2012-10-19T18:51:27Z,,close,[],13,1,['numpy-gitbot']
+1029,issue,numpy-gitbot,2012-10-19T18:51:22Z,,close,[],5,1,['numpy-gitbot']
+1028,issue,numpy-gitbot,2012-10-19T18:51:20Z,,close,[],4,1,['numpy-gitbot']
+1025,issue,numpy-gitbot,2012-10-19T18:51:10Z,,close,[],2,1,['numpy-gitbot']
+1022,issue,numpy-gitbot,2012-10-19T18:51:01Z,,close,[],6,1,['numpy-gitbot']
+1021,issue,numpy-gitbot,2012-10-19T18:50:58Z,,close,[],3,1,['numpy-gitbot']
+1020,issue,numpy-gitbot,2012-10-19T18:50:56Z,,close,[],4,1,['numpy-gitbot']
+1016,issue,numpy-gitbot,2012-10-19T18:50:46Z,,close,[],5,1,['numpy-gitbot']
+1015,issue,numpy-gitbot,2012-10-19T18:50:43Z,,close,[],9,1,['numpy-gitbot']
+1014,issue,numpy-gitbot,2012-10-19T18:50:39Z,,close,[],9,1,['numpy-gitbot']
+1012,issue,numpy-gitbot,2012-10-19T18:50:32Z,,close,[],2,1,['numpy-gitbot']
+1011,issue,numpy-gitbot,2012-10-19T18:50:29Z,,close,[],7,1,['numpy-gitbot']
+1010,issue,numpy-gitbot,2012-10-19T18:50:26Z,,close,[],6,1,['numpy-gitbot']
+1008,issue,numpy-gitbot,2012-10-19T18:50:21Z,,close,[],6,1,['numpy-gitbot']
+1007,issue,numpy-gitbot,2012-10-19T18:50:18Z,,close,[],3,1,['numpy-gitbot']
+1006,issue,numpy-gitbot,2012-10-19T18:50:16Z,,close,[],2,1,['numpy-gitbot']
+1005,issue,numpy-gitbot,2012-10-19T18:50:14Z,,close,[],2,1,['numpy-gitbot']
+1004,issue,numpy-gitbot,2012-10-19T18:50:12Z,,close,[],2,1,['numpy-gitbot']
+1003,issue,numpy-gitbot,2012-10-19T18:50:10Z,,close,[],4,1,['numpy-gitbot']
+1002,issue,numpy-gitbot,2012-10-19T18:50:08Z,,close,[],4,1,['numpy-gitbot']
+999,issue,numpy-gitbot,2012-10-19T18:49:56Z,,close,[],3,1,['numpy-gitbot']
+997,issue,numpy-gitbot,2012-10-19T18:49:51Z,,close,[],3,1,['numpy-gitbot']
+995,issue,numpy-gitbot,2012-10-19T18:49:40Z,,close,[],3,1,['numpy-gitbot']
+994,issue,numpy-gitbot,2012-10-19T18:49:38Z,,close,[],4,1,['numpy-gitbot']
+993,issue,numpy-gitbot,2012-10-19T18:49:35Z,,close,[],4,1,['numpy-gitbot']
+992,issue,numpy-gitbot,2012-10-19T18:49:32Z,,close,[],8,1,['numpy-gitbot']
+991,issue,numpy-gitbot,2012-10-19T18:49:29Z,,close,[],2,1,['numpy-gitbot']
+989,issue,numpy-gitbot,2012-10-19T18:49:25Z,,close,[],3,1,['numpy-gitbot']
+988,issue,numpy-gitbot,2012-10-19T18:49:23Z,,close,[],6,1,['numpy-gitbot']
+987,issue,numpy-gitbot,2012-10-19T18:49:20Z,,close,[],2,1,['numpy-gitbot']
+986,issue,numpy-gitbot,2012-10-19T18:49:18Z,,close,[],2,1,['numpy-gitbot']
+985,issue,numpy-gitbot,2012-10-19T18:49:16Z,,close,[],1,1,['numpy-gitbot']
+984,issue,numpy-gitbot,2012-10-19T18:49:15Z,,close,[],2,1,['numpy-gitbot']
+983,issue,numpy-gitbot,2012-10-19T18:49:12Z,,close,[],4,1,['numpy-gitbot']
+982,issue,numpy-gitbot,2012-10-19T18:49:08Z,,close,[],3,1,['numpy-gitbot']
+981,issue,numpy-gitbot,2012-10-19T18:49:05Z,,close,[],1,1,['numpy-gitbot']
+980,issue,numpy-gitbot,2012-10-19T18:49:04Z,,close,[],2,1,['numpy-gitbot']
+979,issue,numpy-gitbot,2012-10-19T18:49:02Z,,close,[],3,1,['numpy-gitbot']
+978,issue,numpy-gitbot,2012-10-19T18:48:59Z,,close,[],2,1,['numpy-gitbot']
+977,issue,numpy-gitbot,2012-10-19T18:48:58Z,,close,[],2,1,['numpy-gitbot']
+976,issue,numpy-gitbot,2012-10-19T18:48:56Z,,close,[],14,1,['numpy-gitbot']
+975,issue,numpy-gitbot,2012-10-19T18:48:51Z,,close,[],2,1,['numpy-gitbot']

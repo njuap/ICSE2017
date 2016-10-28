@@ -1,0 +1,57 @@
+ref_issue,number,ref_time,ref_author,ref_comment,itype,close_author,close_time,close,close_type,related_pr,#comment,#participants,part_names
+numpy/numpy#6271,6335,,,,pr,,,,,[],8,3,"['charris', 'seberg', 'jreback']"
+joblib/joblib#263,5623,,,,issue,ogrisel,2015-10-30T18:16:39Z,scikit-learn/scikit-learn#5635,close,"['#264', '#265', '#282', '#240']",14,4,"['fjanoos', 'lesteve', 'GaelVaroquaux', 'ogrisel']"
+joblib/joblib#258,5412,2015-10-22 12:12:03,mfrodl,0,issue,mfrodl,2015-11-15T11:27:10Z,,close,['#259'],3,2,"['mfrodl', 'GaelVaroquaux']"
+PyAbel/PyAbel#51,5397,2015-12-08 23:15:36,DanHickstein,0,issue,DanHickstein,2015-12-14T18:38:27Z,,close,['#53'],4,3,"['DanHickstein', 'stggh', 'rth']"
+nilearn/nilearn#896,5397,2015-12-08 22:03:25,rschmaelzle,0,issue,GaelVaroquaux,2015-12-20T09:51:14Z,8d4841e,close,['#920'],10,4,"['rschmaelzle', 'lesteve', 'GaelVaroquaux', 'KamalakerDadi']"
+NixOS/nixpkgs#9146,5045,2015-08-10 18:34:24,FRidh,4,pr,,,,,[],9,3,"['FRidh', 'bjornfor', 'pSub']"
+,,,,,,,,,,,,,
+nilearn/nilearn#712,4737,2015-10-19 11:42:14,lesteve,2,issue,lesteve,2015-10-27T10:29:27Z,,close,"['#780', '#677', '#1045']",4,1,['lesteve']
+sphinx-doc/sphinx#1892,4737,2015-06-15 07:10:23,jschueller,6,pr,,,,,"['#1822', '#2128']",14,6,"['Eric89GXL', 'jschueller', 'lsaffre', 'shimizukawa', 'birkenfeld', 'amueller']"
+numpy/numpy#5533,4701,,,,issue,,,,,[],30,10,"['dschallis', 'matthew-brett', 'juliantaylor', 'argriffing', 'insertinterestingnamehere', 'sturlamolden', 'amueller', 'charris', 'mrocklin', 'njsmith']"
+joblib/joblib#150,4597,,,,pr,,,,,[],5,2,"['ogrisel', 'GaelVaroquaux']"
+joblib/joblib#214,4597,,,,pr,,,,,[],4,3,"['ogrisel', 'lesteve', 'fenghuadong']"
+pydata/pandas#10043,4597,,,,issue,jreback,2015-05-08T00:06:40Z,,close,"['#10070', '#11502', '#12813']",29,6,"['amueller', 'jreback', 'TomAugspurger', 'shoyer', 'ogrisel', 'rhansen']"
+pydata/pandas#9928,4597,,,,issue,ek-ok,2015-04-18T05:59:42Z,,close,[],5,3,"['ek-ok', 'shoyer', 'amueller']"
+joblib/joblib#168,4430,,,,issue,,,,,[],2,1,['ogrisel']
+joblib/joblib#198,4430,2015-03-20 21:08:21,dave1g,0,issue,,,,,[],3,2,"['dave1g', 'ogrisel']"
+numpy/numpy#5696,4399,,,,issue,charris,2015-03-21T02:04:23Z,,close,[],15,3,"['amueller', 'charris', 'ahaldane']"
+,,,,,,,,,,,,,
+joblib/joblib#57,4127,2015-01-20 18:01:46,amueller,1,issue,,,,,[],2,2,"['lsartran', 'amueller']"
+scipy/scipy#3025,4102,,,,issue,pv,2013-11-09T14:10:43Z,04a2dda,close,[],8,4,"['bretter', 'rgommers', 'pv', 'thouis']"
+numpy/numpy#5456,4046,,,,issue,MechCoder,2015-01-16T18:13:19Z,,close,[],5,3,"['MechCoder', 'jnothman', 'pv']"
+materialsinnovation/pymks#132,3984,2014-12-19 14:59:47,davidbrough1,2,issue,davidbrough1,2015-01-12T17:45:39Z,,close,[],4,2,"['wd15', 'davidbrough1']"
+sphinx-gallery/sphinx-gallery#18,3777,2015-02-16 16:49:58,Titan-C,0,issue,lesteve,2016-03-17T15:31:09Z,#106,close,"['#19', '#53', '#106']",1,1,['Titan-C']
+scipy/scipy#2481,3602,,,,issue,rgommers,2014-04-16T20:50:19Z,,close,[],3,3,"['WarrenWeckesser', 'perimosocordiae', 'rgommers']"
+joblib/joblib#192,3596,2015-03-10 10:16:09,lesteve,0,pr,,,,,"['#194', '#249']",11,3,"['lesteve', 'GaelVaroquaux', 'ogrisel']"
+mne-tools/mne-python#1401,3277,2014-07-07 15:37:24,mbillingr,1,issue,dengemann,2014-07-07T20:25:13Z,,close,['#1485'],5,4,"['dengemann', 'mbillingr', 'Eric89GXL', 'agramfort']"
+,,,,,,,,,,,,,
+scipy/scipy#4142,2986,2014-11-13 12:45:14,ogrisel,0,pr,,,,,[],5,2,"['ogrisel', 'stefanv']"
+numpy/numpy#4422,2918,,,,issue,,,,,[],4,3,"['jnothman', 'juliantaylor', 'jjhelmus']"
+joblib/joblib#103,2713,,,,issue,,,,,[],2,2,"['venuktan', 'ogrisel']"
+mne-tools/mne-python#985,2663,2013-12-13 19:09:15,dengemann,0,issue,dengemann,2013-12-20T14:27:54Z,,close,[],3,2,"['dengemann', 'agramfort']"
+iancze/Starfish#26,2640,2016-01-15 05:16:03,gully,0,issue,gully,2016-02-18T05:56:48Z,,close,"['#30', '#48']",7,4,"['gully', 'anarstar', 'iancze', 'davidwhogg']"
+mne-tools/mne-python#3425,2640,2016-07-25 14:08:49,Eric89GXL,39,pr,,,,,"['#3433', '#3442']",45,7,"['kingjr', 'codecov-io', 'Eric89GXL', 'kaichogami', 'agramfort', 'jona-sassenhagen', 'dengemann']"
+MichelleLochner/supernova-machine#6,2609,2015-02-18 16:27:51,mkerrwinter,0,issue,,,,,[],1,1,['mkerrwinter']
+numpy/numpy#4012,2560,2013-11-05 10:09:29,ankit-maverick,0,issue,charris,2014-02-24T14:48:56Z,,close,[],4,4,"['ankit-maverick', 'pierregm', 'juliantaylor', 'charris']"
+scipy/scipy#2547,2472,,,,issue,rgommers,2013-06-10T17:35:37Z,,close,"['#280', '#2240', '#2620', '#2684']",35,7,"['joernhees', 'rgommers', 'pv', 'jakevdp', 'cournape', 'mandli', 'samueljohn']"
+scipy/scipy#2547,2431,,,,issue,rgommers,2013-06-10T17:35:37Z,,close,"['#280', '#2240', '#2620', '#2684']",35,7,"['joernhees', 'rgommers', 'pv', 'jakevdp', 'cournape', 'mandli', 'samueljohn']"
+,,,,,,,,,,,,,
+paulgb/sklearn-pandas#18,2374,2015-01-28 21:44:59,calpaterson,0,pr,paulgb,2015-03-01T16:04:00Z,7785945,merge,[],11,3,"['calpaterson', 'dukebody', 'paulgb']"
+lisitsyn/tapkee_benchmarks#1,2173,2013-07-22 07:38:24,har777,0,pr,,,,,[],1,1,['har777']
+paulgb/sklearn-pandas#9,1973,2014-01-23 20:14:57,ghost,0,issue,paulgb,2014-01-27T23:09:24Z,958c795,close,[],2,1,['paulgb']
+statsmodels/statsmodels#1915,1709,2014-08-20 02:17:53,kianho,0,issue,,,,,[],2,2,"['kianho', 'josef-pkt']"
+dirko/pyhacrf#22,1709,2015-09-14 14:24:08,fgregg,12,issue,dirko,2015-09-19T14:48:35Z,#23,close,['#23'],25,3,"['Shotgunosine', 'fgregg', 'dirko']"
+EducationalTestingService/skll#64,1565,2013-09-30 13:39:15,dan-blanchard,0,issue,dan-blanchard,2013-11-01T14:30:03Z,,close,[],6,1,['dan-blanchard']
+joblib/joblib#75,1565,,,,pr,,,,,[],3,2,"['dohmatob', 'ogrisel']"
+joblib/joblib#105,1565,,,,issue,GaelVaroquaux,2014-01-10T11:04:16Z,#106,close,['#106'],13,3,"['bthirion', 'ogrisel', 'GaelVaroquaux']"
+joblib/joblib#51,1414,2012-12-03 21:54:43,abhirk,0,issue,ogrisel,2013-10-03T09:07:30Z,,close,['#83'],3,2,"['abhirk', 'ogrisel']"
+joblib/joblib#66,1414,2013-10-03 12:59:15,ogrisel,3,issue,,,,,['#83'],5,3,"['mblondel', 'ogrisel', 'GaelVaroquaux']"
+numpy/numpy#2694,1406,,,,pr,,,,,['#2735'],19,5,"['seberg', 'njsmith', 'rgommers', 'stefanv', 'pv']"
+numpy/numpy#2770,1406,,,,issue,GaelVaroquaux,2012-11-26T16:27:38Z,,close,[],4,3,"['GaelVaroquaux', 'njsmith', 'seberg']"
+joblib/joblib#44,1142,2012-09-12 17:04:30,ogrisel,59,pr,,,,,"['#81', '#40']",127,7,"['ogrisel', 'travisbot', 'GaelVaroquaux', 'glouppe', 'bdholt1', 'mluessi', 'jni']"
+RaRe-Technologies/gensim#92,998,2012-08-09 20:31:54,buma,0,issue,buma,2012-08-24T20:01:19Z,,close,[],13,2,"['buma', 'piskvorky']"
+joblib/joblib#44,998,,,,pr,,,,,"['#81', '#40']",127,7,"['ogrisel', 'travisbot', 'GaelVaroquaux', 'glouppe', 'bdholt1', 'mluessi', 'jni']"
+joblib/joblib#232,636,,,,pr,,,,,[],2,2,"['ogrisel', 'lesteve']"
+xianyi/OpenBLAS#294,636,,,,issue,xianyi,2014-02-19T22:58:28Z,138a841,close,"['#343', '#345', '#455', '#484']",89,9,"['ogrisel', 'xianyi', 'larsmans', 'mattcbro', 'juliantaylor', 'wernsaar', 'FreddieWitherden', 'njsmith', 'cartazio']"
+numpy/numpy#4007,636,,,,issue,juliantaylor,2014-10-26T16:20:24Z,,close,"['#5205', '#5223', '#5237', '#5752', '#5831']",156,17,"['piskvorky', 'juliantaylor', 'fbkarsdorp', 'pv', 'charris', 'w4nderlust', 'andytwigg', 'seberg', 'omar-florez', 'ogrisel', 'smeylan', 'matthew-brett', 'rgommers', 'sturlamolden', 'rgbkrk', 'stackflow2', 'mcg1969']"

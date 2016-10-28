@@ -1,0 +1,551 @@
+number,within_refs,cross_refs,commit_refs
+6902,['/scikit-learn/scikit-learn/issues/6918'],[],[]
+6795,['/scikit-learn/scikit-learn/issues/6817'],[],[]
+6793,['/scikit-learn/scikit-learn/issues/6814'],[],"['/scikit-learn/scikit-learn/commit/3bdfd347892aa64df8c2f72e866192e7df4a822c', '/scikit-learn/scikit-learn/commit/35131c95cb6728a49c0875c7021f966e8cb380fa', '/scikit-learn/scikit-learn/commit/485445401622f2cae0921c6678bbfb47c0deca27']"
+6764,[],[],"['/scikit-learn/scikit-learn/pull/6764/commits/50cfc2654b1f25f345a05cadf5bf1287adfb00e6', '/scikit-learn/scikit-learn/pull/6764/commits/fae37b368868c90f23b176b1b823dc582d3cdb3a', '/scikit-learn/scikit-learn/pull/6764/commits/382bc8813783cd6da7878cf6d3adb518bb86a595', '/scikit-learn/scikit-learn/pull/6764/commits/0217a5c6fdfd4811d5417538aa94ec29810b5cd2', '/scikit-learn/scikit-learn/pull/6764/commits/523e1d309c08c61250e4a1cebffee9639c91f703']"
+6728,['/scikit-learn/scikit-learn/issues/6764'],[],['/geekoala/scikit-learn/commit/50cfc2654b1f25f345a05cadf5bf1287adfb00e6']
+6724,[],[],['/scikit-learn/scikit-learn/pull/6724/commits/a89f7549ef3330f135b730397f23204bc13a2f50']
+6718,['/scikit-learn/scikit-learn/issues/6724'],[],[]
+6499,[],[],[]
+6443,[],[],[]
+6343,[],[],"['/scikit-learn/scikit-learn/pull/6343/commits/80bb29b6292541273ac8245bd33ad2f04d9cdce3', '/scikit-learn/scikit-learn/pull/6343/commits/56d9c758247feb1204840f5a3a5cf23d3636bbbb']"
+6335,['/scikit-learn/scikit-learn/issues/6337'],[],['/maniteja123/scikit-learn/commit/490a53fcb0db7f8715e0e10a90460cf9d8938264']
+6320,"['/scikit-learn/scikit-learn/issues/6327', '/scikit-learn/scikit-learn/issues/6353']",[],[]
+6280,['/scikit-learn/scikit-learn/issues/6333'],[],[]
+6279,"['/scikit-learn/scikit-learn/issues/6077', '/scikit-learn/scikit-learn/issues/6508', '/scikit-learn/scikit-learn/issues/6661', '/scikit-learn/scikit-learn/issues/6759']",[],"['/lesteve/scikit-learn/commit/c39af256b59aa4fbf367e91138512bc01fe6f3ac', '/lesteve/scikit-learn/commit/846f87cee4c1850ea5e4add868fdfd0924f7b272', '/lesteve/scikit-learn/commit/2d198950dc9452a78b116834ac88dae45b4e4bf4', '/mannby/scikit-learn/commit/06e92b05b4882f8d7c27d828b0cfdb2c4941f592']"
+6272,['/scikit-learn/scikit-learn/issues/6269'],[],['/scikit-learn/scikit-learn/pull/6272/commits/79dea7bfbbb397e84828c4aae306a8d6506f5b4a']
+6268,['/scikit-learn/scikit-learn/issues/5639'],[],['/scikit-learn/scikit-learn/pull/6268/commits/19024a82e67d4c5b6899d023dfa54ec3d4592b02']
+6226,['/scikit-learn/scikit-learn/issues/6229'],[],[]
+6202,"['/scikit-learn/scikit-learn/issues/6200', '/scikit-learn/scikit-learn/issues/6221', '/scikit-learn/scikit-learn/issues/6239']",[],"['/kaichogami/scikit-learn/commit/3ea884018982f071aaa5b3f1059f34be24828ef3', '/kaichogami/scikit-learn/commit/0bd565bac988327deac1eec62aeada634044044e']"
+6196,['/scikit-learn/scikit-learn/issues/6235'],[],"['/lesteve/scikit-learn/commit/7371c33d5432a1da942bbe0e08a18579a549610f', '/scikit-learn/scikit-learn/commit/3933ff4b519f7562ac8c84ca4b5b8d7db766a4b4', '/glemaitre/scikit-learn/commit/160df326a63cae31fee19923ec6c21d79826fb7a', '/yarikoptic/scikit-learn/commit/55dfe49735e651c7cfb6955c47e54b9b76c5c408', '/yarikoptic/scikit-learn/commit/1452704c18a48b43fb980c74f5458cadf414eae9', '/yarikoptic/scikit-learn/commit/82c41fb015e422500f6e2c504c8f5bb549e546f9', '/mannby/scikit-learn/commit/4f4c1a434e4cb987e170ca91f823015910808093']"
+6195,"['/scikit-learn/scikit-learn/issues/6179', '/scikit-learn/scikit-learn/issues/6201', '/scikit-learn/scikit-learn/issues/6482']",[],"['/GaelVaroquaux/scikit-learn/commit/6a7eae5a97b6eba270abaaf17bc82ad56db4290e', '/glemaitre/scikit-learn/commit/3226f80ba0dfe779dc699a95b1cf1fab86bc0931', '/mannby/scikit-learn/commit/61e28f9de5ca808b63e2bd831c4bfa63344d0c4d']"
+6193,['/scikit-learn/scikit-learn/issues/6218'],[],[]
+6147,"['/scikit-learn/scikit-learn/issues/6179', '/scikit-learn/scikit-learn/issues/6225', '/scikit-learn/scikit-learn/issues/6627', '/scikit-learn/scikit-learn/issues/6783']",[],"['/nfcampos/scikit-learn/commit/36bb04544cf26bbe03b571d1d661c17430808f4b', '/ogrisel/scikit-learn/commit/6556a65e3a36e49725efbe383fe043cb8ab17d6d', '/ogrisel/scikit-learn/commit/a7f7edcd9b18af8586fafac2f1159bd23c057bab', '/ogrisel/scikit-learn/commit/d81dc43ab205b0cbe8bbe39f1ec7806ae8e9bc86', '/ogrisel/scikit-learn/commit/10fe8e5a8b883abe8d38c3e25a16884587a55546', '/ogrisel/scikit-learn/commit/a13460c83396dcaa48efede03a9259baa566fddc', '/ogrisel/scikit-learn/commit/3030ad6e4c01df5dd6636af161402a8c6e0bd392', '/ogrisel/scikit-learn/commit/3427d2015ecf0db04b58466b78a8fd6a6724576e', '/scikit-learn/scikit-learn/commit/613f1ad5617e4e6744a9902ba5b05c3b75972f77', '/scikit-learn/scikit-learn/commit/3bfbdb09d11970fb5ece3e7c0e0492d7bbf0140f', '/glemaitre/scikit-learn/commit/550eff3b3696cc1d46f9a017c6acad0df136eeb2', '/glemaitre/scikit-learn/commit/1e12f7e12f5a24c07280ff876dff8a7a6e2786eb', '/yarikoptic/scikit-learn/commit/55dfe49735e651c7cfb6955c47e54b9b76c5c408', '/yarikoptic/scikit-learn/commit/1452704c18a48b43fb980c74f5458cadf414eae9', '/yarikoptic/scikit-learn/commit/82c41fb015e422500f6e2c504c8f5bb549e546f9', '/mannby/scikit-learn/commit/4349439d13769674354b4f25db41b23a8d1a1e5d', '/mannby/scikit-learn/commit/ccae0fa4af13c78ccaaeb094bb6dc5df0a0fe513']"
+6078,"['/scikit-learn/scikit-learn/issues/6081', '/scikit-learn/scikit-learn/issues/6088']",[],[]
+5808,['/scikit-learn/scikit-learn/issues/5858'],[],[]
+5738,['/scikit-learn/scikit-learn/issues/5773'],[],[]
+5725,['/scikit-learn/scikit-learn/issues/5852'],[],"['/scikit-learn/scikit-learn/commit/486d99197fb2a37621e4f76a0673b812e8511190', '/nickyj88/scikit-learn/commit/998848a22eed3b80133cf7907c73da70e83512ea', '/scikit-learn/scikit-learn/commit/887a069b11971afc11c268ddc3a977b2ab05da5a']"
+5677,[],[],[]
+5671,['/scikit-learn/scikit-learn/issues/5682'],[],[]
+5627,[],[],[]
+5625,['/scikit-learn/scikit-learn/issues/5626'],[],[]
+5623,"['/scikit-learn/scikit-learn/issues/5624', '/scikit-learn/scikit-learn/issues/5635']",[],[]
+5608,['/scikit-learn/scikit-learn/issues/6135'],[],"['/dsquareindia/scikit-learn/commit/8392844d9c4a723777cc5e75fb96848c1c685962', '/dsquareindia/scikit-learn/commit/3b9555724f7df06fbb5615fb975f5d945fa50f75']"
+5604,['/scikit-learn/scikit-learn/issues/5164'],[],[]
+5598,"['/scikit-learn/scikit-learn/issues/5636', '/scikit-learn/scikit-learn/issues/5492']",[],[]
+5536,[],[],[]
+5502,"['/scikit-learn/scikit-learn/issues/5449', '/scikit-learn/scikit-learn/issues/5688']",[],[]
+5495,['/scikit-learn/scikit-learn/issues/5508'],[],[]
+5474,"['/scikit-learn/scikit-learn/issues/5472', '/scikit-learn/scikit-learn/issues/5479', '/scikit-learn/scikit-learn/issues/5480', '/scikit-learn/scikit-learn/issues/5500', '/scikit-learn/scikit-learn/issues/5567']",[],[]
+5450,['/scikit-learn/scikit-learn/issues/5008'],[],[]
+5449,['/scikit-learn/scikit-learn/issues/5502'],[],"['/scikit-learn/scikit-learn/pull/5449/commits/e7a3675eaf83dc6a559b0c13dde4375adfa2daca', '/scikit-learn/scikit-learn/pull/5449/commits/3f86d68f713a75ff38e96ad05d82f95ef40fc9b0', '/scikit-learn/scikit-learn/pull/5449/commits/658129ac5bdd1b11afedd2f7ac0bca824161baf2', '/scikit-learn/scikit-learn/pull/5449/commits/23e39871a8f1a0f57c72ab52c96df06e1abf545e', '/scikit-learn/scikit-learn/pull/5449/commits/2571158168be5f7257935d57cd487a78a58db16f', '/scikit-learn/scikit-learn/pull/5449/commits/9da9b581a4d59a141afd251fed5751693842726e', '/scikit-learn/scikit-learn/pull/5449/commits/f24d94aec4715f4fdfa212a4a0467d94aff05914']"
+5433,"['/scikit-learn/scikit-learn/issues/5449', '/scikit-learn/scikit-learn/issues/5502']",[],"['/Jeffrey04/scikit-learn/commit/e7a3675eaf83dc6a559b0c13dde4375adfa2daca', '/Jeffrey04/scikit-learn/commit/3f86d68f713a75ff38e96ad05d82f95ef40fc9b0', '/glouppe/scikit-learn/commit/107c814b95c2403328ef166cd702093c3467a07c', '/glouppe/scikit-learn/commit/7b84f089368d04f8c1b15b262c83ccc1d969ca56']"
+5422,['/scikit-learn/scikit-learn/issues/5420'],[],[]
+5415,"['/scikit-learn/scikit-learn/issues/5420', '/scikit-learn/scikit-learn/issues/5008']",[],[]
+5412,[],['/joblib/joblib/issues/258'],[]
+5408,['/scikit-learn/scikit-learn/issues/5416'],[],[]
+5407,[],[],[]
+5406,['/scikit-learn/scikit-learn/issues/5409'],[],[]
+5405,['/scikit-learn/scikit-learn/issues/5423'],[],[]
+5404,['/scikit-learn/scikit-learn/issues/5411'],[],[]
+5397,"['/scikit-learn/scikit-learn/issues/5398', '/scikit-learn/scikit-learn/issues/5338']","['/PyAbel/PyAbel/issues/51', '/nilearn/nilearn/issues/896']",[]
+5389,[],[],[]
+5371,['/scikit-learn/scikit-learn/issues/2393'],[],['/scikit-learn/scikit-learn/pull/5371/commits/f60ba72d7b400b10e333608849688c5e290693fd']
+5358,"['/scikit-learn/scikit-learn/issues/2821', '/scikit-learn/scikit-learn/issues/6759']",[],"['/scikit-learn/scikit-learn/pull/5358/commits/adf55875ed18b4f067642c808b43de6abc18d8c8', '/scikit-learn/scikit-learn/pull/5358/commits/9a1f30841e557f6b7da619b90d04cb2586da4a59', '/scikit-learn/scikit-learn/pull/5358/commits/d7bf93fd8957a92f381a3c1e9f71e0f768b05975']"
+5351,['/scikit-learn/scikit-learn/issues/5362'],[],[]
+5340,['/scikit-learn/scikit-learn/issues/5426'],[],"['/absolutelyNoWarranty/scikit-learn/commit/85e273c961d5850a32578ea0c0be7e65d19cef57', '/absolutelyNoWarranty/scikit-learn/commit/62adf04979a4869e70d56540f6e412c21e652832', '/absolutelyNoWarranty/scikit-learn/commit/0baa80017d4266cdf0d8f9fe3daa95ecf3834f67']"
+5324,['/scikit-learn/scikit-learn/issues/5402'],[],[]
+5267,['/scikit-learn/scikit-learn/issues/5401'],[],[]
+5246,['/scikit-learn/scikit-learn/issues/5282'],[],"['/andylamb/scikit-learn/commit/6d389137a5038c7332218f9ee2e727224fdc9518', '/scikit-learn/scikit-learn/commit/176427e28450a7d57e9b31bfb432d083e2db5ee1']"
+5235,"['/scikit-learn/scikit-learn/issues/4914', '/scikit-learn/scikit-learn/issues/5356']",[],[]
+5177,"['/scikit-learn/scikit-learn/issues/5193', '/scikit-learn/scikit-learn/issues/5197', '/scikit-learn/scikit-learn/issues/5208', '/scikit-learn/scikit-learn/issues/5534', '/scikit-learn/scikit-learn/issues/5692']",[],"['/scikit-learn/scikit-learn/commit/6eef89043e3bac8b8a141d44f788416a9df1cf46', '/scikit-learn/scikit-learn/commit/5af3e03ce6fd6aae095ac56892cea10e0ef7b756']"
+5164,"['/scikit-learn/scikit-learn/issues/5534', '/scikit-learn/scikit-learn/issues/5644', '/scikit-learn/scikit-learn/issues/5661']",[],[]
+5136,[],[],[]
+5135,[],[],[]
+5134,"['/scikit-learn/scikit-learn/issues/5149', '/scikit-learn/scikit-learn/issues/5182']",[],[]
+5132,['/scikit-learn/scikit-learn/issues/5161'],[],[]
+5118,['/scikit-learn/scikit-learn/issues/5253'],[],[]
+5107,['/scikit-learn/scikit-learn/issues/5112'],[],['/scikit-learn/scikit-learn/commit/4ac6a90a82e4a8d7b5338c18ae8a16559c98ba10']
+5095,['/scikit-learn/scikit-learn/issues/5093'],[],[]
+5073,"['/scikit-learn/scikit-learn/issues/5091', '/scikit-learn/scikit-learn/issues/4996', '/scikit-learn/scikit-learn/issues/4223']",[],[]
+5045,"['/scikit-learn/scikit-learn/issues/5047', '/scikit-learn/scikit-learn/issues/5049', '/scikit-learn/scikit-learn/issues/5010', '/scikit-learn/scikit-learn/issues/4939', '/scikit-learn/scikit-learn/issues/5052', '/scikit-learn/scikit-learn/issues/5062', '/scikit-learn/scikit-learn/issues/5066', '/scikit-learn/scikit-learn/issues/5064', '/scikit-learn/scikit-learn/issues/5166']",['/NixOS/nixpkgs/issues/9146'],"['/FRidh/nixpkgs/commit/c3b7549d12ef423bf52617313edf47630581e406', '/FRidh/nixpkgs/commit/2cb566cfc47ae707ccad12ee1908753dcdfeb821', '/FRidh/nixpkgs/commit/2651d6ea138c976b2bc9a560818933548b917745', '/FRidh/nixpkgs/commit/9ada7aa2a8ccc8cd6b3d247a5038d311264852e0', '/FRidh/nixpkgs/commit/e457187cf6166d22e41fd6d1d1a2ecf857ec2c83', '/kamilchm/nixpkgs/commit/17e6e5f63f6ff086a5415a4af87ad2aa1aff2a27', '/aborsu/nixpkgs/commit/263dbde13a3cc05cdf95d5155f34fb4acef21ccc']"
+5043,['/scikit-learn/scikit-learn/issues/5050'],[],"['/scikit-learn/scikit-learn/commit/7bdeae84e31f3e857f9782748b88ecc7054fcc65', '/scikit-learn/scikit-learn/commit/c96e2013e9e4dd47fb6f9fb7c3b26e3493a7f431', '/scikit-learn/scikit-learn/commit/3971b0af14b4697281396f5737257b4887bbce3b', '/scikit-learn/scikit-learn/commit/2714c328400441e272b7b75c4fa30354dd487ecd', '/scikit-learn/scikit-learn/commit/a7081d797f42aab3b9f76145431b56c679702df1']"
+5040,[],[],[]
+5033,['/scikit-learn/scikit-learn/issues/5063'],[],[]
+5029,['/scikit-learn/scikit-learn/issues/5065'],[],"['/joewreschnig/scikit-learn/commit/abe00e303d1211bc5efcf2ce472601525b4928bb', '/joewreschnig/scikit-learn/commit/051a829e4e06b72f46f980dba6ff9da73089a3f5', '/andylamb/scikit-learn/commit/4de989082d9fc544d3e969f52439af0fc51cafc2', '/joewreschnig/scikit-learn/commit/d5d41c3f7c83a1b81ca31e4430cc946c867465d0']"
+5013,"['/scikit-learn/scikit-learn/issues/5012', '/scikit-learn/scikit-learn/issues/5337']",[],[]
+5012,"['/scikit-learn/scikit-learn/issues/5299', '/scikit-learn/scikit-learn/issues/5545', '/scikit-learn/scikit-learn/issues/6179']",[],"['/scikit-learn/scikit-learn/pull/5012/commits/6cb51b2a28281d1ebf2ac742605f1aeb569c2ac7', '/scikit-learn/scikit-learn/pull/5012/commits/9f8e062571addccd6eeef8277a28d36ce1649cb2', '/scikit-learn/scikit-learn/pull/5012/commits/8ff339eb5ba4a1353cd228f577e59da6865c066a']"
+5008,"['/scikit-learn/scikit-learn/issues/5415', '/scikit-learn/scikit-learn/issues/5420', '/scikit-learn/scikit-learn/issues/5461', '/scikit-learn/scikit-learn/issues/5598', '/scikit-learn/scikit-learn/issues/5626', '/scikit-learn/scikit-learn/issues/6817']",[],"['/scikit-learn/scikit-learn/pull/5008/commits/d439dc4d9e8267dbcf640cbe4be94e818586deed', '/scikit-learn/scikit-learn/commit/efe8399d86a3b6b15beb31f156d59660510f772b']"
+4996,['/scikit-learn/scikit-learn/issues/5091'],[],[]
+4995,['/scikit-learn/scikit-learn/issues/6179'],[],"['/scikit-learn/scikit-learn/pull/4995/commits/acb67bd773aa6a2416bbfb8b26e10fe3ac6a0996', '/scikit-learn/scikit-learn/pull/4995/commits/043dc9fae30c9e93375f01da65f42a1f5261cb8a', '/scikit-learn/scikit-learn/pull/4995/commits/a989fb6113c8f41fd9db80ee0e8de948228851b8', '/scikit-learn/scikit-learn/pull/4995/commits/9fd8149db775e742bd2c2b00ac246d4715828c7a', '/scikit-learn/scikit-learn/pull/4995/commits/617d28d014b23b0ea40e14838829a8323c5ec530', '/scikit-learn/scikit-learn/pull/4995/commits/c4dae2e7705d6793aa5f067fe4b3ba8a021da73c', '/scikit-learn/scikit-learn/pull/4995/commits/a29676e8687353d07f2caf8da75e80abec67092c', '/scikit-learn/scikit-learn/pull/4995/commits/054384203d1a4fb7aac070a9ce5f64503789bbdb', '/scikit-learn/scikit-learn/pull/4995/commits/6769d81b42aefb5cc56cc5b77bdc0ba3ddafeafa', '/scikit-learn/scikit-learn/pull/4995/commits/7f6b79b7bdb56a6ba5871a375f7b5642eab3d853', '/scikit-learn/scikit-learn/pull/4995/commits/b97e5b495aee4f72977460bca78c84f77003f063', '/scikit-learn/scikit-learn/pull/4995/commits/8cff95f171adb4ecb627d3f7b3cbd626efc5d444', '/scikit-learn/scikit-learn/pull/4995/commits/60cff80db2e99ff3d75aa8137123428337b2ff52', '/scikit-learn/scikit-learn/pull/4995/commits/56796e42d03e5cf22689d897d2b5cae707ae91bf']"
+4985,[],[],['/scikit-learn/scikit-learn/commit/cec3bf98f292bfe486c68ee6ffccab9dc4288c1a']
+4976,"['/scikit-learn/scikit-learn/issues/5084', '/scikit-learn/scikit-learn/issues/5445']",[],[]
+4949,"['/scikit-learn/scikit-learn/issues/4981', '/scikit-learn/scikit-learn/issues/5082']",[],['/betatim/scikit-learn/commit/d428db8fb9e7cb6be9d2ac3b1250fd28f2313c82']
+4944,['/scikit-learn/scikit-learn/issues/4967'],[],"['/stephen-hoover/scikit-learn/commit/55407f8ec962baa1640ee137c27b0e86038a5fa5', '/stephen-hoover/scikit-learn/commit/0156dcf114d98d81a2f7acf1363a2f445d4b62d4']"
+4942,"['/scikit-learn/scikit-learn/issues/4967', '/scikit-learn/scikit-learn/issues/5063', '/scikit-learn/scikit-learn/issues/5093']",[],[]
+4940,['/scikit-learn/scikit-learn/issues/4953'],[],[]
+4930,"['/scikit-learn/scikit-learn/issues/4852', '/scikit-learn/scikit-learn/issues/5061']",[],[]
+4921,['/scikit-learn/scikit-learn/issues/5262'],[],"['/andylamb/scikit-learn/commit/581056774a1d3fbd4329bfc1bc0ecb4e2c775a1b', '/andylamb/scikit-learn/commit/033ef85ceb9565c98d1c7996664d0d45b827d912', '/jmschrei/scikit-learn/commit/4d3cdea71b767797cb790c6051210863012fd019']"
+4907,"['/scikit-learn/scikit-learn/issues/4956', '/scikit-learn/scikit-learn/issues/4938', '/scikit-learn/scikit-learn/issues/5533', '/scikit-learn/scikit-learn/issues/6246']",[],[]
+4895,['/scikit-learn/scikit-learn/issues/4955'],[],[]
+4893,"['/scikit-learn/scikit-learn/issues/4888', '/scikit-learn/scikit-learn/issues/2821']",[],"['/scikit-learn/scikit-learn/pull/4893/commits/44b3ec84a7e0132175b4ade89ddbab51d498ce76', '/scikit-learn/scikit-learn/pull/4893/commits/74ae2f0702ebcfb9a08e496d2ab614dc4ec623fa']"
+4888,['/scikit-learn/scikit-learn/issues/4893'],[],[]
+4880,['/scikit-learn/scikit-learn/issues/4891'],[],[]
+4879,"['/scikit-learn/scikit-learn/issues/4539', '/scikit-learn/scikit-learn/issues/4894']",[],[]
+4846,"['/scikit-learn/scikit-learn/issues/4838', '/scikit-learn/scikit-learn/issues/4851']",[],"['/trevorstephens/scikit-learn/commit/a9f4a325de73d5d8491cdd663d172c9775f3970a', '/trevorstephens/scikit-learn/commit/3193993503c8c3fb9d01e30dabfd4d2dc20fa0ff']"
+4845,['/scikit-learn/scikit-learn/issues/4802'],[],['/scikit-learn/scikit-learn/pull/4845/commits/86f13105ee1edd569fff132fac60fb4633395cd8']
+4809,[],[],[]
+4793,[],[],[]
+4786,[],[],['/scikit-learn/scikit-learn/pull/4786/commits/f369d3ab0f39a5c10d93372df6e7f932a62cc011']
+4784,[],[],[]
+4756,['/scikit-learn/scikit-learn/issues/4761'],[],[]
+4755,['/scikit-learn/scikit-learn/issues/4763'],[],[]
+4751,['/scikit-learn/scikit-learn/issues/4746'],[],['/scikit-learn/scikit-learn/pull/4751/commits/990a6b402f30e99371e2c641d670547ffc951518']
+4746,['/scikit-learn/scikit-learn/issues/4751'],[],[]
+4744,"['/scikit-learn/scikit-learn/issues/4745', '/scikit-learn/scikit-learn/issues/4954']",[],"['/ankurankan/scikit-learn/commit/03780309c7c4c252e5991ef9215fdb3bd558df4b', '/ankurankan/scikit-learn/commit/7c7e216365f97f7a70638282e0f7629ed74415f7', '/ankurankan/scikit-learn/commit/c63d44902cfebcd1b628a5742a6c74670c8a0c40', '/ankurankan/scikit-learn/commit/4dc0c07996e17b2a43b4033e5463488c0ccdc0ba', '/ankurankan/scikit-learn/commit/b6e66d2e98d79a97f5b69d96c6d92e15b792ddf3', '/ankurankan/scikit-learn/commit/5292008b1b7916450bd11bcd949ab2a8eaeb36a7', '/ankurankan/scikit-learn/commit/42434121734c57ec6df109afa1cbca6623ad3e4b']"
+4737,[],"['/sphinx-doc/sphinx/issues/1892', '/nilearn/nilearn/issues/712']",[]
+4731,['/scikit-learn/scikit-learn/issues/4733'],[],[]
+4721,[],[],[]
+4719,['/scikit-learn/scikit-learn/issues/4702'],[],[]
+4717,[],[],[]
+4705,['/scikit-learn/scikit-learn/issues/4700'],[],['/scikit-learn/scikit-learn/pull/4705/commits/c5b395fb3e6b411d45bf1ad1b868ead7c3289af0']
+4701,['/scikit-learn/scikit-learn/issues/4197'],[],[]
+4700,['/scikit-learn/scikit-learn/issues/4705'],[],[]
+4684,['/scikit-learn/scikit-learn/issues/4775'],[],['/scikit-learn/scikit-learn/pull/4684/commits/dd9641f707886ce59ec44e10b8c5a1f1416e76b0']
+4666,['/scikit-learn/scikit-learn/issues/3306'],[],[]
+4654,[],[],['/scikit-learn/scikit-learn/pull/4654/commits/36c7ddb7f8a49f37235a4212bd30abc919b49c16']
+4646,"['/scikit-learn/scikit-learn/issues/4942', '/scikit-learn/scikit-learn/issues/4933']",[],[]
+4641,['/scikit-learn/scikit-learn/issues/4650'],[],[]
+4634,"['/scikit-learn/scikit-learn/issues/4638', '/scikit-learn/scikit-learn/issues/4714']",[],[]
+4625,['/scikit-learn/scikit-learn/issues/4654'],[],[]
+4620,[],[],[]
+4615,[],[],[]
+4597,"['/scikit-learn/scikit-learn/issues/4678', '/scikit-learn/scikit-learn/issues/4684', '/scikit-learn/scikit-learn/issues/4773']",[],['/ogrisel/scikit-learn/commit/dd9641f707886ce59ec44e10b8c5a1f1416e76b0']
+4591,['/scikit-learn/scikit-learn/issues/4923'],[],[]
+4564,[],[],[]
+4562,[],[],"['/scikit-learn/scikit-learn/pull/4562/commits/8d4b9d68a37db4c4a35646c7300f933ea9e8108a', '/scikit-learn/scikit-learn/pull/4562/commits/8c31b793c5a8858c1daebe0f237c810a86e724aa', '/scikit-learn/scikit-learn/pull/4562/commits/249a96bc968d0e7f9e719fd7ed53656f53fa1fa4', '/scikit-learn/scikit-learn/pull/4562/commits/e72e38bd3f870a216204bf4465d4f9786d601d39', '/scikit-learn/scikit-learn/pull/4562/commits/10a056f71b6f7bc4b0e0ae1fb60fba50e3b7fe93', '/scikit-learn/scikit-learn/pull/4562/commits/141a74bba6bb7284ec14f1b09bfceb577d633616', '/scikit-learn/scikit-learn/pull/4562/commits/f28b41fb76064da2b5b96fa9a6288cc007e97a63', '/scikit-learn/scikit-learn/pull/4562/commits/eff590ab6334100830fb40182849950d12f2e82a']"
+4559,['/scikit-learn/scikit-learn/issues/4590'],[],"['/jfraj/scikit-learn/commit/a56bfa827fbbdd668bb919a2c3b5f7a4c4ec823c', '/jfraj/scikit-learn/commit/08cfbfbf04d3eaa0d8584ce16194661625ec85fd', '/jfraj/scikit-learn/commit/0b95366864e110a187bba9ac0ca114716a4a9726', '/jfraj/scikit-learn/commit/c9510ed19111be417dfdea10a2ac602f77bde012']"
+4556,"['/scikit-learn/scikit-learn/issues/4588', '/scikit-learn/scikit-learn/issues/4671']",[],[]
+4540,"['/scikit-learn/scikit-learn/issues/4497', '/scikit-learn/scikit-learn/issues/4541']",[],[]
+4538,[],[],[]
+4536,"['/scikit-learn/scikit-learn/issues/4535', '/scikit-learn/scikit-learn/issues/4537']",[],[]
+4528,"['/scikit-learn/scikit-learn/issues/4529', '/scikit-learn/scikit-learn/issues/4534', '/scikit-learn/scikit-learn/issues/4161']",[],['/scikit-learn/scikit-learn/pull/4528/commits/79ea587e05d06d610fcdbf2a26ae13cdb9496d18']
+4524,['/scikit-learn/scikit-learn/issues/4526'],[],"['/jcm1317/scikit-learn/commit/1d015d53d8c3f6aa0ff13417531ecd156d205555', '/jcm1317/scikit-learn/commit/155596d32ddb313cc23e782d854a133d4bea2174']"
+4523,"['/scikit-learn/scikit-learn/issues/4522', '/scikit-learn/scikit-learn/issues/5460', '/scikit-learn/scikit-learn/issues/6932']",[],[]
+4512,"['/scikit-learn/scikit-learn/issues/4517', '/scikit-learn/scikit-learn/issues/4252', '/scikit-learn/scikit-learn/issues/5234']",[],[]
+4509,"['/scikit-learn/scikit-learn/issues/4512', '/scikit-learn/scikit-learn/issues/4511']",[],[]
+4507,['/scikit-learn/scikit-learn/issues/4535'],[],"['/scikit-learn/scikit-learn/pull/4507/commits/a6cf751891068c67f78d8c646f8e9bb571964455', '/scikit-learn/scikit-learn/pull/4507/commits/61d189a2bdf961571c6b2f95298513d85bbb2351', '/scikit-learn/scikit-learn/pull/4507/commits/45182f965b67dfefa6be5ea6a1ef689199c8083a', '/scikit-learn/scikit-learn/pull/4507/commits/e77d36e771cf858debc909c9e99e897096ca862b']"
+4479,[],[],[]
+4461,"['/scikit-learn/scikit-learn/issues/4465', '/scikit-learn/scikit-learn/issues/4467', '/scikit-learn/scikit-learn/issues/4502']",[],"['/giantoak/scikit-learn/commit/4e3e8a01d106b91382acc8ddce82f8b94f75d383', '/giantoak/scikit-learn/commit/d16093923376f586d443e8df398a8b2fe7fba487', '/giantoak/scikit-learn/commit/edf60c0ee2e6926dfd233295bfe31ded0a650d0d']"
+4460,['/scikit-learn/scikit-learn/issues/4505'],[],[]
+4455,['/scikit-learn/scikit-learn/issues/4478'],[],"['/amueller/scikit-learn/commit/f7fdfd805714cdcc3f0cb522ba8e844ca63e8d27', '/amueller/scikit-learn/commit/d59f3c705616b3742a86c948b9356d366cb2e12b', '/amueller/scikit-learn/commit/1db8f14760c23003feb08ed527dbac8bcc1447eb', '/amueller/scikit-learn/commit/838570cc8a1a20f1b90d48f3ca71fa5b0fd0ce59']"
+4448,[],[],"['/scikit-learn/scikit-learn/pull/4448/commits/6f335af7ee3107b5007ee232c6f05342bebe09c6', '/scikit-learn/scikit-learn/pull/4448/commits/5018a44ccf7c2889698c3f19136b4920ffce21d7', '/scikit-learn/scikit-learn/pull/4448/commits/5ba271bd39ee5cf7f55f7e062ed30910dca8297f', '/scikit-learn/scikit-learn/pull/4448/commits/d0db91a144269b9c24ef74464eead5d2034d157a']"
+4447,['/scikit-learn/scikit-learn/issues/4448'],[],[]
+4446,[],[],[]
+4442,[],[],[]
+4436,"['/scikit-learn/scikit-learn/issues/3747', '/scikit-learn/scikit-learn/issues/3722']",[],"['/scikit-learn/scikit-learn/pull/4436/commits/04078be7da9cbb658ef9c93941f43c9e475ed86d', '/scikit-learn/scikit-learn/pull/4436/commits/cbe8053acfb8a7725110361c7492f54e9adbaa6a', '/scikit-learn/scikit-learn/pull/4436/commits/b596dfcfef0b3330b682be3f0f097025512e838f']"
+4435,"['/scikit-learn/scikit-learn/issues/4600', '/scikit-learn/scikit-learn/issues/5088']",[],['/scikit-learn/scikit-learn/pull/4435/commits/e3c9294dcdc1c55b3064e97032fb8f21ed54941e']
+4430,[],['/joblib/joblib/issues/198'],[]
+4427,"['/scikit-learn/scikit-learn/issues/4421', '/scikit-learn/scikit-learn/issues/4415']",[],['/scikit-learn/scikit-learn/pull/4427/commits/c02cc3dd2381119696959415424b594914ee2f40']
+4422,[],[],['/scikit-learn/scikit-learn/pull/4422/commits/09e6e12f7b0772573016a53694ff67fd5941d678']
+4415,"['/scikit-learn/scikit-learn/issues/4427', '/scikit-learn/scikit-learn/issues/4428']",[],[]
+4404,[],[],[]
+4402,"['/scikit-learn/scikit-learn/issues/4387', '/scikit-learn/scikit-learn/issues/4719']",[],['/scikit-learn/scikit-learn/pull/4402/commits/211f204767e248d4c45923c60768c3729de63249']
+4399,['/scikit-learn/scikit-learn/issues/4422'],[],[]
+4390,[],[],['/scikit-learn/scikit-learn/pull/4390/commits/cf3b120aea43788e62b67dd1582e26220a43e731']
+4387,['/scikit-learn/scikit-learn/issues/4402'],[],[]
+4386,"['/scikit-learn/scikit-learn/issues/4390', '/scikit-learn/scikit-learn/issues/4400', '/scikit-learn/scikit-learn/issues/4462']",[],"['/Barmaley-exe/scikit-learn/commit/cf3b120aea43788e62b67dd1582e26220a43e731', '/scikit-learn/scikit-learn/commit/5b2aba1598ddd3504a9e0b3ca5fa3ded269ae833', '/rasbt/scikit-learn/commit/f48f3d37eaadef0a1edeb6ec2f275058667d52b1', '/yarikoptic/scikit-learn/commit/752808e68a78d19b1549e91c927389440c38f175', '/yarikoptic/scikit-learn/commit/2b053902b74b6f72fea1b1d355060211c2e196bc']"
+4384,[],[],"['/scikit-learn/scikit-learn/commit/7fa9b0edc0f3a92f49d9e269a6d5e967c714ae42', '/scikit-learn/scikit-learn/commit/c09bb355cb17efddb57da796c18bca01396ba209', '/rasbt/scikit-learn/commit/b3a3fc7b403b64dfa2bd3d19da588496815f2b8a']"
+4377,[],[],"['/scikit-learn/scikit-learn/pull/4377/commits/5f44a8e2a385dda42d20ff70afe2022aec37e3d4', '/scikit-learn/scikit-learn/pull/4377/commits/a4f8f083a56c5baea5b8f12f3887cf38c1eb074d']"
+4375,[],[],[]
+4374,"['/scikit-learn/scikit-learn/issues/4377', '/scikit-learn/scikit-learn/issues/4417']",[],[]
+4358,[],[],"['/scikit-learn/scikit-learn/commit/c23d4f31a3fcd7b24e46d46df6f2d274a839b201', '/scikit-learn/scikit-learn/commit/ab4d07d4a168d726b1d78dd711168a7350b9737f', '/rasbt/scikit-learn/commit/f669301de5284abd62afcb532636d1bd9467746c', '/yarikoptic/scikit-learn/commit/93b1acee65e4f5ad4cb70de46d2cda63c02680b1', '/yarikoptic/scikit-learn/commit/a99f290f30b4b50881c1cc99973f9e134e681af6']"
+4327,['/scikit-learn/scikit-learn/issues/5863'],[],"['/trevorstephens/scikit-learn/commit/2738d59ab4b0385c2f11e7a82c399d6cc4c40a97', '/glemaitre/scikit-learn/commit/77bd87b29c86fbb6646ade3cc5c9a22869a00623', '/mannby/scikit-learn/commit/906073d5ad3447d0e2e3a7a995401bf8c14db5db']"
+4324,"['/scikit-learn/scikit-learn/issues/4327', '/scikit-learn/scikit-learn/issues/4347']",[],[]
+4322,"['/scikit-learn/scikit-learn/issues/4235', '/scikit-learn/scikit-learn/issues/2274']",[],['/scikit-learn/scikit-learn/pull/4322/commits/46060feddc8708f7109ff0208ee2c743c522781c']
+4319,[],[],[]
+4311,"['/scikit-learn/scikit-learn/issues/3540', '/scikit-learn/scikit-learn/issues/4318']",[],[]
+4304,"['/scikit-learn/scikit-learn/issues/4313', '/scikit-learn/scikit-learn/issues/4235']",[],[]
+4303,"['/scikit-learn/scikit-learn/issues/4121', '/scikit-learn/scikit-learn/issues/4317']",[],[]
+4302,"['/mjbommar/scikit-learn/issues/1', '/scikit-learn/scikit-learn/issues/4297', '/scikit-learn/scikit-learn/issues/4185', '/scikit-learn/scikit-learn/issues/2274']",[],"['/scikit-learn/scikit-learn/pull/4302/commits/2b1c31ec322e689513af72c5babf3b0ad4e919c4', '/scikit-learn/scikit-learn/pull/4302/commits/ab556be8f561bc4fec9f785340e2e8bfc6723ea1', '/scikit-learn/scikit-learn/pull/4302/commits/c1fa16f5be5f507ce334e8a0c24513e83c272902']"
+4297,"['/scikit-learn/scikit-learn/issues/4185', '/mjbommar/scikit-learn/issues/1', '/scikit-learn/scikit-learn/issues/4302', '/scikit-learn/scikit-learn/issues/2507']",[],"['/mjbommar/scikit-learn/commit/da04cd998d850a2929bd8bd53965865b54892fa0', '/mjbommar/scikit-learn/commit/167b5e00499dce0170cc11b263d7153539d82792', '/amueller/scikit-learn/commit/2415100f79293bbbf52c12c36d63a6cf602cf3c4', '/cemoody/scikit-learn/commit/bc38a0493b506f8e4928efaea54d7263af0d98b3', '/rasbt/scikit-learn/commit/6443fcc315a883e8275d935d8b7bdc8816e1773c', '/yarikoptic/scikit-learn/commit/09b53882a169a36c7de11b1f973563c228e97102', '/yarikoptic/scikit-learn/commit/d8a623e751be38021ee988ab35103b4848d47582', '/yarikoptic/scikit-learn/commit/07226a33db4e7497e6943f2d770377e29f529048']"
+4268,['/scikit-learn/scikit-learn/issues/4285'],[],"['/hannawallach/scikit-learn/commit/993030f7bdf5b6c1dac356b6606590c7a0d5b19e', '/hannawallach/scikit-learn/commit/52f8600978e91c96477044bb0c2f7584727ecc2e', '/hannawallach/scikit-learn/commit/fe0f245aa79f9230c1a8f85f95c591cafb9fd822', '/scikit-learn/scikit-learn/commit/e073432fc6cf93a765f78934fba5639f0174e3a6', '/rasbt/scikit-learn/commit/7dddd55b9a2d553737d6e5b01b60d0af7f3374c1']"
+4262,"['/scikit-learn/scikit-learn/issues/4278', '/scikit-learn/scikit-learn/issues/4326']",[],['/Barmaley-exe/scikit-learn/commit/f40b0a295ce76753cea3a367d472d457ab1c9f08']
+4260,"['/scikit-learn/scikit-learn/issues/4261', '/scikit-learn/scikit-learn/issues/3872', '/scikit-learn/scikit-learn/issues/5434', '/scikit-learn/scikit-learn/issues/5469']",[],[]
+4252,"['/scikit-learn/scikit-learn/issues/4245', '/raghavrv/scikit-learn/issues/3']",[],[]
+4245,['/scikit-learn/scikit-learn/issues/4214'],[],['/scikit-learn/scikit-learn/pull/4245/commits/feceab6f620a6314f5206f97e2e598ff91f82ecb']
+4238,[],[],[]
+4235,"['/scikit-learn/scikit-learn/issues/4322', '/scikit-learn/scikit-learn/issues/4304']",[],[]
+4227,['/scikit-learn/scikit-learn/issues/4234'],[],[]
+4224,['/scikit-learn/scikit-learn/issues/4226'],[],[]
+4212,['/scikit-learn/scikit-learn/issues/4474'],[],[]
+4206,"['/scikit-learn/scikit-learn/issues/4059', '/scikit-learn/scikit-learn/issues/4214']",[],"['/scikit-learn/scikit-learn/pull/4206/commits/bc5b403af361e90ab7d5a6b12ab461fed3475498', '/scikit-learn/scikit-learn/pull/4206/commits/2ce9eac717ff3d5202a84e48d38d984dd425f4eb']"
+4185,"['/scikit-learn/scikit-learn/issues/4184', '/scikit-learn/scikit-learn/issues/1176', '/scikit-learn/scikit-learn/issues/4302', '/scikit-learn/scikit-learn/issues/6206', '/scikit-learn/scikit-learn/issues/6928']",[],"['/scikit-learn/scikit-learn/pull/4185/commits/a70094d9546fd9d9fef7c96eac28d41c06eb4ac9', '/scikit-learn/scikit-learn/pull/4185/commits/8b0c0da1e9e04ccd85cc6ac02202b759c45cb129', '/scikit-learn/scikit-learn/pull/4185/commits/de7d6bf25706a4914e842781b0f865c60c3b1c86', '/scikit-learn/scikit-learn/pull/4185/commits/3dcbae725039cd8877659d393e729d6011fc56f1', '/scikit-learn/scikit-learn/pull/4185/commits/c31e8b3ab5edac0bc18530babe76288d9e58f47a', '/scikit-learn/scikit-learn/pull/4185/commits/814a49e81342aa35b935ed5127bfb84e3b26d47f', '/scikit-learn/scikit-learn/pull/4185/commits/13a4ffb2605bd2fa85b26d65d82b8c3c49fa8684']"
+4184,"['/scikit-learn/scikit-learn/issues/4185', '/scikit-learn/scikit-learn/issues/4302']",[],"['/mjbommar/scikit-learn/commit/a70094d9546fd9d9fef7c96eac28d41c06eb4ac9', '/amueller/scikit-learn/commit/e14fafe9883ecf14f3d388abf019aea6083cab5f', '/amueller/scikit-learn/commit/bf1dfddcaa30b79d03f17966e9eddcdfda73ec10', '/amueller/scikit-learn/commit/144bf436675bd67141aa5b903847f972d62f598c', '/amueller/scikit-learn/commit/2b1c31ec322e689513af72c5babf3b0ad4e919c4', '/rasbt/scikit-learn/commit/868349aed7515c38e499305ddcebd507bbad201b', '/yarikoptic/scikit-learn/commit/09b53882a169a36c7de11b1f973563c228e97102', '/yarikoptic/scikit-learn/commit/d8a623e751be38021ee988ab35103b4848d47582', '/yarikoptic/scikit-learn/commit/07226a33db4e7497e6943f2d770377e29f529048', '/ogrisel/scikit-learn/commit/d472a6a79c45af11f393440f0e2bd116ebb5a415']"
+4182,"['/scikit-learn/scikit-learn/issues/1637', '/scikit-learn/scikit-learn/issues/4187']",[],['/scikit-learn/scikit-learn/pull/4182/commits/a8dc78947b1159d3d1db9056db2dde5a6e4d995c']
+4176,[],[],['/scikit-learn/scikit-learn/pull/4176/commits/a9b3965b0a8c3752d7c393c8466b3a6fccf6ff9d']
+4175,[],[],['/scikit-learn/scikit-learn/pull/4175/commits/e65ab77bac02874a48ba930319a1946633692f57']
+4168,[],[],"['/scikit-learn/scikit-learn/commit/a5a800ec0347cfa76cf60d5d74bfeec7f4ba5b0d', '/rasbt/scikit-learn/commit/08f581c36051afa9755d2a8d2e62698e47102034']"
+4156,['/scikit-learn/scikit-learn/issues/4154'],[],['/scikit-learn/scikit-learn/pull/4156/commits/0fe3f5c1fca9f42a1eb4bd1464a0f82bea265461']
+4154,[],[],"['/AlexanderFabisch/scikit-learn/commit/0fe3f5c1fca9f42a1eb4bd1464a0f82bea265461', '/ngoix/scikit-learn/commit/7295bbda777620426388be2f5ce6ca39d4c93d23']"
+4150,[],[],"['/scikit-learn/scikit-learn/pull/4150/commits/18a3e294d451ddb1c2446cf9c021ab2e4078c714', '/scikit-learn/scikit-learn/pull/4150/commits/d357bfda10b29df6f3fb52aeaf2dbc8051f006a4', '/scikit-learn/scikit-learn/pull/4150/commits/08fea90ab410f69c2de009adc870c1124080a919', '/scikit-learn/scikit-learn/pull/4150/commits/e69b939ce0a8c4cad8d70612c15be93948977fbd', '/scikit-learn/scikit-learn/pull/4150/commits/ef11cfc160a7a37b26abe6f87a8621933acb47b4']"
+4146,['/scikit-learn/scikit-learn/issues/2932'],[],"['/scikit-learn/scikit-learn/pull/4146/commits/1add39ff110bab171df998d978cc88bab0232e54', '/scikit-learn/scikit-learn/pull/4146/commits/700babc43f557923ae933e7007335d0d228390e2', '/scikit-learn/scikit-learn/pull/4146/commits/95f1d9562b85edc172ba0a4f4aaa7e90b00e27b1', '/scikit-learn/scikit-learn/pull/4146/commits/f12a441655f0d872259ac72425ac084f457891f7']"
+4144,[],[],[]
+4141,[],[],['/scikit-learn/scikit-learn/pull/4141/commits/edb73cc6933f4e9b5584ffe873f5561db40fa43b']
+4137,[],[],"['/scikit-learn/scikit-learn/pull/4137/commits/a7d64881a060185b7d79cccd4e83d82215936243', '/scikit-learn/scikit-learn/commit/8cf714cc9d14a0050f6bb2e6f998ee50a4134975', '/rasbt/scikit-learn/commit/0d9bcd1af67a1ea391cccf005ba1409f1ecea90b']"
+4136,"['/scikit-learn/scikit-learn/issues/4149', '/scikit-learn/scikit-learn/issues/3440', '/scikit-learn/scikit-learn/issues/4064', '/scikit-learn/scikit-learn/issues/4132', '/scikit-learn/scikit-learn/issues/4057', '/scikit-learn/scikit-learn/issues/4214', '/scikit-learn/scikit-learn/issues/4056', '/scikit-learn/scikit-learn/issues/4133', '/scikit-learn/scikit-learn/issues/4124']",[],"['/scikit-learn/scikit-learn/pull/4136/commits/e3e0827243b93b5a51893f39215d7284d5d319c6', '/scikit-learn/scikit-learn/pull/4136/commits/8ef0b9a82f47b7fff32620c419237df7093f2e23', '/scikit-learn/scikit-learn/pull/4136/commits/9f50699c21ca6a2cbc3583e9824b8ec2d632e5c0', '/scikit-learn/scikit-learn/pull/4136/commits/021bf74c6bb11635954992c9aecd8dec924cc748']"
+4135,['/scikit-learn/scikit-learn/issues/4142'],[],[]
+4130,[],[],[]
+4127,[],['/joblib/joblib/issues/57'],"['/wizeman/nixpkgs/commit/76e417ecbab276dcc4bb3936ef4ec17d796bde6d', '/wizeman/nixpkgs/commit/09a408b7976ec2cc0c01959d7182c7219fdb0cd8', '/wizeman/nixpkgs/commit/639c95856a3b2ca9f5b3f94a894b26112cfe103e', '/wizeman/nixpkgs/commit/6cb54b03f6acdfdb59ff9e174b93bd09450000d0', '/wizeman/nixpkgs/commit/3ee635d2c0904a75b122484fae9489748d66d0a6', '/wizeman/nixpkgs/commit/ab00d73196293318b5521ade95d34e0063f9b2de', '/wizeman/nixpkgs/commit/f0606e68098b0ee52c978f98018efa6f647a08b3']"
+4124,['/scikit-learn/scikit-learn/issues/4136'],[],[]
+4121,"['/scikit-learn/scikit-learn/issues/4072', '/scikit-learn/scikit-learn/issues/4303', '/scikit-learn/scikit-learn/issues/4317']",[],"['/scikit-learn/scikit-learn/pull/4121/commits/9453a3181e92bd09124663e7d1a638ecb35827bd', '/scikit-learn/scikit-learn/pull/4121/commits/220ad78740995181d129ae1790b3cd4003b221c4']"
+4109,"['/scikit-learn/scikit-learn/issues/4039', '/scikit-learn/scikit-learn/issues/4802']",[],"['/scikit-learn/scikit-learn/pull/4109/commits/87c9ba7d2655115536239f428504c08f194ecba6', '/scikit-learn/scikit-learn/pull/4109/commits/364fdd6496e8e9869cc63c715c23a3800fc547e7']"
+4102,['/scikit-learn/scikit-learn/issues/4166'],[],[]
+4074,['/scikit-learn/scikit-learn/issues/4093'],[],[]
+4072,"['/scikit-learn/scikit-learn/issues/4073', '/scikit-learn/scikit-learn/issues/4046', '/scikit-learn/scikit-learn/issues/4121', '/scikit-learn/scikit-learn/issues/4303', '/scikit-learn/scikit-learn/issues/4317']",[],"['/ogrisel/scikit-learn/commit/58c4cac83d24cea58af4e3846d83b861f741871f', '/ogrisel/scikit-learn/commit/6cd3451003a7b722a10dac9a81927c9d854c31dd', '/ogrisel/scikit-learn/commit/aec5b8d6195d5ec8fca5f21b597c5d8033cf482d', '/ogrisel/scikit-learn/commit/619db62ce754028566017b47dcf393bc32091f63', '/ogrisel/scikit-learn/commit/40b1edab55753aae1c4dbf33924edf865065d716', '/ogrisel/scikit-learn/commit/952c160457aa240b86d1c5eabfbcff161d06d0ab', '/rasbt/scikit-learn/commit/6c0b201b8c8d9b8f8d08b4ec1ff23315919510ee', '/AlexandreAbraham/nilearn/commit/baaadae478c2cbac5320511d1d73062e7969639f']"
+4064,"['/scikit-learn/scikit-learn/issues/4063', '/scikit-learn/scikit-learn/issues/4162', '/scikit-learn/scikit-learn/issues/4143', '/scikit-learn/scikit-learn/issues/3907', '/scikit-learn/scikit-learn/issues/4132', '/scikit-learn/scikit-learn/issues/4136']",[],['/scikit-learn/scikit-learn/pull/4064/commits/cd63accc05cd841d20d82cf55f4b63b2fa3b90df']
+4063,['/scikit-learn/scikit-learn/issues/4064'],[],[]
+4059,"['/scikit-learn/scikit-learn/issues/4136', '/scikit-learn/scikit-learn/issues/4206']",[],"['/ogrisel/scikit-learn/commit/bc5b403af361e90ab7d5a6b12ab461fed3475498', '/xbhsu/scikit-learn/commit/a053769e18dac4be16794daf3dc12149e8795720', '/mvdoc/scikit-learn/commit/4b510e3ea2629ffab67ba2cae0b3822acfed63fd']"
+4055,['/scikit-learn/scikit-learn/issues/4057'],[],[]
+4046,"['/scikit-learn/scikit-learn/issues/4019', '/scikit-learn/scikit-learn/issues/4090', '/scikit-learn/scikit-learn/issues/4015', '/scikit-learn/scikit-learn/issues/1400', '/scikit-learn/scikit-learn/issues/4235']",[],"['/scikit-learn/scikit-learn/pull/4046/commits/9ed1df004a1d1db995e7b275f8ef9001bc3fa7b4', '/scikit-learn/scikit-learn/pull/4046/commits/c94d0a8909b8cd6d79010a9c82c957d773d57d96', '/scikit-learn/scikit-learn/pull/4046/commits/72d20a363fe145eff472eb35ae7a683707571563', '/scikit-learn/scikit-learn/pull/4046/commits/ec245c8bc3b60d172ff97cca31888263af3e7e01', '/scikit-learn/scikit-learn/pull/4046/commits/709b41a87782648dac3bbf2ca36eb678d909b2af', '/scikit-learn/scikit-learn/pull/4046/commits/cefc2f879e506f835cb0aa132f969c86447461b7', '/scikit-learn/scikit-learn/pull/4046/commits/8cac52de7964b8baa6d28cc5bec14878f79c839f', '/scikit-learn/scikit-learn/pull/4046/commits/bc27546a532ccc671d208e6b1e8d3f887aa7fd77']"
+4039,"['/scikit-learn/scikit-learn/issues/4109', '/scikit-learn/scikit-learn/issues/4802']",[],['/scikit-learn/scikit-learn/pull/4039/commits/ea033dcc3c04957bad7f7737c6800b657ed29454']
+4036,"['/scikit-learn/scikit-learn/issues/4039', '/scikit-learn/scikit-learn/issues/4802']",[],"['/wadawson/scikit-learn/commit/ea033dcc3c04957bad7f7737c6800b657ed29454', '/amueller/scikit-learn/commit/e3fd64eb8a6c7f84788c6a680acd87c08cf2219b', '/amueller/scikit-learn/commit/1c0a7c0bbd1ff79b65e019e05dcf75adfb870dd6', '/scikit-learn/scikit-learn/commit/87c9ba7d2655115536239f428504c08f194ecba6', '/xbhsu/scikit-learn/commit/6d68d73e19a4362b2308c74181ef8e64bab6a2c5']"
+4015,"['/scikit-learn/scikit-learn/issues/4019', '/scikit-learn/scikit-learn/issues/4046']",[],[]
+4006,"['/scikit-learn/scikit-learn/issues/3755', '/scikit-learn/scikit-learn/issues/4055', '/scikit-learn/scikit-learn/issues/4057']",[],[]
+3984,['/scikit-learn/scikit-learn/issues/3987'],['/materialsinnovation/pymks/issues/132'],[]
+3981,[],[],[]
+3977,[],[],[]
+3975,"['/scikit-learn/scikit-learn/issues/3972', '/scikit-learn/scikit-learn/issues/4269']",[],[]
+3945,"['/scikit-learn/scikit-learn/issues/2640', '/scikit-learn/scikit-learn/issues/4410', '/scikit-learn/scikit-learn/issues/4429', '/scikit-learn/scikit-learn/issues/4802']",[],"['/scikit-learn/scikit-learn/pull/3945/commits/501c7959a81f7fc98870c0a6b79f2a3af31eadcd', '/scikit-learn/scikit-learn/pull/3945/commits/da04b95d1121543c0cc07fc55706a7d266fac255', '/scikit-learn/scikit-learn/pull/3945/commits/0bcbd66be986125ab777409022612c1d6a5d997e', '/scikit-learn/scikit-learn/pull/3945/commits/4c7e8714d0d0c02c6f68d9d22abbd387875fb861', '/scikit-learn/scikit-learn/pull/3945/commits/b74ae8ea953adcd9a8270b4b04cc1d7135aa769f', '/scikit-learn/scikit-learn/pull/3945/commits/7e3530d53ad83bc67efbdf2aab7f5fadad6192d5', '/scikit-learn/scikit-learn/pull/3945/commits/2d459efdebbd2811789ac432225e29f799f9c5ca']"
+3935,[],[],[]
+3932,['/scikit-learn/scikit-learn/issues/4122'],[],[]
+3930,['/scikit-learn/scikit-learn/issues/5299'],[],[]
+3928,['/scikit-learn/scikit-learn/issues/3931'],[],[]
+3872,"['/scikit-learn/scikit-learn/issues/3578', '/scikit-learn/scikit-learn/issues/3905']",[],[]
+3863,['/scikit-learn/scikit-learn/issues/3899'],[],[]
+3848,['/scikit-learn/scikit-learn/issues/4031'],[],[]
+3843,['/scikit-learn/scikit-learn/issues/4026'],[],[]
+3830,"['/scikit-learn/scikit-learn/issues/3900', '/scikit-learn/scikit-learn/issues/3903', '/scikit-learn/scikit-learn/issues/5933']",[],"['/dimazest/scikit-learn/commit/e52b7639d0508f34f02946f50142a4421cc56fec', '/jlopezpena/scikit-learn/commit/50dec1f3ee1b672ef072b47a2baf9ffedeacc713', '/jmetzen/scikit-learn/commit/f6dd82db0e7ae501a9f1d5439a83dc1a375d51ba']"
+3777,[],['/sphinx-gallery/sphinx-gallery/issues/18'],"['/scikit-learn/scikit-learn/pull/3777/commits/22b10b80b4af49cfea451c5a35bb3139687bcf8e', '/scikit-learn/scikit-learn/pull/3777/commits/1d19e7b1ee2d70630adf2a0ebac17e34c27c92bc']"
+3760,['/scikit-learn/scikit-learn/issues/3655'],[],"['/Garrett-R/scikit-learn/commit/17e25ffcc86028d494d17d6e85d73a7f0e636512', '/Garrett-R/scikit-learn/commit/f5c84197c201caaf56e2fe5526aa8d1139a9b9f0', '/scikit-learn/scikit-learn/pull/3760/commits/88ffad8a7c7301587edeae657e1559a4b9ae3366', '/scikit-learn/scikit-learn/pull/3760/commits/76823d82f6102addf36930cdf2e588f2570f9ea0', '/scikit-learn/scikit-learn/pull/3760/commits/cc39289ada1af43d7a59054d9903950252d4e89d', '/scikit-learn/scikit-learn/commit/98f65c56f4cd293b0870fa2b09a48098941abb4c', '/rasbt/scikit-learn/commit/df62cddd4b6f5a76705b33618f07272501f57325']"
+3747,"['/scikit-learn/scikit-learn/issues/3725', '/scikit-learn/scikit-learn/issues/4436']",[],"['/scikit-learn/scikit-learn/pull/3747/commits/ff05deadcc6efb27bfeee10a2b22abe857173ad8', '/scikit-learn/scikit-learn/pull/3747/commits/ef9e0db49e414223fbd9ec562ae50ccdc74aa251', '/scikit-learn/scikit-learn/pull/3747/commits/ae8f2e409fe472588db3a1a5805c6ff4b0b5c6fe', '/scikit-learn/scikit-learn/pull/3747/commits/e25eaa809933f0eab8c8889d31266dc807b63d59', '/scikit-learn/scikit-learn/pull/3747/commits/c715f2b4b8dd41d1aaf65aa5ac7a74ea89fc63d8', '/scikit-learn/scikit-learn/pull/3747/commits/1aca0193577e3b716f7fd553b1d917ff82c39aca']"
+3741,['/scikit-learn/scikit-learn/issues/4165'],[],[]
+3736,[],[],[]
+3728,[],[],[]
+3725,"['/scikit-learn/scikit-learn/issues/3722', '/scikit-learn/scikit-learn/issues/3747']",[],"['/scikit-learn/scikit-learn/pull/3725/commits/3e15dd9963967ebb030bf4c2a26351e11a15a599', '/scikit-learn/scikit-learn/pull/3725/commits/e229783f66f5bd0135f1e36161e3d5751843ec2f', '/scikit-learn/scikit-learn/pull/3725/commits/22f4c1ac48c88ef9de34f65c516fce238a312a8a', '/ngoix/scikit-learn/commit/8c468cdcfbc108028e99e05e38e50e750bc372f2', '/scikit-learn/scikit-learn/pull/3725/commits/da55f4b24cc9a3545b23d8fac86d4450781c1c24', '/scikit-learn/scikit-learn/pull/3725/commits/d179af50f7334d25a318319921f0eea798dae3f7', '/scikit-learn/scikit-learn/pull/3725/commits/0795128066a6028e4427c76986e5797ae2f89499', '/scikit-learn/scikit-learn/pull/3725/commits/a3d340fd328e656bba7f6579bbfc7b282204e10d', '/scikit-learn/scikit-learn/pull/3725/commits/199bc1d5e7ceb976bb89dc56709574770aa34ff1', '/scikit-learn/scikit-learn/pull/3725/commits/16b45c681c0440c6eaff6494b469c549d6812bc0', '/scikit-learn/scikit-learn/pull/3725/commits/0faeeb16dcc048ee913a67848f4e1680230fc813', '/ngoix/scikit-learn/commit/7b701b3a47e80732d319259f4134e11135ba472c', '/ngoix/scikit-learn/commit/7e0cfa22b442b10fe680e277e26ee5a18641f448', '/ngoix/scikit-learn/commit/ff05deadcc6efb27bfeee10a2b22abe857173ad8']"
+3722,"['/scikit-learn/scikit-learn/issues/3725', '/scikit-learn/scikit-learn/issues/3747']",[],"['/scikit-learn/scikit-learn/commit/3e15dd9963967ebb030bf4c2a26351e11a15a599', '/ngoix/scikit-learn/commit/a4f3a6b915b5e749edd21d87f65115f31fbfd847', '/ngoix/scikit-learn/commit/8c468cdcfbc108028e99e05e38e50e750bc372f2', '/scikit-learn/scikit-learn/commit/d179af50f7334d25a318319921f0eea798dae3f7', '/ngoix/scikit-learn/commit/7b701b3a47e80732d319259f4134e11135ba472c', '/ngoix/scikit-learn/commit/7e0cfa22b442b10fe680e277e26ee5a18641f448', '/ngoix/scikit-learn/commit/ff05deadcc6efb27bfeee10a2b22abe857173ad8']"
+3721,['/scikit-learn/scikit-learn/issues/3755'],[],[]
+3714,[],[],[]
+3709,['/scikit-learn/scikit-learn/issues/3718'],[],"['/scikit-learn/scikit-learn/commit/3a02da807af415aa8696717882523095c999436d', '/IssamLaradji/scikit-learn/commit/1fa3ae771458e5be21437e4dfb34da8bca42ec23']"
+3700,['/scikit-learn/scikit-learn/issues/3710'],[],[]
+3694,['/scikit-learn/scikit-learn/issues/3696'],[],"['/scikit-learn/scikit-learn/commit/766fb56ec0e7e501bceab3a820fde03eef6fdd43', '/IssamLaradji/scikit-learn/commit/97c3836e4cc7b7565436b8e2dc98c9844cd2508d', '/IssamLaradji/scikit-learn/commit/2491f342d20e1d0a4f64ad1f45c70cefeafa2252']"
+3693,[],[],[]
+3691,['/scikit-learn/scikit-learn/issues/3730'],[],['/ogrisel/scikit-learn/commit/4e2960df249ef9e27fc8dda787a9f4a6d82b1b42']
+3673,[],[],['/scikit-learn/scikit-learn/commit/bb3705c4fcfc11405f1dcbf08b244730e096d00f']
+3670,['/scikit-learn/scikit-learn/issues/4147'],[],['/scikit-learn/scikit-learn/pull/3670/commits/484dacf303c4c673a9f037f5b523347593fb46ce']
+3666,['/scikit-learn/scikit-learn/issues/3669'],[],[]
+3650,[],[],[]
+3648,[],[],['/adamwight/scikit-learn/commit/944ac05016d2b53709aee77916a94f454b7df835']
+3641,[],[],[]
+3616,['/scikit-learn/scikit-learn/issues/3617'],[],[]
+3602,[],[],[]
+3597,[],[],[]
+3596,['/scikit-learn/scikit-learn/issues/5355'],['/joblib/joblib/issues/192'],[]
+3594,['/scikit-learn/scikit-learn/issues/5071'],[],"['/mth4saurabh/scikit-learn/commit/24ba46d33ac84f7b626c0fef4bbaf915b8ba0bb8', '/mth4saurabh/scikit-learn/commit/4ab52387f22ef8931a605ad7267e0649be65f120', '/mth4saurabh/scikit-learn/commit/1ada7622e91b3389094037f3a5ef3bb87b8c7663', '/mth4saurabh/scikit-learn/commit/f1cb41ac493eff8f2740b944d77ff63a788bd873', '/mth4saurabh/scikit-learn/commit/e5d1f4e80857fe6b79e9ebd50f6883b2ed1536f7', '/scikit-learn/scikit-learn/commit/f38aea4bee7f54fc58de7eaf23c07e1d6f7943d3']"
+3540,[],[],[]
+3526,['/scikit-learn/scikit-learn/issues/3786'],[],"['/makokal/scikit-learn/commit/b6314027d09e9e0efa3830af720faebb050a4617', '/makokal/scikit-learn/commit/e0cb91d17a4ab2f6a29d93468f5eca41f28e04a7', '/AlexanderFabisch/scikit-learn/commit/e901145e251e1f36b148be104f3e4542f6567433', '/AlexanderFabisch/scikit-learn/commit/9039b4a9d96e139ad1668f3ab565979bb0da7918', '/AlexanderFabisch/scikit-learn/commit/0bdaecd6f0acbb14882de4851cb4fa63c06eda34', '/AlexanderFabisch/scikit-learn/commit/e324fdd288c0c650c51343c9b8fbe7c790608083']"
+3513,[],[],[]
+3507,[],[],[]
+3503,['/scikit-learn/scikit-learn/issues/3820'],[],"['/ogrisel/scikit-learn/commit/c1e1cdaa3df2e6fda74ca6b624394b2f2bdd16e0', '/scikit-learn/scikit-learn/commit/d3f49368262e3023195650f198709efce2c5ee8c']"
+3485,"['/scikit-learn/scikit-learn/issues/3515', '/scikit-learn/scikit-learn/issues/3107']",[],"['/ogrisel/scikit-learn/commit/78a2e793279cd57303a2d1a4d3cb650c0a1eaa5e', '/ogrisel/scikit-learn/commit/78b545cdeb55f16e42f3d0920df2e4575cdde9ec', '/ogrisel/scikit-learn/commit/727646060f113964e082cd9640360f6342f8468f', '/ogrisel/scikit-learn/commit/319a63de7373530dea57d37647a3cebab043f327', '/scikit-learn/scikit-learn/commit/07560e45c234fe209f13f8689a6a6f36490bd21c', '/scikit-learn/scikit-learn/commit/de9de2d70d8dac5871cb4686488235e96682014c', '/eickenberg/scikit-learn/commit/b4f0e8bb9178542449db4a9c676518ffcb909c9e', '/yarikoptic/scikit-learn/commit/acb4e1ab0dd0739d221eeb0d390c10b2e9013648', '/yarikoptic/scikit-learn/commit/5122bf911ff5aae30c7d34d2521f8a9d463adb5a', '/yarikoptic/scikit-learn/commit/d75538e5f6e8fc9bb0fde0937458d82ab3b32882']"
+3475,['/scikit-learn/scikit-learn/issues/3477'],[],[]
+3471,['/scikit-learn/scikit-learn/issues/3473'],[],"['/scikit-learn/scikit-learn/pull/3471/commits/70085154538d7741225787acf25d87a4b2a24319', '/scikit-learn/scikit-learn/pull/3471/commits/70a55ff419570fded800df297e8fd05c14d3b380']"
+3470,[],[],['/scikit-learn/scikit-learn/pull/3470/commits/0ea65bb64d6c48816ebc092f4d62bdb81db75212']
+3469,['/scikit-learn/scikit-learn/issues/3470'],[],[]
+3462,['/scikit-learn/scikit-learn/issues/3486'],[],[]
+3431,[],[],[]
+3389,"['/scikit-learn/scikit-learn/issues/4140', '/scikit-learn/scikit-learn/issues/4171']",[],[]
+3372,[],[],"['/scikit-learn/scikit-learn/commit/514f07306f9a044c67acdcbd702b8eef0b61d20c', '/scikit-learn/scikit-learn/commit/e3c622e14f75f2e12b3675dd7027f9b4709f451d', '/yarikoptic/scikit-learn/commit/6a9987195f459aae0bcfa958eb849501be9fca93', '/yarikoptic/scikit-learn/commit/9b47a2d85b852f27e383e3ad08bd0e0b29ac5a76', '/yarikoptic/scikit-learn/commit/3e4fc83168b2349bd4712232b284b1e2b5c462f5']"
+3371,[],[],[]
+3370,"['/scikit-learn/scikit-learn/issues/3380', '/scikit-learn/scikit-learn/issues/3383', '/scikit-learn/scikit-learn/issues/3629', '/scikit-learn/scikit-learn/issues/3654']",[],"['/fabianp/scikit-learn/commit/67bfa1a9678974d6d59f7be7a6674a911aa01fd3', '/scikit-learn/scikit-learn/commit/0295fdae7156845d3d14cff800d1b35302ec9f26', '/scikit-learn/scikit-learn/commit/e97696753a1491b97eb32aa2a3ef59bdd8c647ee', '/ogrisel/scikit-learn/commit/dbfb25e51ec34c650efc3c8d25afaf2aea8ab98a', '/scikit-learn/scikit-learn/commit/57630c484f0dc54136c5945b51652d79dd684978', '/ogrisel/scikit-learn/commit/7caf8fe8ddbd1bc6aa23dfc2903de59f5d8d3f0a', '/scikit-learn/scikit-learn/commit/d9067fa295d744b8efee458a0c03aa09ef5dd12a', '/kashif/scikit-learn/commit/e594e55ea290cd0dca9d07b584be1e31971e76a7', '/kashif/scikit-learn/commit/7e18d4e61a4e366b1010759962c4be260780edd5', '/IssamLaradji/scikit-learn/commit/08094371dfe11a0a65f760dae53adbd5a6a60344', '/IssamLaradji/scikit-learn/commit/39005e265ae53e2302808c0b1d390e3f420f213d', '/SaurabhJha/scikit-learn/commit/f2b1e87dfa834ca239b9e559d09e2bce722f4c59', '/SaurabhJha/scikit-learn/commit/ba423c95b1789bb8ead07e336c1e6f10d452b3ec', '/IssamLaradji/scikit-learn/commit/0f215c58fc09c365d4a9847f4c47763061275155', '/IssamLaradji/scikit-learn/commit/b882a31615d5773a722f5b4ee8afbfa4df8c07a2']"
+3277,[],['/mne-tools/mne-python/issues/1401'],"['/scikit-learn/scikit-learn/pull/3277/commits/e385aba7ad5c5074e96e57b078fab96881f0ffa5', '/scikit-learn/scikit-learn/pull/3277/commits/878e6ffac6c45563f98df58de4829f3b7c30163e', '/scikit-learn/scikit-learn/commit/de824b1b1f9df36d1405e2b953e9027d1f207ff6']"
+3269,[],[],"['/scikit-learn/scikit-learn/commit/108e00923bfe9e65122871fab7c6b0dd5c4996ab', '/scikit-learn/scikit-learn/commit/88796ef9577211f26b3eaf4edf1d556a0989d539']"
+3266,[],[],[]
+3255,"['/scikit-learn/scikit-learn/issues/3363', '/scikit-learn/scikit-learn/issues/1757', '/scikit-learn/scikit-learn/issues/3435', '/scikit-learn/scikit-learn/issues/3693']",[],"['/ogrisel/scikit-learn/commit/c08914e908493f70adc8705ee28fac74ae4a8eda', '/ogrisel/scikit-learn/commit/3c11331e5f75a56fe8c86699027db4f89e527b28', '/ogrisel/scikit-learn/commit/4822b49031be4f59b6ecfb24e23a2e53e4784f6d', '/ogrisel/scikit-learn/commit/4e62309f4cb2f0486f943705a0c152e2ba427170', '/ogrisel/scikit-learn/commit/088275717657ac7f6acaa4e7362841db35b24396', '/ogrisel/scikit-learn/commit/16fe11cf81699eecaf7de03ca81371b9d54426b3']"
+3252,[],[],[]
+3226,[],[],[]
+3209,[],[],[]
+3190,"['/scikit-learn/scikit-learn/issues/3139', '/scikit-learn/scikit-learn/issues/3204', '/scikit-learn/scikit-learn/issues/3353', '/scikit-learn/scikit-learn/issues/4387', '/scikit-learn/scikit-learn/issues/4402']",[],[]
+3186,['/scikit-learn/scikit-learn/issues/4155'],[],"['/trevorstephens/scikit-learn/commit/291447f29edeca986f15cd962557f28df5cb37c7', '/ngoix/scikit-learn/commit/64fe9c2a8514b4ea9ec3e098f4e8e1bb11e92d21']"
+3185,[],[],[]
+3183,[],[],['/scikit-learn/scikit-learn/commit/95619a961f1bb0b3ce7dd98d83d4e9c1991beedc']
+3179,['/scikit-learn/scikit-learn/issues/3184'],[],[]
+3174,['/scikit-learn/scikit-learn/issues/3178'],[],[]
+3160,['/scikit-learn/scikit-learn/issues/3236'],[],[]
+3159,"['/scikit-learn/scikit-learn/issues/3972', '/scikit-learn/scikit-learn/issues/5327']",[],[]
+3142,"['/scikit-learn/scikit-learn/issues/3440', '/scikit-learn/scikit-learn/issues/4057']",[],[]
+3128,"['/scikit-learn/scikit-learn/issues/2904', '/scikit-learn/scikit-learn/issues/3405', '/scikit-learn/scikit-learn/issues/3496']",[],"['/scikit-learn/scikit-learn/pull/3128/commits/26020953f1d36a9822314bd87b4b6793a810f5c2', '/scikit-learn/scikit-learn/pull/3128/commits/6b17011b12dec6ae5cde4e39bc9b07c518fb7448', '/scikit-learn/scikit-learn/pull/3128/commits/41861037cf7234de4d93efdfbb62914b60a7380a', '/scikit-learn/scikit-learn/pull/3128/commits/011b5f28104b1ee1f6105b9bee671e5ee0aa8b3f', '/scikit-learn/scikit-learn/pull/3128/commits/089b14b5818db0fcecb1d34f2e7e6bc8963b7c06', '/scikit-learn/scikit-learn/pull/3128/commits/9e8979671d32a4bf51539de2f910c5f3264f0b52', '/scikit-learn/scikit-learn/pull/3128/commits/c5fbdceeb69ddae63f8f6a52ee95e863a7476ddf', '/scikit-learn/scikit-learn/pull/3128/commits/8baa0335871d6f15b16f5c038cd665bff754c70d', '/scikit-learn/scikit-learn/pull/3128/commits/34b71ba643d3282e4e70942e10586beb50103324', '/scikit-learn/scikit-learn/pull/3128/commits/3d3de617907449da319901889dfdc6272dca5580']"
+3123,['/scikit-learn/scikit-learn/issues/2610'],[],[]
+3121,[],[],[]
+3107,"['/scikit-learn/scikit-learn/issues/3285', '/scikit-learn/scikit-learn/issues/3930']",[],"['/scikit-learn/scikit-learn/pull/3107/commits/52ee9e2240ba8735a896e5bcf51c0822057dc236', '/scikit-learn/scikit-learn/pull/3107/commits/5dbcea97917fbba214b2107f633d07f093840f2e', '/scikit-learn/scikit-learn/pull/3107/commits/c7c28fb3b247097d918c10818e6d2d49ff24b7ad', '/scikit-learn/scikit-learn/pull/3107/commits/69604d5c9214497d3e8ec516fe507b04d4434774']"
+3044,"['/scikit-learn/scikit-learn/issues/2774', '/scikit-learn/scikit-learn/issues/3052']",[],"['/YS-L/scikit-learn/commit/55ad14d8eda711f9dd169de54e2470a468407cb7', '/scikit-learn/scikit-learn/commit/3f9dff942d0bdf3e3ca6f622dea1ba2086c62ef2', '/maheshakya/scikit-learn/commit/4dbd783bef9745a41b788dbd6a183055841a9ad5', '/maheshakya/scikit-learn/commit/70729db9b6af4e28f05fc33df8748303074d167d']"
+3039,['/scikit-learn/scikit-learn/issues/3064'],[],"['/ssaeger/scikit-learn/commit/e8f6a31c4e42f3e9c18a67c69bff3255a3f0703f', '/scikit-learn/scikit-learn/commit/2a40a4efe0a9b7c0308ca1e1784e10dcb7a2286c', '/scikit-learn/scikit-learn/commit/6430e1902179facb771c11d396a92fbd957844ed']"
+3014,[],[],['/scikit-learn/scikit-learn/commit/86c07b5f276d00dca1a443d66fbc3c7a6c6bec4d']
+3008,"['/scikit-learn/scikit-learn/issues/3017', '/scikit-learn/scikit-learn/issues/3018', '/scikit-learn/scikit-learn/issues/3024']",[],[]
+3006,[],[],['/scikit-learn/scikit-learn/pull/3006/commits/90ce7390619948ded8e6e8533a97da567b53780d']
+2986,['/scikit-learn/scikit-learn/issues/3853'],['/scipy/scipy/issues/4142'],['/scikit-learn/scikit-learn/commit/54f483aafa9a5ac7358adafcca355c8dc2149ce1']
+2961,[],[],"['/scikit-learn/scikit-learn/commit/719e3f06882c02bdb33bb7654e4f316558c4d67a', '/maheshakya/scikit-learn/commit/7ed3382aed162ba425e2576d06d9e597d321f501', '/maheshakya/scikit-learn/commit/543c415b5d1f504a6028db66c4df4821648b6c31']"
+2948,[],[],['/scikit-learn/scikit-learn/pull/2948/commits/2a85c5be53f2f0a53554b993835391b6f67c1057']
+2932,['/scikit-learn/scikit-learn/issues/4146'],[],['/scikit-learn/scikit-learn/pull/2932/commits/321fbcc271a784c36be462b2391b8e96449100e1']
+2918,['/scikit-learn/scikit-learn/issues/2938'],[],[]
+2903,[],[],[]
+2901,"['/scikit-learn/scikit-learn/issues/3026', '/scikit-learn/scikit-learn/issues/3916']",[],"['/matrixorz/scikit-learn/commit/08a7f67491c1297260023d81ef0a415492127d9b', '/scikit-learn/scikit-learn/commit/969e677353dfb40f6900e2a491ab9c15c6cd2e2e', '/jmetzen/scikit-learn/commit/b20895fdaa48951580228f491d77f1599950600e']"
+2899,[],[],['/scikit-learn/scikit-learn/commit/6091d7d2b1570f01062651c98c12143dda062fde']
+2839,['/scikit-learn/scikit-learn/issues/2838'],[],"['/ronvohra/scikit-learn/commit/5a15c280feb81142bb4966c4f584bdf33c7639a2', '/scikit-learn/scikit-learn/commit/0a488ff642328a85fea6161b49467f0cb327598a']"
+2787,"['/scikit-learn/scikit-learn/issues/2747', '/scikit-learn/scikit-learn/issues/2790']",[],[]
+2785,[],[],['/scikit-learn/scikit-learn/commit/0c22cbb272e274f40dd3e552f509ea07934b5303']
+2774,"['/scikit-learn/scikit-learn/issues/3044', '/scikit-learn/scikit-learn/issues/3052']",[],"['/YS-L/scikit-learn/commit/55ad14d8eda711f9dd169de54e2470a468407cb7', '/scikit-learn/scikit-learn/commit/3f9dff942d0bdf3e3ca6f622dea1ba2086c62ef2', '/maheshakya/scikit-learn/commit/4dbd783bef9745a41b788dbd6a183055841a9ad5', '/maheshakya/scikit-learn/commit/70729db9b6af4e28f05fc33df8748303074d167d']"
+2771,"['/scikit-learn/scikit-learn/issues/2932', '/scikit-learn/scikit-learn/issues/3502', '/scikit-learn/scikit-learn/issues/4146']",[],"['/ajtulloch/scikit-learn/commit/321fbcc271a784c36be462b2391b8e96449100e1', '/amueller/scikit-learn/commit/7e61d0727b869fe90fb71bdfc63960d27cd8f01f', '/amueller/scikit-learn/commit/08507892b36372134d1f204c25231986418dcedf', '/amueller/scikit-learn/commit/1e03484f88d0bb306fd62736afe5fd4013568a4e', '/amueller/scikit-learn/commit/1add39ff110bab171df998d978cc88bab0232e54', '/rasbt/scikit-learn/commit/2ad697cf22b68f278ba82f2a906d67f1ef1f9c6d']"
+2758,[],[],[]
+2751,"['/scikit-learn/scikit-learn/issues/2866', '/scikit-learn/scikit-learn/issues/5526', '/scikit-learn/scikit-learn/issues/5357']",[],[]
+2741,"['/scikit-learn/scikit-learn/issues/2742', '/scikit-learn/scikit-learn/issues/6759']",[],[]
+2737,"['/scikit-learn/scikit-learn/issues/2794', '/scikit-learn/scikit-learn/issues/2797']",[],[]
+2727,[],[],[]
+2726,['/scikit-learn/scikit-learn/issues/2732'],[],"['/jnothman/scikit-learn/commit/207754c347ed5b561831c7543cb8f5e8f13540c3', '/jnothman/scikit-learn/commit/defb4cdb097cfe3acfa3296dbbde9219ee0c0439', '/jnothman/scikit-learn/commit/582648b51e09bd1141c7747140f07ee23259a2ac', '/jnothman/scikit-learn/commit/53e2577bd799d6e3529c5f2c932284dc7901a9bc', '/jnothman/scikit-learn/commit/e7e7133912332f5ee7933963081ac20c0eacd450']"
+2721,"['/scikit-learn/scikit-learn/issues/2570', '/scikit-learn/scikit-learn/issues/2715', '/scikit-learn/scikit-learn/issues/2724', '/scikit-learn/scikit-learn/issues/2729']",[],[]
+2716,['/scikit-learn/scikit-learn/issues/2719'],[],[]
+2713,[],[],[]
+2697,['/scikit-learn/scikit-learn/issues/2702'],[],[]
+2696,['/scikit-learn/scikit-learn/issues/3216'],[],[]
+2686,"['/scikit-learn/scikit-learn/issues/2638', '/scikit-learn/scikit-learn/issues/2692']",[],"['/scikit-learn/scikit-learn/commit/578ce199558921770a0b942d8a151cd90c683203', '/scikit-learn/scikit-learn/commit/e5248eab19295112e51c9e7883ea29b541510a31', '/scikit-learn/scikit-learn/commit/674e0ea94f7508e7dd06c8dc544dd59a7eb48206', '/jess010/scikit-learn/commit/c6fb5783a84975a476b8a5de048cb72776b9b8bd', '/maheshakya/scikit-learn/commit/2408329266f4a53d3ca1a1c40abd0d37cd3e7502', '/maheshakya/scikit-learn/commit/21f7f03f16d9f19cb6c7c6f538946a9640613f1c']"
+2663,"['/scikit-learn/scikit-learn/issues/2664', '/scikit-learn/scikit-learn/issues/3047', '/scikit-learn/scikit-learn/issues/3067']",['/mne-tools/mne-python/issues/985'],[]
+2652,['/scikit-learn/scikit-learn/issues/3542'],[],[]
+2645,['/scikit-learn/scikit-learn/issues/2607'],[],['/scikit-learn/scikit-learn/commit/6bc5756cae9cf1fee78ee46d7b88d1847944d161']
+2640,"['/scikit-learn/scikit-learn/issues/3945', '/scikit-learn/scikit-learn/issues/4429']","['/iancze/Starfish/issues/26', '/mne-tools/mne-python/issues/3425']",[]
+2638,"['/scikit-learn/scikit-learn/issues/2635', '/scikit-learn/scikit-learn/issues/2355', '/scikit-learn/scikit-learn/issues/2903', '/scikit-learn/scikit-learn/issues/3376']",[],"['/scikit-learn/scikit-learn/pull/2638/commits/92365c28bfea68191a32d345ae79366c281c0293', '/scikit-learn/scikit-learn/pull/2638/commits/7565168a2f1cc0f4dfde86da5ece4508a9c11001', '/scikit-learn/scikit-learn/pull/2638/commits/9202aea4037334d51e923e4e14fd9eb395680f7d', '/scikit-learn/scikit-learn/pull/2638/commits/f092c83533817d4c33990fb38c83a6c2de239741', '/scikit-learn/scikit-learn/pull/2638/commits/9b2b115ce25a2ab4a79c25cde578367beb2b228c', '/scikit-learn/scikit-learn/pull/2638/commits/59fbdfe152f1edd5889b0919bec009fee358f3b1', '/scikit-learn/scikit-learn/pull/2638/commits/3dff264ec7ced72ee0e699ca8b8b6eca0ee9189f', '/scikit-learn/scikit-learn/pull/2638/commits/b93a49e8f79f5f0e6ef0ddb817118d7a7017f0ff', '/scikit-learn/scikit-learn/pull/2638/commits/24d3b1e32d68e5333a6ce313915e81ee08be2245', '/scikit-learn/scikit-learn/pull/2638/commits/9862baa24b798d5833a501af4c41d23ed6cb2555', '/scikit-learn/scikit-learn/pull/2638/commits/9e8e56b186937fca59fa4c82430113617179dfd7', '/scikit-learn/scikit-learn/pull/2638/commits/21ee627aa77448dc18a072605832b4fe0fbf08c6', '/scikit-learn/scikit-learn/pull/2638/commits/05d1e0b3f2bebca7c855940d9e59ada1daae47f8', '/scikit-learn/scikit-learn/pull/2638/commits/9e05470ba72119578acd568515a611c5645cf8c5', '/scikit-learn/scikit-learn/pull/2638/commits/07800ce549e1830478dd2ed0bb1d89a2ffe8567b', '/scikit-learn/scikit-learn/pull/2638/commits/2ca752ba5d2b65c97c114aaa4932ac225134b702', '/scikit-learn/scikit-learn/pull/2638/commits/21f2709d39476954d62849823cac0153cb062038', '/scikit-learn/scikit-learn/pull/2638/commits/f76a4edfb85fb5e58f59eb99a2bcf0e7be93b05b']"
+2625,['/scikit-learn/scikit-learn/issues/3025'],[],[]
+2621,['/scikit-learn/scikit-learn/issues/2622'],[],[]
+2609,"['/scikit-learn/scikit-learn/issues/3093', '/scikit-learn/scikit-learn/issues/3589', '/scikit-learn/scikit-learn/issues/3611']",['/MichelleLochner/supernova-machine/issues/6'],"['/nmayorov/scikit-learn/commit/bd54e331612711f1ec7083be1af1820195bc5573', '/scikit-learn/scikit-learn/commit/ad751a3b6996a4c209c1a243d396aa6930d4acc4', '/scikit-learn/scikit-learn/commit/509f249145b38274b7ddc01db93cbaa72bc71c11', '/kashif/scikit-learn/commit/536085ea283ff33e83b001da8f9aa1e25057356b', '/IssamLaradji/scikit-learn/commit/35774cec7081612382b9b6cda612d33c38a5d262', '/SaurabhJha/scikit-learn/commit/ba8fc87863e4ce5ea542b560d33c6701f31f3dff', '/IssamLaradji/scikit-learn/commit/22a3296b1d4421a6cf089d31e3fb5e7de7418e6e']"
+2604,['/scikit-learn/scikit-learn/issues/2620'],[],[]
+2588,"['/scikit-learn/scikit-learn/issues/2630', '/scikit-learn/scikit-learn/issues/1404', '/scikit-learn/scikit-learn/issues/2759', '/scikit-learn/scikit-learn/issues/4388', '/scikit-learn/scikit-learn/issues/4418']",[],[]
+2586,['/scikit-learn/scikit-learn/issues/2592'],[],[]
+2560,['/scikit-learn/scikit-learn/issues/2576'],['/numpy/numpy/issues/4012'],[]
+2555,['/scikit-learn/scikit-learn/issues/4335'],[],[]
+2539,[],[],[]
+2512,[],[],"['/scikit-learn/scikit-learn/commit/070d7a686bf45a6b52a0103a1dfe1fefc235b342', '/maheshakya/scikit-learn/commit/3310605db0414b6d72bb7f1fcc2e7ab1e26b4c79', '/maheshakya/scikit-learn/commit/f48ce66afb89dfc5e8683d47cb55994002de9d14']"
+2511,[],[],[]
+2507,"['/scikit-learn/scikit-learn/issues/4184', '/scikit-learn/scikit-learn/issues/4185', '/scikit-learn/scikit-learn/issues/1176', '/scikit-learn/scikit-learn/issues/4297', '/scikit-learn/scikit-learn/issues/6206']",[],[]
+2503,['/scikit-learn/scikit-learn/issues/2538'],[],[]
+2496,[],[],['/scikit-learn/scikit-learn/commit/55a2f29ee0042ba855b623baa0b6a9e2ef05da4e']
+2481,"['/scikit-learn/scikit-learn/issues/2501', '/scikit-learn/scikit-learn/issues/2523']",[],['/scikit-learn/scikit-learn/commit/913e471b3412e3b6a48931129b2d6c9ed40a2071']
+2472,[],[],[]
+2467,[],[],[]
+2445,"['/scikit-learn/scikit-learn/issues/2446', '/scikit-learn/scikit-learn/issues/2476', '/scikit-learn/scikit-learn/issues/3640']",[],['/untom/scikit-learn/commit/e99d734ff29bed30964516405fda2adf7676af9f']
+2443,['/scikit-learn/scikit-learn/issues/2478'],[],"['/flukeskywalker/scikit-learn/commit/9cafb7ace6a8f7ae8cb11b4a34b929856c8391b1', '/scikit-learn/scikit-learn/commit/94d66a0e387c05813c3eb19744882ae9c6cde9a5']"
+2431,['/scikit-learn/scikit-learn/issues/2472'],[],[]
+2409,[],[],[]
+2403,"['/scikit-learn/scikit-learn/issues/3824', '/scikit-learn/scikit-learn/issues/4382']",[],[]
+2402,"['/scikit-learn/scikit-learn/issues/2590', '/scikit-learn/scikit-learn/issues/2598']",[],[]
+2393,"['/scikit-learn/scikit-learn/issues/2426', '/scikit-learn/scikit-learn/issues/5371']",[],['/ylow/scikit-learn/commit/f60ba72d7b400b10e333608849688c5e290693fd']
+2379,[],[],[]
+2374,"['/scikit-learn/scikit-learn/issues/856', '/scikit-learn/scikit-learn/issues/2626', '/scikit-learn/scikit-learn/issues/3113']",['/paulgb/sklearn-pandas/issues/18'],[]
+2372,"['/scikit-learn/scikit-learn/issues/2450', '/scikit-learn/scikit-learn/issues/2463', '/scikit-learn/scikit-learn/issues/5711']",[],"['/dnouri/scikit-learn/commit/4f1d87469c7a828d699e6823787dc09dab79087f', '/dnouri/scikit-learn/commit/f01dc1835ed1e24df0a9aca944757c34ef86a448', '/scikit-learn/scikit-learn/commit/9e857977507238789e730fe91c0b60912cb70781', '/scikit-learn/scikit-learn/commit/6c7e7515395290981dfff4c5f003e3ca5d629603', '/scikit-learn/scikit-learn/commit/3aede7f43c029740d04bc1448c472c7a28ced1df', '/scikit-learn/scikit-learn/commit/1a796409f84d35e4a8f7fcc7c89421ac53b7687d', '/scikit-learn/scikit-learn/commit/e3002c5efc2a34defe65e017e2a0cc3b6f250c1a']"
+2362,[],[],[]
+2360,"['/scikit-learn/scikit-learn/issues/3160', '/scikit-learn/scikit-learn/issues/3236', '/scikit-learn/scikit-learn/issues/3432']",[],"['/amueller/scikit-learn/commit/eb2098f26f418b65c8ee577e44c77196b6cac929', '/scikit-learn/scikit-learn/commit/2a187cd9ac4544d34a2289f648ae013498861325', '/yarikoptic/scikit-learn/commit/acb4e1ab0dd0739d221eeb0d390c10b2e9013648', '/yarikoptic/scikit-learn/commit/5122bf911ff5aae30c7d34d2521f8a9d463adb5a', '/yarikoptic/scikit-learn/commit/d75538e5f6e8fc9bb0fde0937458d82ab3b32882', '/RolT/scikit-learn/commit/1a376af42b54df1737d41261500804154ff8d50f']"
+2356,['/scikit-learn/scikit-learn/issues/4176'],[],[]
+2335,['/scikit-learn/scikit-learn/issues/2336'],[],[]
+2330,['/scikit-learn/scikit-learn/issues/2331'],[],[]
+2322,['/scikit-learn/scikit-learn/issues/2349'],[],[]
+2318,['/scikit-learn/scikit-learn/issues/2319'],[],[]
+2312,[],[],[]
+2303,['/scikit-learn/scikit-learn/issues/2307'],[],[]
+2301,[],[],[]
+2296,[],[],[]
+2291,[],[],[]
+2289,"['/scikit-learn/scikit-learn/issues/2283', '/scikit-learn/scikit-learn/issues/2298']",[],[]
+2282,"['/scikit-learn/scikit-learn/issues/1762', '/scikit-learn/scikit-learn/issues/2375']",[],[]
+2225,"['/scikit-learn/scikit-learn/issues/2253', '/scikit-learn/scikit-learn/issues/2395']",[],[]
+2221,[],[],[]
+2190,['/scikit-learn/scikit-learn/issues/2230'],[],[]
+2185,"['/scikit-learn/scikit-learn/issues/2355', '/scikit-learn/scikit-learn/issues/2638']",[],"['/kpysniak/scikit-learn/commit/9b406d87f90f0a99b37add509632be678fbc705b', '/kpysniak/scikit-learn/commit/39b3d9c0c49a4f4f077ca0b4fbf5f38d9a949fc5']"
+2174,[],[],[]
+2173,['/scikit-learn/scikit-learn/issues/2177'],['/lisitsyn/tapkee_benchmarks/issues/1'],"['/har777/scikit-learn/commit/2b67b89d1abbe828af7c2e552cad399595e5e5e6', '/scikit-learn/scikit-learn/commit/bbf74a94a029c27200907b594974347c43f30edf']"
+2137,['/scikit-learn/scikit-learn/issues/2147'],[],['/jnothman/scikit-learn/commit/0b339cfa6389ce1c688348126d6a2c80aa85f9d0']
+2136,[],[],[]
+2130,[],[],[]
+2126,[],[],['/scikit-learn/scikit-learn/commit/9a452d592d019f64f346567142fdfdf2b9a4d99c']
+2124,"['/scikit-learn/scikit-learn/issues/2263', '/scikit-learn/scikit-learn/issues/2272']",[],[]
+2098,[],[],[]
+2069,[],[],[]
+2065,[],[],[]
+2058,[],[],[]
+2057,['/scikit-learn/scikit-learn/issues/2063'],[],[]
+2053,[],[],[]
+2032,['/scikit-learn/scikit-learn/issues/2033'],[],['/scikit-learn/scikit-learn/commit/fe0335748252cb75a6b1eb2f7d08843edb28216f']
+2028,['/scikit-learn/scikit-learn/issues/2226'],[],[]
+2020,[],[],[]
+1995,"['/scikit-learn/scikit-learn/issues/2047', '/scikit-learn/scikit-learn/issues/2125']",[],[]
+1993,"['/scikit-learn/scikit-learn/issues/2001', '/scikit-learn/scikit-learn/issues/2435', '/scikit-learn/scikit-learn/issues/2657']",[],"['/arjoly/scikit-learn/commit/c85eeaaa15575fb8e6375dec3180176335c582ff', '/scikit-learn/scikit-learn/commit/8c987efe0a7ae282ebad416870a919ac3a660adc']"
+1981,[],[],[]
+1973,[],['/paulgb/sklearn-pandas/issues/9'],[]
+1967,"['/scikit-learn/scikit-learn/issues/3105', '/scikit-learn/scikit-learn/issues/3523']",[],[]
+1965,['/scikit-learn/scikit-learn/issues/2016'],[],[]
+1959,[],[],[]
+1946,[],[],[]
+1931,[],[],[]
+1925,[],[],[]
+1921,['/scikit-learn/scikit-learn/issues/1926'],[],"['/larsmans/scikit-learn/commit/48ed65edcc1189464492f8bb4dcaba9f6b011cf2', '/scikit-learn/scikit-learn/commit/daf527735ae8a76a251da9703f29bd7dace9ec7a']"
+1905,['/scikit-learn/scikit-learn/issues/1894'],[],['/scikit-learn/scikit-learn/commit/8668d0290221b5e3c895b21a5e59790c0b5c5355']
+1903,['/scikit-learn/scikit-learn/issues/1930'],[],"['/larsmans/scikit-learn/commit/e0a34f7877dd733b8b80b078b5342af4b2a79ae9', '/scikit-learn/scikit-learn/commit/e163f8bfef86424dc2bcf10bcf8b03a62e23957f']"
+1901,[],[],[]
+1900,[],[],['/scikit-learn/scikit-learn/commit/1dc2a2656363eb153c84dba5c2b6ed100d1990c3']
+1897,['/scikit-learn/scikit-learn/issues/1953'],[],[]
+1896,['/scikit-learn/scikit-learn/issues/1898'],[],['/scikit-learn/scikit-learn/commit/719ca98118ba35b9a69540af61eaf87c6e7bb29f']
+1894,['/scikit-learn/scikit-learn/issues/1929'],[],[]
+1877,[],[],['/scikit-learn/scikit-learn/commit/1e6e337633e3bbde47f10f661aebfc31d41dedcd']
+1876,[],[],[]
+1872,[],[],['/scikit-learn/scikit-learn/commit/a344f1054095c425236c1be50cf6eb23dc74eb40']
+1869,['/scikit-learn/scikit-learn/issues/1924'],[],[]
+1860,['/scikit-learn/scikit-learn/issues/4179'],[],[]
+1838,['/scikit-learn/scikit-learn/issues/3693'],[],[]
+1835,"['/scikit-learn/scikit-learn/issues/1909', '/scikit-learn/scikit-learn/issues/1910', '/scikit-learn/scikit-learn/issues/1911']",[],[]
+1832,[],[],[]
+1831,"['/scikit-learn/scikit-learn/issues/1840', '/scikit-learn/scikit-learn/issues/3185', '/scikit-learn/scikit-learn/issues/4668']",[],[]
+1826,"['/scikit-learn/scikit-learn/issues/1838', '/scikit-learn/scikit-learn/issues/3693']",[],[]
+1815,[],[],"['/scikit-learn/scikit-learn/commit/b79652094ff40ae42d083fbd078c0bfd1b7e23b7', '/scikit-learn/scikit-learn/commit/e9a959203caa261bbe4598d9e97bef0f91649133', '/scikit-learn/scikit-learn/commit/29d6c2f0f6fc769fc0267943ca2ba4c6c4728839']"
+1808,['/scikit-learn/scikit-learn/issues/3585'],[],[]
+1793,[],[],[]
+1789,['/scikit-learn/scikit-learn/issues/1801'],[],[]
+1782,[],[],['/scikit-learn/scikit-learn/commit/f8aacaf5c82177dbc9834264f181cdbb8f2f1538']
+1771,['/scikit-learn/scikit-learn/issues/3824'],[],[]
+1762,['/scikit-learn/scikit-learn/issues/2282'],[],[]
+1759,['/scikit-learn/scikit-learn/issues/2261'],[],"['/NelleV/scikit-learn/commit/186ab6d6a50465cb0e849ebbd30834df233e897b', '/scikit-learn/scikit-learn/commit/b661cb7cb7324dc0d30580659f1d47401c825d5a']"
+1757,"['/scikit-learn/scikit-learn/issues/1826', '/scikit-learn/scikit-learn/issues/2716', '/scikit-learn/scikit-learn/issues/3435']",[],[]
+1749,['/scikit-learn/scikit-learn/issues/1756'],[],"['/scikit-learn/scikit-learn/commit/29ed16883124c3235b242ad495876140bd7c9789', '/tjanez/scikit-learn/commit/7277aef882ab606f96afcadb86685aceb3f63d29', '/scikit-learn/scikit-learn/commit/93b8c2c6af60a275c97c20c01ebc4d2f1a98e0b0']"
+1744,[],[],[]
+1734,"['/scikit-learn/scikit-learn/issues/1736', '/scikit-learn/scikit-learn/issues/1853', '/scikit-learn/scikit-learn/issues/1948']",[],"['/change/scikit-learn/commit/928541c8059676a9a87059667c4d20482acfb81b', '/scikit-learn/scikit-learn/commit/bde8b7a360dd7815bd90087745cc6c2995e34645']"
+1729,['/scikit-learn/scikit-learn/issues/1737'],[],[]
+1724,['/scikit-learn/scikit-learn/issues/1745'],[],"['/scikit-learn/scikit-learn/commit/91d9dc9b231a70e367f963eba0aa3d80c30a9170', '/scikit-learn/scikit-learn/commit/840a54a274eea0bb38360b53d171ac0e19793b6a']"
+1723,['/scikit-learn/scikit-learn/issues/1727'],[],[]
+1709,['/scikit-learn/scikit-learn/issues/2271'],"['/statsmodels/statsmodels/issues/1915', '/dirko/pyhacrf/issues/22']",[]
+1708,[],[],[]
+1703,[],[],"['/scikit-learn/scikit-learn/commit/f95dfe776314ea9e4b9bb31d7b49e7d0e470e0fb', '/scikit-learn/scikit-learn/commit/b880d46ade5dcbde2867d14945821a9311a23510']"
+1690,['/scikit-learn/scikit-learn/issues/1758'],[],[]
+1671,[],[],[]
+1659,['/scikit-learn/scikit-learn/issues/2088'],[],"['/scikit-learn/scikit-learn/commit/6c609f6e022f9e0a4241ee5233edd1f237b124bb', '/tjanez/scikit-learn/commit/fe8c2b9940bb4b70f64b056838bc91162fc06cbb', '/scikit-learn/scikit-learn/commit/d0022a6440b6c939b1e926ea81529c1c608ff428']"
+1658,[],[],[]
+1649,"['/scikit-learn/scikit-learn/issues/1967', '/scikit-learn/scikit-learn/issues/3105', '/scikit-learn/scikit-learn/issues/3523']",[],[]
+1641,[],[],[]
+1634,[],[],[]
+1632,['/scikit-learn/scikit-learn/issues/3435'],[],[]
+1630,[],[],['/scikit-learn/scikit-learn/commit/119cc2407f244b07722b0e884d42996fa8148a8d']
+1625,['/scikit-learn/scikit-learn/issues/1627'],[],[]
+1622,['/scikit-learn/scikit-learn/issues/2131'],[],['/scikit-learn/scikit-learn/commit/30eb78de8d1e7b25fb1a4b0d8c63afdcc972ee84']
+1621,['/scikit-learn/scikit-learn/issues/1638'],[],[]
+1617,['/scikit-learn/scikit-learn/issues/1682'],[],[]
+1615,['/scikit-learn/scikit-learn/issues/1584'],[],[]
+1602,[],[],"['/scikit-learn/scikit-learn/commit/cd16baf00444ae7697a289e385787ec46f23902a', '/scikit-learn/scikit-learn/commit/a9ee4e993082010c0ebabc8302cd2e6bffe1a389', '/scikit-learn/scikit-learn/commit/c0d4015d201b68e5da6afe4c7fb8b0e6819f038c', '/scikit-learn/scikit-learn/commit/5a2b047b98225f1653ffae3254e8a6a2e35f909c']"
+1593,[],[],[]
+1565,"['/scikit-learn/scikit-learn/issues/363', '/scikit-learn/scikit-learn/issues/2756', '/scikit-learn/scikit-learn/issues/2757']",['/EducationalTestingService/skll/issues/64'],['/scikit-learn/scikit-learn/commit/1357a19b96be90d16d434c1246eda33d8de03ccc']
+1555,[],[],[]
+1547,[],[],[]
+1533,"['/scikit-learn/scikit-learn/issues/1539', '/scikit-learn/scikit-learn/issues/1540', '/scikit-learn/scikit-learn/issues/1541', '/scikit-learn/scikit-learn/issues/1542', '/scikit-learn/scikit-learn/issues/1543', '/scikit-learn/scikit-learn/issues/1558']",[],[]
+1510,['/scikit-learn/scikit-learn/issues/1225'],[],['/scikit-learn/scikit-learn/commit/76c66a0dabe3aa064502c4f4e9f2962f007d1969']
+1509,[],[],[]
+1493,[],[],[]
+1492,[],[],[]
+1489,"['/scikit-learn/scikit-learn/issues/1491', '/scikit-learn/scikit-learn/issues/1600', '/scikit-learn/scikit-learn/issues/2752']",[],[]
+1481,[],[],[]
+1476,"['/scikit-learn/scikit-learn/issues/1501', '/scikit-learn/scikit-learn/issues/1587']",[],[]
+1472,[],[],[]
+1469,['/scikit-learn/scikit-learn/issues/3624'],[],[]
+1466,['/scikit-learn/scikit-learn/issues/1818'],[],"['/erg/scikit-learn/commit/6a47c6f2726134b7adbbb5daa1fb7a42caa2fb11', '/scikit-learn/scikit-learn/commit/6a47c6f2726134b7adbbb5daa1fb7a42caa2fb11']"
+1462,[],[],"['/erg/scikit-learn/commit/4367096d94688cefc1be4528cca0231d71f446c6', '/scikit-learn/scikit-learn/commit/489aab4eb7f9eae6c69a57496d7640a17fdd1a7b']"
+1461,['/scikit-learn/scikit-learn/issues/1470'],[],[]
+1455,[],[],[]
+1439,['/scikit-learn/scikit-learn/issues/1440'],[],[]
+1431,['/scikit-learn/scikit-learn/issues/1421'],[],[]
+1423,['/scikit-learn/scikit-learn/issues/2243'],[],[]
+1422,['/scikit-learn/scikit-learn/issues/1424'],[],[]
+1420,['/scikit-learn/scikit-learn/issues/1421'],[],[]
+1417,['/scikit-learn/scikit-learn/issues/1428'],[],['/scikit-learn/scikit-learn/commit/d454c13f9f6e82ccb962acc509e95447ded223e7']
+1414,[],"['/joblib/joblib/issues/51', '/joblib/joblib/issues/66']",[]
+1411,"['/scikit-learn/scikit-learn/issues/1439', '/scikit-learn/scikit-learn/issues/1476', '/scikit-learn/scikit-learn/issues/1485', '/scikit-learn/scikit-learn/issues/1489', '/scikit-learn/scikit-learn/issues/1491']",[],[]
+1407,['/scikit-learn/scikit-learn/issues/1430'],[],['/scikit-learn/scikit-learn/commit/eb64f1868234e500f2988f9dbf1305276e495fba']
+1406,"['/scikit-learn/scikit-learn/issues/1455', '/scikit-learn/scikit-learn/issues/1458']",[],[]
+1398,['/scikit-learn/scikit-learn/issues/1524'],[],[]
+1368,[],[],"['/erg/scikit-learn/commit/4650172d7d7923f3d60838a5c60945a601f8727c', '/scikit-learn/scikit-learn/commit/4bb41cbf1cc2096f7756ea69dfae7106797efbf4']"
+1349,[],[],[]
+1342,['/scikit-learn/scikit-learn/issues/1345'],[],[]
+1341,[],[],[]
+1336,[],[],['/scikit-learn/scikit-learn/commit/a3670c0fb40a1142693569dad3591cc9d0064ad0']
+1312,['/scikit-learn/scikit-learn/issues/2257'],[],['/scikit-learn/scikit-learn/commit/9d85c99fddc2f6d86d7dbe58b1e63388260246d6']
+1307,[],[],[]
+1303,[],[],[]
+1302,[],[],[]
+1301,[],[],[]
+1295,[],[],[]
+1278,['/scikit-learn/scikit-learn/issues/1280'],[],['/scikit-learn/scikit-learn/commit/eca762dd9b6088094b1c2cd15faffa59b15edf0c']
+1277,[],[],[]
+1268,[],[],['/scikit-learn/scikit-learn/pull/1268/commits/6430d228635996d6cc6253247853327996fe36e0']
+1260,['/scikit-learn/scikit-learn/issues/1318'],[],[]
+1257,"['/scikit-learn/scikit-learn/issues/1262', '/scikit-learn/scikit-learn/issues/1432', '/scikit-learn/scikit-learn/issues/1722']",[],[]
+1255,['/scikit-learn/scikit-learn/issues/1274'],[],[]
+1254,['/scikit-learn/scikit-learn/issues/1263'],[],[]
+1251,[],[],[]
+1240,[],[],[]
+1239,['/scikit-learn/scikit-learn/issues/1244'],[],"['/weilinear/scikit-learn/commit/623568fae7d44048c6194747f0a137fc9af03dff', '/scikit-learn/scikit-learn/commit/e09db85a68e860a75f646a6e7f19b8f0675c327b']"
+1233,"['/scikit-learn/scikit-learn/issues/4225', '/scikit-learn/scikit-learn/issues/4354']",[],[]
+1229,['/scikit-learn/scikit-learn/issues/1303'],[],[]
+1228,[],[],['/scikit-learn/scikit-learn/commit/27baaf33d5cd53a7c060d3b02cb78d7cc10e5182']
+1225,[],[],[]
+1222,['/scikit-learn/scikit-learn/issues/1308'],[],[]
+1216,[],[],[]
+1202,[],[],[]
+1192,['/scikit-learn/scikit-learn/issues/1191'],[],[]
+1177,[],[],[]
+1163,[],[],[]
+1160,['/scikit-learn/scikit-learn/issues/1315'],[],[]
+1158,[],[],[]
+1155,[],[],['/scikit-learn/scikit-learn/commit/c4d9e87522763230b06146c4deb2c5ad453deb6c']
+1153,[],[],['/scikit-learn/scikit-learn/commit/4062b3e4175ea90e611eb0b419781b47b6ee63d2']
+1142,[],[],[]
+1140,"['/scikit-learn/scikit-learn/issues/1170', '/scikit-learn/scikit-learn/issues/1732', '/scikit-learn/scikit-learn/issues/2476']",[],[]
+1139,['/scikit-learn/scikit-learn/issues/1214'],[],"['/scikit-learn/scikit-learn/commit/9987b61cf87aa8eeecd9c8e2fae6c29599892613', '/scikit-learn/scikit-learn/commit/121cb20c36ac685031fcf195d75bf2e4366bed87', '/yarikoptic/scikit-learn/commit/e8443db2c9b92a3da17ff05fa477214799708ead', '/yarikoptic/scikit-learn/commit/7e3353363f9ea25bf543a70bb94fe4124d64b65b', '/yarikoptic/scikit-learn/commit/8c4304fe87904d90842835dd8aa3cb92e3b4c19c']"
+1137,['/scikit-learn/scikit-learn/issues/1443'],[],[]
+1129,[],[],[]
+1127,[],[],"['/scikit-learn/scikit-learn/commit/cf778c0e205cbf2e48fd4c780caebd91eae3a8a9', '/scikit-learn/scikit-learn/commit/d65fae76dfd773732eb869cba1e268e9978f3040', '/yarikoptic/scikit-learn/commit/e8443db2c9b92a3da17ff05fa477214799708ead', '/yarikoptic/scikit-learn/commit/7e3353363f9ea25bf543a70bb94fe4124d64b65b', '/yarikoptic/scikit-learn/commit/8c4304fe87904d90842835dd8aa3cb92e3b4c19c']"
+1121,[],[],[]
+1119,[],[],"['/scikit-learn/scikit-learn/pull/1119/commits/b4041c33b8db9ec27114e616e8101f2e3027ae92', '/scikit-learn/scikit-learn/pull/1119/commits/70099dd40d8a4967c241c6a33b81df4590c21d53', '/scikit-learn/scikit-learn/pull/1119/commits/dfd2140d594aca0fd007c96900c70e875b6b0eef', '/scikit-learn/scikit-learn/pull/1119/commits/185d32693f6638e2c3fd3432476235093705fa90', '/scikit-learn/scikit-learn/pull/1119/commits/0c598727080781ea1cbc2b47af7fd6c0f97d4233', '/scikit-learn/scikit-learn/pull/1119/commits/63608c67ae3d51a7e4ab7ce7fbaf5b4f8615a0d5', '/scikit-learn/scikit-learn/pull/1119/commits/6a23fc81657f71599bf9dbab41837e8b78494cbe', '/scikit-learn/scikit-learn/pull/1119/commits/60c730d21e93652dedf8de8ab689c3f124be446a']"
+1114,['/scikit-learn/scikit-learn/issues/1119'],[],[]
+1113,[],[],[]
+1112,[],[],[]
+1104,[],[],['/scikit-learn/scikit-learn/pull/1104/commits/163dbe5d9876a48a9917f325bca317abc67f9d76']
+1099,['/scikit-learn/scikit-learn/issues/1349'],[],[]
+1098,[],[],"['/scikit-learn/scikit-learn/commit/c877742edeee905bf367c2b57e7dcaba9049c20c', '/scikit-learn/scikit-learn/commit/8b0219ac801a65e17c44298c6e7a230980d151c4', '/yarikoptic/scikit-learn/commit/e8443db2c9b92a3da17ff05fa477214799708ead', '/yarikoptic/scikit-learn/commit/7e3353363f9ea25bf543a70bb94fe4124d64b65b', '/yarikoptic/scikit-learn/commit/8c4304fe87904d90842835dd8aa3cb92e3b4c19c']"
+1085,"['/scikit-learn/scikit-learn/issues/1088', '/scikit-learn/scikit-learn/issues/2308']",[],[]
+1076,['/scikit-learn/scikit-learn/issues/918'],[],[]
+1059,['/scikit-learn/scikit-learn/issues/4224'],[],"['/scikit-learn/scikit-learn/commit/c763dead3485ec50d6f1108d591fea3a8ee81322', '/scikit-learn/scikit-learn/commit/8f13917525a99872cdfe2f5394428c2938ea6c51']"
+1054,['/scikit-learn/scikit-learn/issues/1104'],[],[]
+1027,['/scikit-learn/scikit-learn/issues/1305'],[],['/amueller/scikit-learn/commit/af101ccd10d39029ee4fa7d80688a239c166d339']
+1011,[],[],[]
+998,[],['/RaRe-Technologies/gensim/issues/92'],[]
+994,['/scikit-learn/scikit-learn/issues/1040'],[],[]
+965,"['/scikit-learn/scikit-learn/issues/2253', '/scikit-learn/scikit-learn/issues/2277']",[],[]
+960,"['/scikit-learn/scikit-learn/issues/961', '/scikit-learn/scikit-learn/issues/962']",[],[]
+919,"['/scikit-learn/scikit-learn/issues/1112', '/scikit-learn/scikit-learn/issues/4760']",[],['/amueller/scikit-learn/commit/00be69742587516078f88216f4be22b83fe070bd']
+918,"['/scikit-learn/scikit-learn/issues/920', '/scikit-learn/scikit-learn/issues/1076']",[],[]
+884,['/scikit-learn/scikit-learn/issues/1147'],[],"['/weilinear/scikit-learn/commit/979fc3a0a79e14d9debd22271638194ff0674045', '/scikit-learn/scikit-learn/commit/117177dc22f950ab6619faeb9bff7200ef6b4e4d']"
+871,"['/scikit-learn/scikit-learn/issues/1231', '/scikit-learn/scikit-learn/issues/1158']",[],[]
+870,"['/scikit-learn/scikit-learn/issues/871', '/scikit-learn/scikit-learn/issues/1231']",[],[]
+860,"['/scikit-learn/scikit-learn/issues/959', '/scikit-learn/scikit-learn/issues/946']",[],[]
+799,[],[],[]
+792,[],[],[]
+784,[],[],[]
+713,[],[],[]
+636,"['/scikit-learn/scikit-learn/issues/694', '/scikit-learn/scikit-learn/issues/1407', '/scikit-learn/scikit-learn/issues/1430', '/scikit-learn/scikit-learn/issues/2419', '/scikit-learn/scikit-learn/issues/2982', '/scikit-learn/scikit-learn/issues/5162', '/scikit-learn/scikit-learn/issues/5166']",[],"['/ogrisel/scikit-learn/commit/27ae71da7da444fdc88c6522ea5f32af705ba2ee', '/njwilson/scikit-learn/commit/84ea07dfab90eee2cbe2084519123d31e32babca', '/erg/scikit-learn/commit/eb64f1868234e500f2988f9dbf1305276e495fba', '/kmike/scikit-learn/commit/61d9c5ea46f6921a3fcec7da6dcfaa21f51da240']"
+604,"['/scikit-learn/scikit-learn/issues/1084', '/scikit-learn/scikit-learn/issues/2251']",[],[]
+598,[],[],[]
+584,['/scikit-learn/scikit-learn/issues/1117'],[],[]
+393,"['/scikit-learn/scikit-learn/issues/1275', '/scikit-learn/scikit-learn/issues/1294', '/scikit-learn/scikit-learn/issues/1567']",[],[]
+291,[],[],[]

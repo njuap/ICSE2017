@@ -1,0 +1,148 @@
+ref_issue,number,ref_time,ref_author,ref_comment,itype,close_author,close_time,close,close_type,related_pr,#comment,#participants,part_names
+dask/dask#1393,13731,2016-07-20 23:54:16,jcrist,2,pr,,,,,[],11,3,"['jcrist', 'danielballan', 'mrocklin']"
+numpy/numpy#7854,13717,2016-07-20 21:06:01,flatberg,0,issue,,,,,['#7857'],13,5,"['flatberg', 'rkern', 'njsmith', 'seberg', 'gfyoung']"
+numpy/numpy#7857,13717,2016-07-21 07:12:28,gfyoung,0,pr,,,,,[],19,5,"['gfyoung', 'seberg', 'bashtage', 'njsmith', 'rkern']"
+dask/dask#1174,13267,2016-05-24 13:01:52,jreback,9,issue,jcrist,2016-07-20T20:49:45Z,,close,[],12,4,"['davclark', 'mrocklin', 'jreback', 'jcrist']"
+matplotlib/matplotlib#6365,13131,2016-05-23 19:16:12,tacaswell,12,issue,tacaswell,2016-05-23T19:16:12Z,,close,['#6409'],13,4,"['Puggie', 'tacaswell', 'jreback', 'QuLogic']"
+matplotlib/matplotlib#6392,13114,,,,pr,,,,,[],4,3,"['tacaswell', 'WeatherGod', 'mdboom']"
+dask/dask#1063,12723,2016-03-28 15:58:47,jcrist,4,issue,jcrist,2016-03-29T21:11:34Z,,close,[],6,3,"['thequackdaddy', 'jcrist', 'jreback']"
+numpy/numpy#7163,12196,,,,issue,jreback,2016-02-01T21:21:06Z,,close,[],3,2,"['jreback', 'charris']"
+nilmtk/nilmtk#471,12089,2016-01-19 10:05:38,JackKelly,13,issue,JackKelly,2016-01-27T13:06:05Z,,close,[],20,3,"['jhyun0919', 'nipunbatra', 'JackKelly']"
+matplotlib/matplotlib#6392,11858,2016-05-09 22:13:13,tacaswell,0,pr,,,,,[],4,3,"['tacaswell', 'WeatherGod', 'mdboom']"
+matplotlib/matplotlib#5550,11858,,,,issue,tacaswell,2016-01-01T21:57:32Z,2f73778,close,['#5556'],17,5,"['arc-jim', '8one6', 'tacaswell', 'TomAugspurger', 'efiring']"
+dask/dask#954,11790,2016-02-04 15:17:28,TomAugspurger,1,issue,user32000,2016-02-04T15:25:35Z,,close,[],4,3,"['user32000', 'TomAugspurger', 'mrocklin']"
+dask/dask#841,11790,2016-01-12 04:45:51,mrocklin,5,issue,mrocklin,2016-01-22T16:07:27Z,,close,[],22,5,"['mrocklin', 'jesaerys', 'TobyRoseman', 'jreback', 'rparrapy']"
+dask/dask#860,11790,2015-12-07 18:59:37,jreback,9,issue,mrocklin,2016-02-02T22:07:41Z,,close,[],14,4,"['drdangersimon', 'mrocklin', 'jreback', 'jcrist']"
+dask/dask#888,11790,2015-12-23 03:52:22,mrocklin,4,issue,mrocklin,2016-01-22T16:03:34Z,,close,[],15,4,"['sscondie', 'jcrist', 'mrocklin', 'QCaudron']"
+dask/dask#860,11786,2015-12-07 16:13:05,mrocklin,8,issue,mrocklin,2016-02-02T22:07:41Z,,close,[],14,4,"['drdangersimon', 'mrocklin', 'jreback', 'jcrist']"
+dask/dask#888,11786,2015-12-23 03:52:22,mrocklin,4,issue,mrocklin,2016-01-22T16:03:34Z,,close,[],15,4,"['sscondie', 'jcrist', 'mrocklin', 'QCaudron']"
+jvns/neural-nets-are-weird#6,11727,2016-01-02 18:14:29,DEKHTIARJonathan,0,pr,,,,,[],1,1,['DEKHTIARJonathan']
+nilmtk/nilmtk#450,11626,2015-11-17 13:14:14,JackKelly,7,issue,nipunbatra,2016-01-09T13:25:04Z,,close,[],12,5,"['athenawisdoms', 'nipunbatra', 'JackKelly', 'jingkungao', 'oliparson']"
+,,,,,,,,,,,,,
+blaze/odo#331,11245,2015-10-05 18:53:52,llllllllll,0,pr,,,,,[],1,1,['llllllllll']
+numpy/numpy#4366,11189,,,,pr,,,,,[],17,6,"['jaimefrio', 'juliantaylor', 'charris', 'seberg', 'matthew-brett', 'rgommers']"
+numpy/numpy#6238,10887,,,,issue,,,,,[],4,2,"['kawochen', 'jaimefrio']"
+dask/dask#587,10826,2015-08-18 13:02:25,sinhrks,2,pr,,,,,[],5,2,"['sinhrks', 'mrocklin']"
+dask/dask#558,10679,,,,pr,,,,,[],2,2,"['sinhrks', 'mrocklin']"
+dask/dask#760,10672,2015-09-28 09:20:01,rabernat,0,issue,mrocklin,2015-10-01T14:38:59Z,#762,close,['#762'],7,5,"['rabernat', 'cowlicks', 'mrocklin', 'shoyer', 'sinhrks']"
+biocore/scikit-bio#1023,10648,,,,pr,,,,,[],42,5,"['RNAer', 'ebolyen', 'jairideout', 'MikeDeberg', 'anderspitman']"
+biocore/scikit-bio#1023,10560,,,,pr,,,,,[],42,5,"['RNAer', 'ebolyen', 'jairideout', 'MikeDeberg', 'anderspitman']"
+etal/cnvkit#108,10508,,,,pr,,,,,['#107'],3,3,"['mpschr', 'etal', 'codecov-io']"
+bokeh/bokeh#3772,10505,2016-01-28 12:40:02,chbrandt,0,issue,,,,,[],14,4,"['chbrandt', 'bryevdv', 'fpliger', 'damianavila']"
+etal/cnvkit#108,10505,,,,pr,,,,,['#107'],3,3,"['mpschr', 'etal', 'codecov-io']"
+adamhajari/spyre#24,10344,2015-06-13 02:54:15,sinhrks,1,issue,adamhajari,2015-06-29T15:43:11Z,,close,[],5,2,"['sinhrks', 'adamhajari']"
+,,,,,,,,,,,,,
+PyTables/PyTables#409,9676,2015-03-18 23:30:40,alexfields,4,issue,FrancescAlted,2015-04-18T18:55:31Z,,close,['#489'],6,4,"['guziy', 'alexfields', 'FrancescAlted', 'avalentino']"
+PyTables/PyTables#319,9676,,,,issue,FrancescAlted,2015-04-18T18:54:56Z,,close,"['#489', '#506']",11,6,"['jreback', 'CarstVaartjes', 'scopatz', 'rockg', 'FrancescAlted', 'avalentino']"
+PyTables/PyTables#441,9676,2015-04-29 18:09:47,FrancescAlted,0,issue,FrancescAlted,2015-04-29T18:27:15Z,,close,[],4,2,"['FrancescAlted', 'andreabedini']"
+numpy/numpy#1063,9670,,,,issue,numpy-gitbot,2012-10-19T18:53:04Z,,close,[],3,1,['numpy-gitbot']
+numpy/numpy#4694,9670,,,,issue,njsmith,2014-05-10T14:50:08Z,,close,[],8,4,"['Lysovenko', 'njsmith', 'charris', 'argriffing']"
+numpy/numpy#2448,9670,,,,issue,charris,2014-02-20T18:53:23Z,,close,"['#4694', '#6230']",11,5,"['numpy-gitbot', 'cdeil', 'njsmith', 'kyleabeauchamp', 'charris']"
+numpy/numpy#1033,9670,,,,issue,numpy-gitbot,2012-10-19T18:51:35Z,,close,[],2,1,['numpy-gitbot']
+numpy/numpy#5562,9276,2015-02-12 04:23:38,shoyer,0,issue,,,,,[],2,2,"['shoyer', 'nigeil']"
+jmcnamara/XlsxWriter#204,9167,2014-12-30 16:50:07,jmcnamara,5,issue,jmcnamara,2014-12-30T16:50:13Z,,close,[],8,2,"['drorata', 'jmcnamara']"
+jmcnamara/XlsxWriter#207,9139,2015-01-03 12:52:45,jmcnamara,1,issue,jmcnamara,2015-01-21T17:00:02Z,,close,[],4,2,"['rschell', 'jmcnamara']"
+marians/openweather#9,9139,2014-12-24 09:18:35,scls19fr,3,issue,,,,,[],4,2,"['scls19fr', 'marians']"
+bokeh/bokeh#1556,9079,2014-12-16 00:36:04,jreback,5,issue,damianavila,2014-12-16T02:37:19Z,,close,['#1558'],7,3,"['damianavila', 'bryevdv', 'jreback']"
+neurokernel/neurokernel#28,9075,2014-12-14 19:56:21,lebedov,0,issue,lebedov,2014-12-15T15:41:21Z,,close,[],2,1,['lebedov']
+dateutil/dateutil#5,9047,2014-12-10 07:21:21,jarondl,0,issue,,,,,[],6,3,"['jarondl', 'jreback', 'pganssle']"
+,,,,,,,,,,,,,
+nilmtk/nilmtk#246,8951,2014-12-01 13:08:06,JackKelly,5,issue,JackKelly,2014-12-01T13:08:06Z,,close,[],6,2,"['nipunbatra', 'JackKelly']"
+numpy/numpy#5326,8929,,,,pr,,,,,"['#5647', '#4660']",2,2,"['cournape', 'charris']"
+nilmtk/nilmtk#246,8890,2014-12-01 13:08:06,JackKelly,5,issue,JackKelly,2014-12-01T13:08:06Z,,close,[],6,2,"['nipunbatra', 'JackKelly']"
+numpy/numpy#4102,8846,,,,pr,,,,,"['#4132', '#5611']",4,2,"['seberg', 'charris']"
+numpy/numpy#5246,8658,,,,issue,,,,,[],3,2,"['immerrr', 'seberg']"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+dask/dask#1174,8287,2016-05-24 01:40:24,jreback,6,issue,jcrist,2016-07-20T20:49:45Z,,close,[],12,4,"['davclark', 'mrocklin', 'jreback', 'jcrist']"
+PyTables/PyTables#409,8265,2015-03-18 23:30:40,alexfields,4,issue,FrancescAlted,2015-04-18T18:55:31Z,,close,['#489'],6,4,"['guziy', 'alexfields', 'FrancescAlted', 'avalentino']"
+PyTables/PyTables#319,8265,,,,issue,FrancescAlted,2015-04-18T18:54:56Z,,close,"['#489', '#506']",11,6,"['jreback', 'CarstVaartjes', 'scopatz', 'rockg', 'FrancescAlted', 'avalentino']"
+,,,,,,,,,,,,,
+matplotlib/matplotlib#3569,8240,2014-09-27 00:48:17,onesandzeroes,1,issue,,,,,['#3571'],4,2,"['tacaswell', 'onesandzeroes']"
+matplotlib/matplotlib#3571,8240,,,,pr,,,,,[],1,2,"['tacaswell', 'mdboom']"
+biocore/scikit-bio#700,8240,2014-10-06 23:33:54,jairideout,0,pr,,,,,[],2,2,"['jairideout', 'gregcaporaso']"
+quantopian/pyfolio#119,8165,2015-08-14 09:06:36,twiecki,1,pr,,,,,['#111'],5,2,"['twiecki', 'gusgordon']"
+pydata/patsy#47,8007,,,,pr,,,,,['#59'],29,6,"['janschulz', 'josef-pkt', 'njsmith', 'coveralls', 'hmgaudecker', 'kousu']"
+statsmodels/statsmodels#1884,8007,,,,pr,,,,,[],4,3,"['janschulz', 'coveralls', 'josef-pkt']"
+blaze/blaze#458,7929,2014-08-12 19:24:44,cpcloud,14,issue,mrocklin,2014-09-24T01:19:12Z,,close,[],21,6,"['mrocklin', 'talumbau', 'aterrel', 'chdoig', 'cpcloud', 'mwiebe']"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+numpy/numpy#4779,7332,2014-06-04 19:09:23,jreback,0,issue,,,,,[],3,3,"['jreback', 'juliantaylor', 'charris']"
+ulmo-dev/ulmo#88,7284,2014-06-04 15:06:34,wilsaj,0,issue,wilsaj,2015-01-05T20:37:49Z,a5c1ede,close,[],6,4,"['wilsaj', 'rockg', 'rsignell-usgs', 'dharhas']"
+statsmodels/statsmodels#1762,7284,2014-06-16 08:29:11,detzom,1,issue,josef-pkt,2014-06-16T12:34:43Z,,close,[],3,2,"['detzom', 'josef-pkt']"
+kwgoodman/bottleneck#83,6915,2014-04-24 14:17:47,jreback,0,issue,kwgoodman,2014-07-08T22:04:36Z,,close,[],7,2,"['jreback', 'kwgoodman']"
+numpy/numpy#4638,6915,2014-04-24 13:17:07,jreback,0,issue,charris,2014-04-24T14:32:54Z,,close,[],7,3,"['jreback', 'seberg', 'charris']"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+numpy/numpy#4328,6410,2014-02-19 15:14:24,jreback,0,issue,juliantaylor,2014-02-19T17:41:42Z,#4329,close,"['#4329', '#4384']",14,3,"['jreback', 'seberg', 'rgommers']"
+,,,,,,,,,,,,,
+ContinuumIO/ArrayManagement#7,6313,2014-04-07 23:06:32,hhuuggoo,0,pr,quasiben,2014-04-09T14:13:53Z,1d774f3,merge,[],4,3,"['hhuuggoo', 'jreback', 'quasiben']"
+jreback/pandas#8,6259,,,,pr,jreback,2014-02-05T01:39:14Z,4321ef0,merge,[],2,2,"['TomAugspurger', 'jreback']"
+statsmodels/statsmodels#1377,6254,2014-02-08 16:55:13,juliantaylor,1,issue,jseabold,2014-02-20T21:27:52Z,10079a8,close,['#1387'],3,2,"['juliantaylor', 'josef-pkt']"
+wabu/pandas#1,6166,2014-02-13 23:45:21,jreback,0,pr,,,,,[],1,2,"['jreback', 'wabu']"
+numpy/numpy#2485,6166,,,,issue,seberg,2013-12-16T23:22:58Z,,close,['#3270'],11,3,"['numpy-gitbot', 'kolesman', 'seberg']"
+,,,,,,,,,,,,,
+numpy/numpy#4250,6136,2014-01-31 21:49:46,y-p,0,issue,y-p,2014-02-04T04:47:22Z,,close,[],12,4,"['y-p', 'juliantaylor', 'rgommers', 'charris']"
+PyTables/PyTables#328,5999,2014-01-19 19:41:13,jreback,0,issue,FrancescAlted,2015-04-27T09:34:18Z,,close,[],9,4,"['jreback', 'avalentino', 'andreabedini', 'FrancescAlted']"
+python-excel/xlrd#78,5945,2014-01-18 18:19:36,jmcnamara,0,pr,,,,,[],2,2,"['jmcnamara', 'cjw296']"
+PyTables/PyTables#319,5913,2014-01-13 16:41:42,jreback,0,issue,FrancescAlted,2015-04-18T18:54:56Z,,close,"['#489', '#506']",11,6,"['jreback', 'CarstVaartjes', 'scopatz', 'rockg', 'FrancescAlted', 'avalentino']"
+,,,,,,,,,,,,,
+nilmtk/nilmtk#83,5862,,,,issue,JackKelly,2014-07-12T02:42:09Z,,close,[],2,1,['JackKelly']
+numpy/numpy#3243,5824,,,,pr,charris,2013-06-09T15:11:02Z,558cd20,merge,[],17,3,"['seberg', 'charris', 'rgommers']"
+,,,,,,,,,,,,,
+yhat/ggplot#118,5652,2013-12-06 17:17:49,janschulz,6,issue,glamp,2013-12-09T23:21:29Z,#120,close,['#120'],12,2,"['ericchiang', 'janschulz']"
+quantopian/zipline#243,5637,,,,issue,,,,,[],3,2,"['jikamens', 'ehebert']"
+PyTables/PyTables#282,5635,,,,issue,scopatz,2014-01-06T02:19:33Z,#313,close,"['#301', '#313']",12,5,"['jreback', 'scopatz', 'andreabedini', 'CarstVaartjes', 'FrancescAlted']"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+matplotlib/matplotlib#2356,5517,,,,issue,dmcdougall,2013-08-31T22:56:25Z,,close,['#2357'],2,2,"['ChrisBeaumont', 'dmcdougall']"
+matplotlib/matplotlib#2357,5517,,,,pr,,,,,"['#2356', '#3118']",4,3,"['ChrisBeaumont', 'mdboom', 'dmcdougall']"
+PyTables/PyTables#282,5476,,,,issue,scopatz,2014-01-06T02:19:33Z,#313,close,"['#301', '#313']",12,5,"['jreback', 'scopatz', 'andreabedini', 'CarstVaartjes', 'FrancescAlted']"
+,,,,,,,,,,,,,
+matplotlib/matplotlib#2419,4789,,,,issue,cpcloud,2013-09-13T12:30:27Z,,close,[],3,1,['cpcloud']
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+joblib/joblib#183,4533,2015-01-27 11:48:05,mangecoeur,0,issue,GaelVaroquaux,2015-03-17T07:57:40Z,,close,[],4,3,"['mangecoeur', 'lesteve', 'GaelVaroquaux']"
+,,,,,,,,,,,,,
+numpy/numpy#3270,4405,,,,pr,,,,,"['#3398', '#2485']",6,3,"['jayvius', 'charris', 'seberg']"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+numpy/numpy#1611,3781,,,,issue,,,,,[],12,7,"['thouis', 'hayd', 'njsmith', 'charris', 'ewmoore', 'danielballan', 'juliantaylor']"
+PyTables/PyTables#265,3750,,,,issue,avalentino,2013-06-29T11:30:33Z,,close,[],17,3,"['jreback', 'scopatz', 'avalentino']"
+,,,,,,,,,,,,,
+eike-welk/clair#45,3593,2013-05-14 04:07:41,eike-welk,0,issue,,,,,[],1,1,['eike-welk']
+eike-welk/clair#43,3593,2013-05-13 10:26:45,eike-welk,0,issue,eike-welk,2013-05-13T23:45:48Z,,close,[],1,1,['eike-welk']
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+numpy/numpy#3001,2892,2013-02-18 20:42:43,stephenwlin,0,issue,charris,2013-02-25T02:01:03Z,,close,['#3002'],3,3,"['stephenwlin', 'seberg', 'charris']"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+luca-dex/pyTSA#18,2733,2013-12-30 00:52:32,luca-dex,0,issue,luca-dex,2013-12-30T00:56:14Z,#19,close,['#19'],1,1,['luca-dex']
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+dask/dask#739,2298,2015-09-21 22:18:39,cowlicks,2,pr,,,,,['#601'],8,3,"['cowlicks', 'mrocklin', 'sinhrks']"
+numpy/numpy#2704,2096,,,,issue,seberg,2013-05-11T15:43:56Z,,close,[],8,4,"['wesm', 'njsmith', 'seberg', 'mrshu']"
+numpy/numpy#459,1968,,,,pr,,,,,"['#396', '#2842']",6,3,"['jseabold', 'njsmith', 'certik']"
+kwgoodman/bottleneck#50,1840,2012-09-04 18:37:35,erg,0,issue,kwgoodman,2012-09-06T19:28:19Z,,close,[],22,2,"['erg', 'kwgoodman']"
+,,,,,,,,,,,,,
+statsmodels/statsmodels#226,1055,,,,issue,jseabold,2012-06-07T02:25:48Z,d61c8cb,close,['#259'],6,3,"['cdeil', 'wesm', 'jseabold']"
+statsmodels/statsmodels#259,1055,,,,pr,,,,,['#168'],2,2,"['wesm', 'jseabold']"
+statsmodels/statsmodels#168,866,,,,issue,jseabold,2012-06-07T02:31:10Z,,close,[],4,2,"['jseabold', 'wesm']"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+PyTables/PyTables#151,626,2012-05-07 15:00:32,wesm,0,issue,,,,,[],9,3,"['wesm', 'scopatz', 'avalentino']"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
