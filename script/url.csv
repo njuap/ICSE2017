@@ -1,8 +1,2 @@
 url,bug_label
-https://github.com/numpy/numpy,11 - Bug
-https://github.com/scipy/scipy,defect
-https://github.com/astropy/astropy,Bug
-https://github.com/ipython/ipython,bug
-https://github.com/pydata/pandas,Bug
-https://github.com/matplotlib/matplotlib,confirmed 
-https://github.com/scikit-learn/scikit-learn,Bug
+https://github.com/rails/rails,No
