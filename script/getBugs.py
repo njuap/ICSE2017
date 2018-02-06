@@ -159,7 +159,7 @@ def get_comments(issue):
 
 
 def get_participants(soup):
-    participants = soup.select('div[id="partial-users-participants"] h3[class="discussion-sidebar-heading"]')
+    participants = soup.select('div[id="partial-users-participants"] div[class^="discussion-sidebar-heading"]')
     npart = re.findall(r'(\w*[0-9]+)\w*',participants[0].get_text())[0]
     names = []
     parts = soup.select('div[class="participation-avatars"] a[class$="tooltipped-n"]')
